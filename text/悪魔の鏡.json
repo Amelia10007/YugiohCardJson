@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"闇","defence":"600","description":"鏡に映るものに催眠術をかけ攻撃をよける悪魔の鏡。","kinds":[{"kind":"通常"}],"level":2,"name":"悪魔の鏡","pronunciation":"デーモンズミラー","race":"悪魔"}
+{
+ "attack": "ATK 700",
+ "attribute": "闇",
+ "defence": "DEF 600",
+ "description": "鏡に映るものに催眠術をかけ攻撃をよける悪魔の鏡。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "悪魔の鏡",
+ "pronunciation": "デーモンズミラー",
+ "race": "悪魔"
+}

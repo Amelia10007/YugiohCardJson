@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1500","description":"かたい体で守ることが得意。半端な攻撃は、はじき返す。","kinds":[{"kind":"通常"}],"level":4,"name":"グリフォール","pronunciation":"グリフォール","race":"獣"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "かたい体で守ることが得意。半端な攻撃は、はじき返す。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "グリフォール",
+ "pronunciation": "グリフォール",
+ "race": "獣"
+}

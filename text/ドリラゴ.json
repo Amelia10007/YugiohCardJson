@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"闇","defence":"1100","description":"相手フィールド上に攻撃力１６００以上の表側表示モンスターしか存在しない場合、このモンスターは相手プレイヤーに直接攻撃をする事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"ドリラゴ","pronunciation":"ドリラゴ","race":"機械"}
+{
+ "attack": "ATK 1600",
+ "attribute": "闇",
+ "defence": "DEF 1100",
+ "description": "相手フィールド上に攻撃力１６００以上の表側表示モンスターしか存在しない場合、このモンスターは相手プレイヤーに直接攻撃をする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ドリラゴ",
+ "pronunciation": "ドリラゴ",
+ "race": "機械"
+}

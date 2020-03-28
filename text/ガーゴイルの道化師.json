@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"闇","defence":"500","description":"このカードが召喚・反転召喚・特殊召喚された時、対象の表側表示モンスター１体の表示形式を変更する。","kinds":[{"kind":"効果"}],"level":2,"name":"ガーゴイルの道化師","pronunciation":"ガーゴイルノドウケシ","race":"悪魔"}
+{
+ "attack": "ATK 800",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "このカードが召喚・反転召喚・特殊召喚された時、対象の表側表示モンスター１体の表示形式を変更する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ガーゴイルの道化師",
+ "pronunciation": "ガーゴイルノドウケシ",
+ "race": "悪魔"
+}

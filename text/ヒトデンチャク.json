@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"水","defence":"700","description":"汚染された水で凶暴化したヒトデ。口から溶解液をはく。","kinds":[{"kind":"通常"}],"level":2,"name":"ヒトデンチャク","pronunciation":"ヒトデンチャク","race":"水"}
+{
+ "attack": "ATK 600",
+ "attribute": "水",
+ "defence": "DEF 700",
+ "description": "汚染された水で凶暴化したヒトデ。口から溶解液をはく。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ヒトデンチャク",
+ "pronunciation": "ヒトデンチャク",
+ "race": "水"
+}

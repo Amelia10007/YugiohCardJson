@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"地","defence":"1200","description":"嫌な笑みを浮かべた悪魔。手にするカマで、器用に攻撃をかわす。","kinds":[{"kind":"通常"}],"level":3,"name":"ウッド・ジョーカー","pronunciation":"ウッド・ジョーカー","race":"戦士"}
+{
+ "attack": "ATK 800",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "嫌な笑みを浮かべた悪魔。手にするカマで、器用に攻撃をかわす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ウッド・ジョーカー",
+ "pronunciation": "ウッド・ジョーカー",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"300","description":"フィールド上に存在するこのカードがカードの効果によって破壊され墓地へ送られた時、自分のデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":1,"name":"ダークシー・フロート","pronunciation":"ダークシー・フロート","race":"機械"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 300",
+ "description": "フィールド上に存在するこのカードがカードの効果によって破壊され墓地へ送られた時、自分のデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "ダークシー・フロート",
+ "pronunciation": "ダークシー・フロート",
+ "race": "機械"
+}

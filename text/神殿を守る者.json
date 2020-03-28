@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"地","defence":"1900","description":"このカードがフィールド上に表側表示で存在する限り、相手プレイヤーはドローフェイズ以外ではカードをドローする事ができない。","kinds":[{"kind":"効果"}],"level":4,"name":"神殿を守る者","pronunciation":"シンデンヲマモルモノ","race":"悪魔"}
+{
+ "attack": "ATK 1100",
+ "attribute": "地",
+ "defence": "DEF 1900",
+ "description": "このカードがフィールド上に表側表示で存在する限り、相手プレイヤーはドローフェイズ以外ではカードをドローする事ができない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "神殿を守る者",
+ "pronunciation": "シンデンヲマモルモノ",
+ "race": "悪魔"
+}

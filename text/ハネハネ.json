@@ -1,1 +1,15 @@
-{"attack":"450","attribute":"地","defence":"500","description":"リバース：フィールド上のモンスターを１体選択し、持ち主の手札に戻す。","kinds":[{"kind":"効果"}],"level":2,"name":"ハネハネ","pronunciation":"ハネハネ","race":"獣"}
+{
+ "attack": "ATK 450",
+ "attribute": "地",
+ "defence": "DEF 500",
+ "description": "リバース：フィールド上のモンスターを１体選択し、持ち主の手札に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ハネハネ",
+ "pronunciation": "ハネハネ",
+ "race": "獣"
+}

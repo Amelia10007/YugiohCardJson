@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"1400","description":"岩石が集まってできたゴーレム。相手を石化して破壊する。　","kinds":[{"kind":"通常"}],"level":3,"name":"ウォー・アース","pronunciation":"ウォー・アース","race":"岩石"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "岩石が集まってできたゴーレム。相手を石化して破壊する。　",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ウォー・アース",
+ "pronunciation": "ウォー・アース",
+ "race": "岩石"
+}

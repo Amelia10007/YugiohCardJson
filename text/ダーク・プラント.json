@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"闇","defence":"400","description":"汚染された土と闇の力で育てられた花。とても凶暴。","kinds":[{"kind":"通常"}],"level":1,"name":"ダーク・プラント","pronunciation":"ダーク・プラント","race":"植物"}
+{
+ "attack": "ATK 300",
+ "attribute": "闇",
+ "defence": "DEF 400",
+ "description": "汚染された土と闇の力で育てられた花。とても凶暴。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "ダーク・プラント",
+ "pronunciation": "ダーク・プラント",
+ "race": "植物"
+}

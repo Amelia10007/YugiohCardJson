@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"1700","description":"このカードが戦闘によって墓地に送られた時、コイントスで裏表を当てる。当たった場合、相手モンスター１体を破壊する。","kinds":[{"kind":"効果"}],"level":4,"name":"クルーエル","pronunciation":"クルーエル","race":"悪魔"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 1700",
+ "description": "このカードが戦闘によって墓地に送られた時、コイントスで裏表を当てる。当たった場合、相手モンスター１体を破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "クルーエル",
+ "pronunciation": "クルーエル",
+ "race": "悪魔"
+}

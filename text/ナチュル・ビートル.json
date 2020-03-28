@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"地","defence":"1800","description":"魔法カードが発動される度に、このカードの元々の攻撃力・守備力を入れ替える。","kinds":[{"kind":"効果"}],"level":4,"name":"ナチュル・ビートル","pronunciation":"ナチュル・ビートル","race":"昆虫"}
+{
+ "attack": "ATK 400",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "魔法カードが発動される度に、このカードの元々の攻撃力・守備力を入れ替える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ナチュル・ビートル",
+ "pronunciation": "ナチュル・ビートル",
+ "race": "昆虫"
+}

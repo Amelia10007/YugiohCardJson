@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"地","defence":"500","description":"古代王の墓の中にある宝物を守る土人形。","kinds":[{"kind":"通常"}],"level":2,"name":"はにわ","pronunciation":"ハニワ","race":"岩石"}
+{
+ "attack": "ATK 500",
+ "attribute": "地",
+ "defence": "DEF 500",
+ "description": "古代王の墓の中にある宝物を守る土人形。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "はにわ",
+ "pronunciation": "ハニワ",
+ "race": "岩石"
+}

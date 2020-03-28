@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"炎","defence":"1500","description":"リバース：自分の手札を２枚ランダムに選択しゲームから除外する。相手ライフに８００ポイントダメージを与える。","kinds":[{"kind":"効果"}],"level":4,"name":"ファイヤーソーサラー","pronunciation":"ファイヤーソーサラー","race":"魔法使い"}
+{
+ "attack": "ATK 1000",
+ "attribute": "炎",
+ "defence": "DEF 1500",
+ "description": "リバース：自分の手札を２枚ランダムに選択しゲームから除外する。相手ライフに８００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ファイヤーソーサラー",
+ "pronunciation": "ファイヤーソーサラー",
+ "race": "魔法使い"
+}

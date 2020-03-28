@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"闇","defence":"800","description":"この世の成仏できない霊が集まってできた怨霊。","kinds":[{"kind":"通常"}],"level":2,"name":"ゴースト","pronunciation":"ゴースト","race":"アンデット"}
+{
+ "attack": "ATK 600",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "この世の成仏できない霊が集まってできた怨霊。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ゴースト",
+ "pronunciation": "ゴースト",
+ "race": "アンデット"
+}

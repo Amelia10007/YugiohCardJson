@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"水","defence":"2000","description":"いつの日か自由を手にする事ができると信じて日々の生活に耐えている。","kinds":[{"kind":"通常"}],"level":1,"name":"弾圧される民","pronunciation":"ダンアツサレルタミ","race":"水"}
+{
+ "attack": "ATK 400",
+ "attribute": "水",
+ "defence": "DEF 2000",
+ "description": "いつの日か自由を手にする事ができると信じて日々の生活に耐えている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "弾圧される民",
+ "pronunciation": "ダンアツサレルタミ",
+ "race": "水"
+}

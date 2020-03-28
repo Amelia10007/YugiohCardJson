@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"炎","defence":"2100","description":"高い守備能力を誇るサイボーグ。元々はフットボールマシンとして開発されたという。","kinds":[{"kind":"通常"}],"level":4,"name":"バトルフットボーラー","pronunciation":"バトルフットボーラー","race":"機械"}
+{
+ "attack": "ATK 1000",
+ "attribute": "炎",
+ "defence": "DEF 2100",
+ "description": "高い守備能力を誇るサイボーグ。元々はフットボールマシンとして開発されたという。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "バトルフットボーラー",
+ "pronunciation": "バトルフットボーラー",
+ "race": "機械"
+}

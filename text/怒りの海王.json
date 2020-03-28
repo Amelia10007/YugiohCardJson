@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"水","defence":"700","description":"偉大な海の王。終ることのない大津波を呼び敵を飲み込む。","kinds":[{"kind":"通常"}],"level":3,"name":"怒りの海王","pronunciation":"イカリノカイオウ","race":"水"}
+{
+ "attack": "ATK 800",
+ "attribute": "水",
+ "defence": "DEF 700",
+ "description": "偉大な海の王。終ることのない大津波を呼び敵を飲み込む。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "怒りの海王",
+ "pronunciation": "イカリノカイオウ",
+ "race": "水"
+}

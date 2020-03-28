@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"地","defence":"800","description":"リバース：「融合」によって自分の墓地へ送られた融合素材モンスター２体を手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"物資調達員","pronunciation":"ブッシチョウタツイン","race":"戦士"}
+{
+ "attack": "ATK 1300",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "リバース：「融合」によって自分の墓地へ送られた融合素材モンスター２体を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "物資調達員",
+ "pronunciation": "ブッシチョウタツイン",
+ "race": "戦士"
+}

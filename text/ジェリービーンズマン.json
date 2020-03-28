@@ -1,1 +1,15 @@
-{"attack":"1750","attribute":"地","defence":"0","description":"ジェリーという名の豆戦士。自分が世界最強の戦士だと信じ込んでいるが、その実力は定かではない。","kinds":[{"kind":"通常"}],"level":3,"name":"ジェリービーンズマン","pronunciation":"ジェリービーンズマン","race":"植物"}
+{
+ "attack": "ATK 1750",
+ "attribute": "地",
+ "defence": "DEF 0",
+ "description": "ジェリーという名の豆戦士。自分が世界最強の戦士だと信じ込んでいるが、その実力は定かではない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ジェリービーンズマン",
+ "pronunciation": "ジェリービーンズマン",
+ "race": "植物"
+}

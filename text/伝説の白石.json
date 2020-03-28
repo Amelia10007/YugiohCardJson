@@ -1,1 +1,18 @@
-{"attack":"300","attribute":"光","defence":"250","description":"このカードが墓地へ送られた時、自分のデッキから「青眼の白龍」１体を手札に加える。","kinds":[{"kind":"効果"},{"kind":"チューナー"}],"level":1,"name":"伝説の白石","pronunciation":"ホワイトオブレジェンド","race":"ドラゴン"}
+{
+ "attack": "ATK 300",
+ "attribute": "光",
+ "defence": "DEF 250",
+ "description": "このカードが墓地へ送られた時、自分のデッキから「青眼の白龍」１体を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 1,
+ "name": "伝説の白石",
+ "pronunciation": "ホワイトオブレジェンド",
+ "race": "ドラゴン"
+}

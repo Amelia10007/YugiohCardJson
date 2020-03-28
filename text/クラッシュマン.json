@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"地","defence":"1800","description":"意外に素早く動き回り、丸まって体当たりをしてくる。","kinds":[{"kind":"通常"}],"level":5,"name":"クラッシュマン","pronunciation":"クラッシュマン","race":"獣"}
+{
+ "attack": "ATK 1600",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "意外に素早く動き回り、丸まって体当たりをしてくる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "クラッシュマン",
+ "pronunciation": "クラッシュマン",
+ "race": "獣"
+}

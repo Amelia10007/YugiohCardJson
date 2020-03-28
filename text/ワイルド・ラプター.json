@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"800","description":"走ることが得意な恐竜。鋭いかぎづめで攻撃する。","kinds":[{"kind":"通常"}],"level":4,"name":"ワイルド・ラプター","pronunciation":"ワイルド・ラプター","race":"恐竜"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "走ることが得意な恐竜。鋭いかぎづめで攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ワイルド・ラプター",
+ "pronunciation": "ワイルド・ラプター",
+ "race": "恐竜"
+}

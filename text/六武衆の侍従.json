@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"地","defence":"2000","description":"六武衆を陰で支える謎多き人物。今はもう闘う事はないが、体に刻まれた無数の傷跡が何かを語る。その過去を知る者はいない。","kinds":[{"kind":"通常"}],"level":3,"name":"六武衆の侍従","pronunciation":"ロクブシュウノジジュウ","race":"戦士"}
+{
+ "attack": "ATK 200",
+ "attribute": "地",
+ "defence": "DEF 2000",
+ "description": "六武衆を陰で支える謎多き人物。今はもう闘う事はないが、体に刻まれた無数の傷跡が何かを語る。その過去を知る者はいない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "六武衆の侍従",
+ "pronunciation": "ロクブシュウノジジュウ",
+ "race": "戦士"
+}

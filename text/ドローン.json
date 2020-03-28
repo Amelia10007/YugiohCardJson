@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"地","defence":"500","description":"ドロローンと分身して、挟み撃ち攻撃をしかけてくる。油断するな！","kinds":[{"kind":"通常"}],"level":2,"name":"ドローン","pronunciation":"ドローン","race":"戦士"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 500",
+ "description": "ドロローンと分身して、挟み撃ち攻撃をしかけてくる。油断するな！",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ドローン",
+ "pronunciation": "ドローン",
+ "race": "戦士"
+}

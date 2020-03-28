@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"光","defence":"1300","description":"リバース：３０００ライフポイント回復する。このカードがフィールド上から墓地に送られた時、５０００ライフポイントを失う。","kinds":[{"kind":"効果"}],"level":4,"name":"雷仙人","pronunciation":"カミナリセンニン","race":"雷"}
+{
+ "attack": "ATK 1500",
+ "attribute": "光",
+ "defence": "DEF 1300",
+ "description": "リバース：３０００ライフポイント回復する。このカードがフィールド上から墓地に送られた時、５０００ライフポイントを失う。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "雷仙人",
+ "pronunciation": "カミナリセンニン",
+ "race": "雷"
+}

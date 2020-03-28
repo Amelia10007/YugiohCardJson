@@ -1,1 +1,18 @@
-{"attack":"1400","attribute":"炎","defence":"600","description":"このカードが相手ライフに戦闘ダメージを与える度に、このカードの攻撃力は２００ポイントアップする。","kinds":[{"kind":"効果"},{"kind":"チューナー"}],"level":2,"name":"炎龍","pronunciation":"マグナドラゴ","race":"ドラゴン"}
+{
+ "attack": "ATK 1400",
+ "attribute": "炎",
+ "defence": "DEF 600",
+ "description": "このカードが相手ライフに戦闘ダメージを与える度に、このカードの攻撃力は２００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 2,
+ "name": "炎龍",
+ "pronunciation": "マグナドラゴ",
+ "race": "ドラゴン"
+}

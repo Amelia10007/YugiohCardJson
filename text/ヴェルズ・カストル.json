@@ -1,1 +1,15 @@
-{"attack":"1750","attribute":"闇","defence":"550","description":"このカードが召喚に成功したターン、自分は通常召喚に加えて１度だけ「ヴェルズ」と名のついたモンスター１体を召喚できる。","kinds":[{"kind":"効果"}],"level":4,"name":"ヴェルズ・カストル","pronunciation":"ヴェルズ・カストル","race":"戦士"}
+{
+ "attack": "ATK 1750",
+ "attribute": "闇",
+ "defence": "DEF 550",
+ "description": "このカードが召喚に成功したターン、自分は通常召喚に加えて１度だけ「ヴェルズ」と名のついたモンスター１体を召喚できる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ヴェルズ・カストル",
+ "pronunciation": "ヴェルズ・カストル",
+ "race": "戦士"
+}

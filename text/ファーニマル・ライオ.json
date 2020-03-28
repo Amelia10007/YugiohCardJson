@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"地","defence":"1200","description":"(1)：このカードの攻撃宣言時に発動する。このカードの攻撃力はバトルフェイズ終了時まで５００アップする。","kinds":[{"kind":"効果"}],"level":4,"name":"ファーニマル・ライオ","pronunciation":"ファーニマル・ライオ","race":"天使"}
+{
+ "attack": "ATK 1600",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "(1)：このカードの攻撃宣言時に発動する。このカードの攻撃力はバトルフェイズ終了時まで５００アップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ファーニマル・ライオ",
+ "pronunciation": "ファーニマル・ライオ",
+ "race": "天使"
+}

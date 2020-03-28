@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"地","defence":"1500","description":"ありとあらゆる知識を駆使して、様々な攻撃を防ぐ。","kinds":[{"kind":"通常"}],"level":3,"name":"悟りの老樹","pronunciation":"サトリノロウジュ","race":"植物"}
+{
+ "attack": "ATK 600",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "ありとあらゆる知識を駆使して、様々な攻撃を防ぐ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "悟りの老樹",
+ "pronunciation": "サトリノロウジュ",
+ "race": "植物"
+}

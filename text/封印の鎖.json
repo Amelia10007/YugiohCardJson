@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"光","defence":"1100","description":"相手をキリキリと締め上げて、封印を施す力を持つ。","kinds":[{"kind":"通常"}],"level":3,"name":"封印の鎖","pronunciation":"フウインノクサリ","race":"天使"}
+{
+ "attack": "ATK 1000",
+ "attribute": "光",
+ "defence": "DEF 1100",
+ "description": "相手をキリキリと締め上げて、封印を施す力を持つ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "封印の鎖",
+ "pronunciation": "フウインノクサリ",
+ "race": "天使"
+}

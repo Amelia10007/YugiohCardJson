@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"光","defence":"1000","description":"透き通った水晶の塊。光を集めてレーザーを放つ。","kinds":[{"kind":"通常"}],"level":3,"name":"プリズマン","pronunciation":"プリズマン","race":"岩石"}
+{
+ "attack": "ATK 800",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "透き通った水晶の塊。光を集めてレーザーを放つ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "プリズマン",
+ "pronunciation": "プリズマン",
+ "race": "岩石"
+}

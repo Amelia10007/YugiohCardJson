@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"風","defence":"1200","description":"妖精の中では意外と強い、とてもきれいなドラゴンの妖精。","kinds":[{"kind":"通常"}],"level":4,"name":"フェアリー・ドラゴン","pronunciation":"フェアリー・ドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 1100",
+ "attribute": "風",
+ "defence": "DEF 1200",
+ "description": "妖精の中では意外と強い、とてもきれいなドラゴンの妖精。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "フェアリー・ドラゴン",
+ "pronunciation": "フェアリー・ドラゴン",
+ "race": "ドラゴン"
+}

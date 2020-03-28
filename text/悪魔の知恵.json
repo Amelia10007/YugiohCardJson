@@ -1,1 +1,15 @@
-{"attack":"1250","attribute":"闇","defence":"800","description":"このカードの表示形式が攻撃表示から表側守備表示に変わった時、自分のデッキをシャッフルする。","kinds":[{"kind":"効果"}],"level":3,"name":"悪魔の知恵","pronunciation":"アクマノチエ","race":"悪魔"}
+{
+ "attack": "ATK 1250",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "このカードの表示形式が攻撃表示から表側守備表示に変わった時、自分のデッキをシャッフルする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "悪魔の知恵",
+ "pronunciation": "アクマノチエ",
+ "race": "悪魔"
+}

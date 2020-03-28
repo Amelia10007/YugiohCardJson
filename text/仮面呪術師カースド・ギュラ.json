@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"闇","defence":"800","description":"呪いの呪文で相手を念殺する、仮面モンスター。","kinds":[{"kind":"通常"}],"level":4,"name":"仮面呪術師カースド・ギュラ","pronunciation":"カメンジュジュツシカースドギュラ","race":"悪魔"}
+{
+ "attack": "ATK 1500",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "呪いの呪文で相手を念殺する、仮面モンスター。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "仮面呪術師カースド・ギュラ",
+ "pronunciation": "カメンジュジュツシカースドギュラ",
+ "race": "悪魔"
+}

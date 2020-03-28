@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1200","description":"このカードが召喚・特殊召喚に成功した時、デッキから「グリーン・ガジェット」１体を手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"イエロー・ガジェット","pronunciation":"イエロー・ガジェット","race":"機械"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "このカードが召喚・特殊召喚に成功した時、デッキから「グリーン・ガジェット」１体を手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "イエロー・ガジェット",
+ "pronunciation": "イエロー・ガジェット",
+ "race": "機械"
+}

@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"地","defence":"1200","description":"このカードが召喚に成功した時、罠カードを発動する事はできない。","kinds":[{"kind":"効果"}],"level":3,"name":"華麗なる潜入工作員","pronunciation":"カレイナルセンニュウコウサクイン","race":"戦士"}
+{
+ "attack": "ATK 1300",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "このカードが召喚に成功した時、罠カードを発動する事はできない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "華麗なる潜入工作員",
+ "pronunciation": "カレイナルセンニュウコウサクイン",
+ "race": "戦士"
+}

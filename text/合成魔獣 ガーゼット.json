@@ -1,1 +1,15 @@
-{"attack":"?","attribute":"闇","defence":"0","description":"このカードの攻撃力は、生け贄召喚時に生け贄に捧げた２体のモンスターの元々の攻撃力を合計した数値になる。","kinds":[{"kind":"効果"}],"level":7,"name":"合成魔獣 ガーゼット","pronunciation":"ゴウセイマジュウガーゼット","race":"悪魔"}
+{
+ "attack": "ATK ?",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "このカードの攻撃力は、生け贄召喚時に生け贄に捧げた２体のモンスターの元々の攻撃力を合計した数値になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 7,
+ "name": "合成魔獣 ガーゼット",
+ "pronunciation": "ゴウセイマジュウガーゼット",
+ "race": "悪魔"
+}

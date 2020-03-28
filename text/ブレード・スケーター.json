@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"1500","description":"氷上の舞姫は華麗なる戦士。必殺アクセル・スライサーで華麗に敵モンスターを切り裂く。","kinds":[{"kind":"通常"}],"level":4,"name":"ブレード・スケーター","pronunciation":"ブレード・スケーター","race":"戦士"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "氷上の舞姫は華麗なる戦士。必殺アクセル・スライサーで華麗に敵モンスターを切り裂く。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ブレード・スケーター",
+ "pronunciation": "ブレード・スケーター",
+ "race": "戦士"
+}

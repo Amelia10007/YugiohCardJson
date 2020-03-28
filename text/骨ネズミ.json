@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"闇","defence":"300","description":"ネコにやられた恨みをはらすため、アンデットとして蘇ったネズミ。","kinds":[{"kind":"通常"}],"level":1,"name":"骨ネズミ","pronunciation":"ホネネズミ","race":"アンデット"}
+{
+ "attack": "ATK 400",
+ "attribute": "闇",
+ "defence": "DEF 300",
+ "description": "ネコにやられた恨みをはらすため、アンデットとして蘇ったネズミ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "骨ネズミ",
+ "pronunciation": "ホネネズミ",
+ "race": "アンデット"
+}

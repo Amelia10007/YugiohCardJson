@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"闇","defence":"500","description":"このカードが反転召喚に成功した時、自分の墓地の装備魔法カード１枚をこのカードに装備する事ができる。","kinds":[{"kind":"効果"}],"level":3,"name":"凶悪犯－チョップマン","pronunciation":"キョウアクハンチョップマン","race":"アンデット"}
+{
+ "attack": "ATK 1100",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "このカードが反転召喚に成功した時、自分の墓地の装備魔法カード１枚をこのカードに装備する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "凶悪犯－チョップマン",
+ "pronunciation": "キョウアクハンチョップマン",
+ "race": "アンデット"
+}

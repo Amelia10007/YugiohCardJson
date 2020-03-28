@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"炎","defence":"1000","description":"炎につつまれた魔人。まわりの炎を自在に操り攻撃する。","kinds":[{"kind":"通常"}],"level":4,"name":"炎の魔神","pronunciation":"ホノオノマジン","race":"炎"}
+{
+ "attack": "ATK 1300",
+ "attribute": "炎",
+ "defence": "DEF 1000",
+ "description": "炎につつまれた魔人。まわりの炎を自在に操り攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "炎の魔神",
+ "pronunciation": "ホノオノマジン",
+ "race": "炎"
+}

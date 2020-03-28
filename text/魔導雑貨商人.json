@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"光","defence":"700","description":"リバース：自分のデッキを上からめくり、一番最初に出た魔法か罠カード１枚を自分の手札に加える。それ以外のカードは墓地へ送る。","kinds":[{"kind":"効果"}],"level":1,"name":"魔導雑貨商人","pronunciation":"マドウザッカショウニン","race":"昆虫"}
+{
+ "attack": "ATK 200",
+ "attribute": "光",
+ "defence": "DEF 700",
+ "description": "リバース：自分のデッキを上からめくり、一番最初に出た魔法か罠カード１枚を自分の手札に加える。それ以外のカードは墓地へ送る。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "魔導雑貨商人",
+ "pronunciation": "マドウザッカショウニン",
+ "race": "昆虫"
+}

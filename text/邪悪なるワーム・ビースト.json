@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"700","description":"自分ターンのエンドフェイズ時、表側表示でフィールド上に存在するこのカードは持ち主の手札に戻る。","kinds":[{"kind":"効果"}],"level":3,"name":"邪悪なるワーム・ビースト","pronunciation":"ジャアクナルワームビースト","race":"獣"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 700",
+ "description": "自分ターンのエンドフェイズ時、表側表示でフィールド上に存在するこのカードは持ち主の手札に戻る。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "邪悪なるワーム・ビースト",
+ "pronunciation": "ジャアクナルワームビースト",
+ "race": "獣"
+}

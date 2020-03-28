@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"水","defence":"2000","description":"小島ほどの大きさがある巨大ガメ。海中に潜ることはなく、甲羅の上には木や生物が住みついている。","kinds":[{"kind":"通常"}],"level":4,"name":"島亀","pronunciation":"シマガメ","race":"水"}
+{
+ "attack": "ATK 1100",
+ "attribute": "水",
+ "defence": "DEF 2000",
+ "description": "小島ほどの大きさがある巨大ガメ。海中に潜ることはなく、甲羅の上には木や生物が住みついている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "島亀",
+ "pronunciation": "シマガメ",
+ "race": "水"
+}

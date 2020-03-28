@@ -1,1 +1,18 @@
-{"attack":"2300","attribute":"光","defence":"2000","description":"「砦を守る翼竜」＋「フェアリー・ドラゴン」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":7,"name":"カイザー・ドラゴン","pronunciation":"カイザー・ドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 2300",
+ "attribute": "光",
+ "defence": "DEF 2000",
+ "description": "「砦を守る翼竜」＋「フェアリー・ドラゴン」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 7,
+ "name": "カイザー・ドラゴン",
+ "pronunciation": "カイザー・ドラゴン",
+ "race": "ドラゴン"
+}

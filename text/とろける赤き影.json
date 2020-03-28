@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"水","defence":"700","description":"体を溶かして足もとの影にもぐり、敵の真下から攻撃する。","kinds":[{"kind":"通常"}],"level":2,"name":"とろける赤き影","pronunciation":"トロケルアカキカゲ","race":"水"}
+{
+ "attack": "ATK 500",
+ "attribute": "水",
+ "defence": "DEF 700",
+ "description": "体を溶かして足もとの影にもぐり、敵の真下から攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "とろける赤き影",
+ "pronunciation": "トロケルアカキカゲ",
+ "race": "水"
+}

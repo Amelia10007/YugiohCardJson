@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"炎","defence":"1200","description":"このカードが召喚に成功した時、罠カードを発動する事はできない。","kinds":[{"kind":"効果"}],"level":3,"name":"侵略の炎","pronunciation":"シンリャクノホノオ","race":"炎"}
+{
+ "attack": "ATK 1300",
+ "attribute": "炎",
+ "defence": "DEF 1200",
+ "description": "このカードが召喚に成功した時、罠カードを発動する事はできない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "侵略の炎",
+ "pronunciation": "シンリャクノホノオ",
+ "race": "炎"
+}

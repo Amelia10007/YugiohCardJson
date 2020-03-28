@@ -1,1 +1,15 @@
-{"attack":"2200","attribute":"地","defence":"1500","description":"勝ち負けのない勝負が嫌いな戦士。こん棒の攻撃は強いぞ！","kinds":[{"kind":"通常"}],"level":6,"name":"ジャッジ・マン","pronunciation":"ジャッジ・マン","race":"戦士"}
+{
+ "attack": "ATK 2200",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "勝ち負けのない勝負が嫌いな戦士。こん棒の攻撃は強いぞ！",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "ジャッジ・マン",
+ "pronunciation": "ジャッジ・マン",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"風","defence":"700","description":"メインフェイズ１で手札からカードを１枚捨てる。このカードはそのターンのバトルフェイズ中に２回攻撃をする事ができる。","kinds":[{"kind":"効果"}],"level":3,"name":"グレイ・ウイング","pronunciation":"グレイ・ウイング","race":"ドラゴン"}
+{
+ "attack": "ATK 1300",
+ "attribute": "風",
+ "defence": "DEF 700",
+ "description": "メインフェイズ１で手札からカードを１枚捨てる。このカードはそのターンのバトルフェイズ中に２回攻撃をする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "グレイ・ウイング",
+ "pronunciation": "グレイ・ウイング",
+ "race": "ドラゴン"
+}

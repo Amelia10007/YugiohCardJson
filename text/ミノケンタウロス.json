@@ -1,1 +1,18 @@
-{"attack":"2000","attribute":"地","defence":"1700","description":"「ミノタウルス」＋「ケンタウロス」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"ミノケンタウロス","pronunciation":"ミノケンタウロス","race":"獣戦士"}
+{
+ "attack": "ATK 2000",
+ "attribute": "地",
+ "defence": "DEF 1700",
+ "description": "「ミノタウルス」＋「ケンタウロス」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "ミノケンタウロス",
+ "pronunciation": "ミノケンタウロス",
+ "race": "獣戦士"
+}

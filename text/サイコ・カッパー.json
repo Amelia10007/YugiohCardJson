@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"水","defence":"1000","description":"いろいろな超能力を使い、攻撃のダメージを防ぐカッパ。","kinds":[{"kind":"通常"}],"level":2,"name":"サイコ・カッパー","pronunciation":"サイコ・カッパー","race":"水"}
+{
+ "attack": "ATK 400",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "いろいろな超能力を使い、攻撃のダメージを防ぐカッパ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "サイコ・カッパー",
+ "pronunciation": "サイコ・カッパー",
+ "race": "水"
+}

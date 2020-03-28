@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"地","defence":"1600","description":"青々と生い茂る木に囲まれて暮らす。森を治める若き王。","kinds":[{"kind":"通常"}],"level":3,"name":"緑樹の霊王","pronunciation":"リョクジュノレイオウ","race":"植物"}
+{
+ "attack": "ATK 500",
+ "attribute": "地",
+ "defence": "DEF 1600",
+ "description": "青々と生い茂る木に囲まれて暮らす。森を治める若き王。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "緑樹の霊王",
+ "pronunciation": "リョクジュノレイオウ",
+ "race": "植物"
+}

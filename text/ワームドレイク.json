@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"1500","description":"その長い体に巻き込まれたら最後、二度と逃げる事はできない。","kinds":[{"kind":"通常"}],"level":4,"name":"ワームドレイク","pronunciation":"ワームドレイク","race":"爬虫類"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "その長い体に巻き込まれたら最後、二度と逃げる事はできない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ワームドレイク",
+ "pronunciation": "ワームドレイク",
+ "race": "爬虫類"
+}

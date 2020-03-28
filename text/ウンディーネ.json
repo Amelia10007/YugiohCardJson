@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"水","defence":"700","description":"水の中をユラユラ漂う妖精。水龍を召喚できるらしい。","kinds":[{"kind":"通常"}],"level":3,"name":"ウンディーネ","pronunciation":"ウンディーネ","race":"水"}
+{
+ "attack": "ATK 1100",
+ "attribute": "水",
+ "defence": "DEF 700",
+ "description": "水の中をユラユラ漂う妖精。水龍を召喚できるらしい。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ウンディーネ",
+ "pronunciation": "ウンディーネ",
+ "race": "水"
+}

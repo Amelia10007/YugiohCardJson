@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"闇","defence":"100","description":"鋭い牙で獲物を仕留めるドラゴン。鋭く素早い動きで攻撃を繰り出すが、守備能力は持ち合わせていない。","kinds":[{"kind":"通常"}],"level":3,"name":"ハウンド・ドラゴン","pronunciation":"ハウンド・ドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 1700",
+ "attribute": "闇",
+ "defence": "DEF 100",
+ "description": "鋭い牙で獲物を仕留めるドラゴン。鋭く素早い動きで攻撃を繰り出すが、守備能力は持ち合わせていない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ハウンド・ドラゴン",
+ "pronunciation": "ハウンド・ドラゴン",
+ "race": "ドラゴン"
+}

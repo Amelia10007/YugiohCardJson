@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"闇","defence":"1000","description":"あらゆる生き物の魂を喰い、己のエネルギーとする悪魔。","kinds":[{"kind":"通常"}],"level":4,"name":"命を食する者","pronunciation":"イノチヲショクスルモノ","race":"悪魔"}
+{
+ "attack": "ATK 1200",
+ "attribute": "闇",
+ "defence": "DEF 1000",
+ "description": "あらゆる生き物の魂を喰い、己のエネルギーとする悪魔。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "命を食する者",
+ "pronunciation": "イノチヲショクスルモノ",
+ "race": "悪魔"
+}

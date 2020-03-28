@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"地","defence":"700","description":"このカードを手札から墓地へ送って発動する。フィールド上に存在するモンスター１体のレベルをエンドフェイズ時まで１つ下げる。","kinds":[{"kind":"効果"}],"level":2,"name":"寂々虫","pronunciation":"ジャクジャクムシ","race":"昆虫"}
+{
+ "attack": "ATK 300",
+ "attribute": "地",
+ "defence": "DEF 700",
+ "description": "このカードを手札から墓地へ送って発動する。フィールド上に存在するモンスター１体のレベルをエンドフェイズ時まで１つ下げる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "寂々虫",
+ "pronunciation": "ジャクジャクムシ",
+ "race": "昆虫"
+}

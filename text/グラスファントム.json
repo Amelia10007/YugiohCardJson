@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"水","defence":"1000","description":"このカードの攻撃力は、自分の墓地に存在する「グラスファントム」の枚数×５００ポイントアップする。","kinds":[{"kind":"効果"}],"level":3,"name":"グラスファントム","pronunciation":"グラスファントム","race":"植物"}
+{
+ "attack": "ATK 1000",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "このカードの攻撃力は、自分の墓地に存在する「グラスファントム」の枚数×５００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "グラスファントム",
+ "pronunciation": "グラスファントム",
+ "race": "植物"
+}

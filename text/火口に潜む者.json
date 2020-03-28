@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"炎","defence":"1200","description":"このカードが破壊され、フィールド上から墓地に送られた時、手札から炎族モンスター１体を特殊召喚する事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"火口に潜む者","pronunciation":"カコウニヒソムモノ","race":"炎"}
+{
+ "attack": "ATK 1000",
+ "attribute": "炎",
+ "defence": "DEF 1200",
+ "description": "このカードが破壊され、フィールド上から墓地に送られた時、手札から炎族モンスター１体を特殊召喚する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "火口に潜む者",
+ "pronunciation": "カコウニヒソムモノ",
+ "race": "炎"
+}

@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"風","defence":"900","description":"風をあやつり、竜巻や突風を起こし周囲のものを吹き飛ばす。","kinds":[{"kind":"通常"}],"level":3,"name":"風の番人 ジン","pronunciation":"カゼノバンニンジン","race":"魔法使い"}
+{
+ "attack": "ATK 700",
+ "attribute": "風",
+ "defence": "DEF 900",
+ "description": "風をあやつり、竜巻や突風を起こし周囲のものを吹き飛ばす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "風の番人 ジン",
+ "pronunciation": "カゼノバンニンジン",
+ "race": "魔法使い"
+}

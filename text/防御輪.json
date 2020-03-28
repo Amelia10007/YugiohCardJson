@@ -1,1 +1,10 @@
-{"description":"罠カードの効果によるダメージを０にする。","kinds":[{"kind":"速攻魔法"}],"name":"防御輪","pronunciation":"ボウギョリン"}
+{
+ "description": "罠カードの効果によるダメージを０にする。",
+ "kinds": [
+  {
+   "kind": "速攻魔法"
+  }
+ ],
+ "name": "防御輪",
+ "pronunciation": "ボウギョリン"
+}

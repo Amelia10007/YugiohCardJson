@@ -1,1 +1,15 @@
-{"attack":"2000","attribute":"闇","defence":"2000","description":"このカードの攻撃力・守備力は、自分の手札の枚数×４００ポイントダウンする。","kinds":[{"kind":"効果"}],"level":4,"name":"秒殺の暗殺者","pronunciation":"ビョウサツノアンサツシャ","race":"悪魔"}
+{
+ "attack": "ATK 2000",
+ "attribute": "闇",
+ "defence": "DEF 2000",
+ "description": "このカードの攻撃力・守備力は、自分の手札の枚数×４００ポイントダウンする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "秒殺の暗殺者",
+ "pronunciation": "ビョウサツノアンサツシャ",
+ "race": "悪魔"
+}

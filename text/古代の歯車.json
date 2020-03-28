@@ -1,1 +1,15 @@
-{"attack":"100","attribute":"地","defence":"800","description":"自分フィールド上に「古代の歯車」が表側表示で存在する時、手札からこのカードを攻撃表示で特殊召喚する事ができる。","kinds":[{"kind":"効果"}],"level":2,"name":"古代の歯車","pronunciation":"アンティークギア","race":"機械"}
+{
+ "attack": "ATK 100",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "自分フィールド上に「古代の歯車」が表側表示で存在する時、手札からこのカードを攻撃表示で特殊召喚する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "古代の歯車",
+ "pronunciation": "アンティークギア",
+ "race": "機械"
+}

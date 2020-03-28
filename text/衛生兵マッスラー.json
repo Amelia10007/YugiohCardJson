@@ -1,1 +1,15 @@
-{"attack":"2200","attribute":"水","defence":"100","description":"(1)：このカードの戦闘で自分または相手が戦闘ダメージを受ける場合、代わりにその数値分だけＬＰを回復する。","kinds":[{"kind":"効果"}],"level":4,"name":"衛生兵マッスラー","pronunciation":"エイセイヘイマッスラー","race":"戦士"}
+{
+ "attack": "ATK 2200",
+ "attribute": "水",
+ "defence": "DEF 100",
+ "description": "(1)：このカードの戦闘で自分または相手が戦闘ダメージを受ける場合、代わりにその数値分だけＬＰを回復する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "衛生兵マッスラー",
+ "pronunciation": "エイセイヘイマッスラー",
+ "race": "戦士"
+}

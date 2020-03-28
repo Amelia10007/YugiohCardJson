@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"1000","description":"このカードが表側守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。","kinds":[{"kind":"効果"}],"level":4,"name":"忍者マスター ＳＡＳＵＫＥ","pronunciation":"ニンジャマスターサスケ","race":"戦士"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "このカードが表側守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "忍者マスター ＳＡＳＵＫＥ",
+ "pronunciation": "ニンジャマスターサスケ",
+ "race": "戦士"
+}

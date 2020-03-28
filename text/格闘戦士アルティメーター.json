@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"1000","description":"武器をいっさい使わず、素手で戦いぬく格闘戦士。","kinds":[{"kind":"通常"}],"level":3,"name":"格闘戦士アルティメーター","pronunciation":"カクトウセンシアルティメーター","race":"戦士"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "武器をいっさい使わず、素手で戦いぬく格闘戦士。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "格闘戦士アルティメーター",
+ "pronunciation": "カクトウセンシアルティメーター",
+ "race": "戦士"
+}

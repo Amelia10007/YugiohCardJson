@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"光","defence":"1000","description":"リバース：このターン相手プレイヤーはフィールド上にカードをセットする事ができない。","kinds":[{"kind":"効果"}],"level":3,"name":"サーチライトメン","pronunciation":"サーチライトメン","race":"機械"}
+{
+ "attack": "ATK 1000",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "リバース：このターン相手プレイヤーはフィールド上にカードをセットする事ができない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "サーチライトメン",
+ "pronunciation": "サーチライトメン",
+ "race": "機械"
+}

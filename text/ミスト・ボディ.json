@@ -1,1 +1,10 @@
-{"description":"装備モンスターは戦闘では破壊されない。","kinds":[{"kind":"装備魔法"}],"name":"ミスト・ボディ","pronunciation":"ミスト・ボディ"}
+{
+ "description": "装備モンスターは戦闘では破壊されない。",
+ "kinds": [
+  {
+   "kind": "装備魔法"
+  }
+ ],
+ "name": "ミスト・ボディ",
+ "pronunciation": "ミスト・ボディ"
+}

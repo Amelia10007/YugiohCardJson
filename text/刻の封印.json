@@ -1,1 +1,10 @@
-{"description":"次の相手ターンのドローフェイズをスキップする。","kinds":[{"kind":"通常罠"}],"name":"刻の封印","pronunciation":"トキノフウイン"}
+{
+ "description": "次の相手ターンのドローフェイズをスキップする。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "刻の封印",
+ "pronunciation": "トキノフウイン"
+}

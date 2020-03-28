@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"地","defence":"200","description":"成長したらどんなムシになるか分からない、小さな幼虫。","kinds":[{"kind":"通常"}],"level":1,"name":"プチモス","pronunciation":"プチモス","race":"昆虫"}
+{
+ "attack": "ATK 300",
+ "attribute": "地",
+ "defence": "DEF 200",
+ "description": "成長したらどんなムシになるか分からない、小さな幼虫。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "プチモス",
+ "pronunciation": "プチモス",
+ "race": "昆虫"
+}

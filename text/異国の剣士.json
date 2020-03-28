@@ -1,1 +1,15 @@
-{"attack":"250","attribute":"地","defence":"250","description":"「異国の剣士」の攻撃を受けたモンスターは、５ターン後に破壊される。","kinds":[{"kind":"効果"}],"level":1,"name":"異国の剣士","pronunciation":"イコクノケンシ","race":"戦士"}
+{
+ "attack": "ATK 250",
+ "attribute": "地",
+ "defence": "DEF 250",
+ "description": "「異国の剣士」の攻撃を受けたモンスターは、５ターン後に破壊される。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "異国の剣士",
+ "pronunciation": "イコクノケンシ",
+ "race": "戦士"
+}

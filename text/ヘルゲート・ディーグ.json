@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"闇","defence":"800","description":"おなかに地獄へ通じる扉があり、召還もできる不気味なモンスター。","kinds":[{"kind":"通常"}],"level":3,"name":"ヘルゲート・ディーグ","pronunciation":"ヘルゲート・ディーグ","race":"獣"}
+{
+ "attack": "ATK 700",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "おなかに地獄へ通じる扉があり、召還もできる不気味なモンスター。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ヘルゲート・ディーグ",
+ "pronunciation": "ヘルゲート・ディーグ",
+ "race": "獣"
+}

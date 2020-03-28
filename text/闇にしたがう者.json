@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"闇","defence":"500","description":"闇を崇拝する魔法使い。闇の手を呼び出し暗闇へ引きずり込む。","kinds":[{"kind":"通常"}],"level":2,"name":"闇にしたがう者","pronunciation":"ヤミニシタガウモノ","race":"魔法使い"}
+{
+ "attack": "ATK 700",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "闇を崇拝する魔法使い。闇の手を呼び出し暗闇へ引きずり込む。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "闇にしたがう者",
+ "pronunciation": "ヤミニシタガウモノ",
+ "race": "魔法使い"
+}

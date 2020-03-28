@@ -1,1 +1,15 @@
-{"attack":"1900","attribute":"地","defence":"2000","description":"素早い動きで攻撃をかわし、鋭いかぎづめで襲いかかる。","kinds":[{"kind":"通常"}],"level":6,"name":"キャット・レディ","pronunciation":"キャット・レディ","race":"獣戦士"}
+{
+ "attack": "ATK 1900",
+ "attribute": "地",
+ "defence": "DEF 2000",
+ "description": "素早い動きで攻撃をかわし、鋭いかぎづめで襲いかかる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "キャット・レディ",
+ "pronunciation": "キャット・レディ",
+ "race": "獣戦士"
+}

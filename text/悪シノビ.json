@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"闇","defence":"800","description":"表側攻撃表示で存在するこのカードが攻撃対象に選択された時、自分のデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":2,"name":"悪シノビ","pronunciation":"悪シノビ","race":"戦士"}
+{
+ "attack": "ATK 400",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "表側攻撃表示で存在するこのカードが攻撃対象に選択された時、自分のデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "悪シノビ",
+ "pronunciation": "悪シノビ",
+ "race": "戦士"
+}

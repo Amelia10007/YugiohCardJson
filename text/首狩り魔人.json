@@ -1,1 +1,15 @@
-{"attack":"1750","attribute":"闇","defence":"1900","description":"大きなカマを振り回しクビを狩る悪魔。大きな目からビームも出す。","kinds":[{"kind":"通常"}],"level":6,"name":"首狩り魔人","pronunciation":"リネックハンター","race":"悪魔"}
+{
+ "attack": "ATK 1750",
+ "attribute": "闇",
+ "defence": "DEF 1900",
+ "description": "大きなカマを振り回しクビを狩る悪魔。大きな目からビームも出す。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "首狩り魔人",
+ "pronunciation": "リネックハンター",
+ "race": "悪魔"
+}

@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"闇","defence":"1300","description":"自分の墓地に存在するこのカードをゲームから除外して発動する。相手モンスターの攻撃を１度だけ無効にする。","kinds":[{"kind":"効果"}],"level":3,"name":"ネクロ・ガードナー","pronunciation":"ネクロ・ガードナー","race":"戦士"}
+{
+ "attack": "ATK 600",
+ "attribute": "闇",
+ "defence": "DEF 1300",
+ "description": "自分の墓地に存在するこのカードをゲームから除外して発動する。相手モンスターの攻撃を１度だけ無効にする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "ネクロ・ガードナー",
+ "pronunciation": "ネクロ・ガードナー",
+ "race": "戦士"
+}

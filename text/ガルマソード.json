@@ -1,1 +1,18 @@
-{"attack":"2550","attribute":"闇","defence":"2150","description":"「ガルマソードの誓い」により降臨。\u000a場か手札から、星の数が合計７個以上になるようカードを生け贄に捧げなければならない。","kinds":[{"kind":"通常"},{"kind":"儀式"}],"level":7,"name":"ガルマソード","pronunciation":"ガルマソード","race":"戦士"}
+{
+ "attack": "ATK 2550",
+ "attribute": "闇",
+ "defence": "DEF 2150",
+ "description": "「ガルマソードの誓い」により降臨。\u000a場か手札から、星の数が合計７個以上になるようカードを生け贄に捧げなければならない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "儀式"
+  }
+ ],
+ "level": 7,
+ "name": "ガルマソード",
+ "pronunciation": "ガルマソード",
+ "race": "戦士"
+}

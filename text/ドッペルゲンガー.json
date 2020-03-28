@@ -1,1 +1,15 @@
-{"attack":"650","attribute":"闇","defence":"900","description":"リバース：フィールド上にセットされている魔法または罠カードを必ず２枚選択し、それを破壊する。","kinds":[{"kind":"効果"}],"level":3,"name":"ドッペルゲンガー","pronunciation":"ドッペルゲンガー","race":"戦士"}
+{
+ "attack": "ATK 650",
+ "attribute": "闇",
+ "defence": "DEF 900",
+ "description": "リバース：フィールド上にセットされている魔法または罠カードを必ず２枚選択し、それを破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "ドッペルゲンガー",
+ "pronunciation": "ドッペルゲンガー",
+ "race": "戦士"
+}

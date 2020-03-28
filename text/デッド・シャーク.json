@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"闇","defence":"700","description":"海をさまようアンデットのサメ。出会った者に死の呪いをかける。","kinds":[{"kind":"通常"}],"level":3,"name":"デッド・シャーク","pronunciation":"デッド・シャーク","race":"アンデット"}
+{
+ "attack": "ATK 1100",
+ "attribute": "闇",
+ "defence": "DEF 700",
+ "description": "海をさまようアンデットのサメ。出会った者に死の呪いをかける。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "デッド・シャーク",
+ "pronunciation": "デッド・シャーク",
+ "race": "アンデット"
+}

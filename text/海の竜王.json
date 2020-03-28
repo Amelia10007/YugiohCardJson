@@ -1,1 +1,15 @@
-{"attack":"2000","attribute":"水","defence":"1700","description":"海の王様。かたい甲羅を持ち、口からアワをはいて攻撃する。","kinds":[{"kind":"通常"}],"level":6,"name":"海の竜王","pronunciation":"シーキングドラゴン","race":"海竜"}
+{
+ "attack": "ATK 2000",
+ "attribute": "水",
+ "defence": "DEF 1700",
+ "description": "海の王様。かたい甲羅を持ち、口からアワをはいて攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "海の竜王",
+ "pronunciation": "シーキングドラゴン",
+ "race": "海竜"
+}

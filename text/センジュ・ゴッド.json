@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"光","defence":"1000","description":"このカードが召喚・反転召喚された時、デッキから儀式モンスターカード１枚を選択して手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"センジュ・ゴッド","pronunciation":"センジュ・ゴッド","race":"天使"}
+{
+ "attack": "ATK 1400",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "このカードが召喚・反転召喚された時、デッキから儀式モンスターカード１枚を選択して手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "センジュ・ゴッド",
+ "pronunciation": "センジュ・ゴッド",
+ "race": "天使"
+}

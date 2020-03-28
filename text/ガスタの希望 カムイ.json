@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"風","defence":"1000","description":"リバース：自分のデッキから「ガスタ」と名のついたチューナー１体を特殊召喚する。","kinds":[{"kind":"効果"}],"level":2,"name":"ガスタの希望 カムイ","pronunciation":"ガスタノキボウカムイ","race":"サイキック"}
+{
+ "attack": "ATK 200",
+ "attribute": "風",
+ "defence": "DEF 1000",
+ "description": "リバース：自分のデッキから「ガスタ」と名のついたチューナー１体を特殊召喚する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ガスタの希望 カムイ",
+ "pronunciation": "ガスタノキボウカムイ",
+ "race": "サイキック"
+}

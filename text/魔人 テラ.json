@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"闇","defence":"1300","description":"沼地に住む悪魔の手先。見た目ほど強くないが油断は禁物。","kinds":[{"kind":"通常"}],"level":4,"name":"魔人 テラ","pronunciation":"マジンテラ","race":"悪魔"}
+{
+ "attack": "ATK 1200",
+ "attribute": "闇",
+ "defence": "DEF 1300",
+ "description": "沼地に住む悪魔の手先。見た目ほど強くないが油断は禁物。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "魔人 テラ",
+ "pronunciation": "マジンテラ",
+ "race": "悪魔"
+}

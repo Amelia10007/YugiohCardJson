@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"1300","description":"四角い体に刃物を隠し持ち、なんでもかんでも切り刻む機械。","kinds":[{"kind":"通常"}],"level":4,"name":"カッター・ロボ","pronunciation":"カッター・ロボ","race":"機械"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 1300",
+ "description": "四角い体に刃物を隠し持ち、なんでもかんでも切り刻む機械。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "カッター・ロボ",
+ "pronunciation": "カッター・ロボ",
+ "race": "機械"
+}

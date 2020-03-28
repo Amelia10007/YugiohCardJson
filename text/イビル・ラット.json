@@ -1,1 +1,15 @@
-{"attack":"750","attribute":"地","defence":"800","description":"どんな物にでもかじりつく、行儀の悪い野ネズミ。","kinds":[{"kind":"通常"}],"level":3,"name":"イビル・ラット","pronunciation":"イビル・ラット","race":"獣"}
+{
+ "attack": "ATK 750",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "どんな物にでもかじりつく、行儀の悪い野ネズミ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "イビル・ラット",
+ "pronunciation": "イビル・ラット",
+ "race": "獣"
+}

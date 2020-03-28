@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"このカードの攻撃力は、生け贄召喚時に生け贄に捧げたモンスター１体の元々の攻撃力を倍にした数値になる。","kinds":[{"kind":"効果"}],"level":6,"name":"偉大魔獣 ガーゼット","pronunciation":"グレートマジュウガーゼット","race":"悪魔"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "このカードの攻撃力は、生け贄召喚時に生け贄に捧げたモンスター１体の元々の攻撃力を倍にした数値になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "偉大魔獣 ガーゼット",
+ "pronunciation": "グレートマジュウガーゼット",
+ "race": "悪魔"
+}

@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"このカードの攻撃力は、自分の墓地に存在するモンスターカードの数×３００ポイントの数値になる。","kinds":[{"kind":"効果"}],"level":1,"name":"カオス・ネクロマンサー","pronunciation":"カオス・ネクロマンサー","race":"悪魔"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "このカードの攻撃力は、自分の墓地に存在するモンスターカードの数×３００ポイントの数値になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "カオス・ネクロマンサー",
+ "pronunciation": "カオス・ネクロマンサー",
+ "race": "悪魔"
+}

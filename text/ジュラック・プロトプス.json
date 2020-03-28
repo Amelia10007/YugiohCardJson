@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"炎","defence":"1200","description":"このカードの攻撃力は相手フィールド上に存在するモンスターの数×１００ポイントアップする。","kinds":[{"kind":"効果"}],"level":4,"name":"ジュラック・プロトプス","pronunciation":"ジュラック・プロトプス","race":"恐竜"}
+{
+ "attack": "ATK 1700",
+ "attribute": "炎",
+ "defence": "DEF 1200",
+ "description": "このカードの攻撃力は相手フィールド上に存在するモンスターの数×１００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ジュラック・プロトプス",
+ "pronunciation": "ジュラック・プロトプス",
+ "race": "恐竜"
+}

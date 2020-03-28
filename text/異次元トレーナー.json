@@ -1,1 +1,15 @@
-{"attack":"100","attribute":"闇","defence":"2000","description":"異次元に吸い込まれてしまった哀れなゴブリン。しかし、今新たな目標に向かって日々努力している。","kinds":[{"kind":"通常"}],"level":1,"name":"異次元トレーナー","pronunciation":"イジゲントレーナー","race":"悪魔"}
+{
+ "attack": "ATK 100",
+ "attribute": "闇",
+ "defence": "DEF 2000",
+ "description": "異次元に吸い込まれてしまった哀れなゴブリン。しかし、今新たな目標に向かって日々努力している。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "異次元トレーナー",
+ "pronunciation": "イジゲントレーナー",
+ "race": "悪魔"
+}

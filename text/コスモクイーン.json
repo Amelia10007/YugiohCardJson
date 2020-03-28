@@ -1,1 +1,15 @@
-{"attack":"2900","attribute":"闇","defence":"2450","description":"宇宙に存在する、全ての星を統治しているという女王。","kinds":[{"kind":"通常"}],"level":8,"name":"コスモクイーン","pronunciation":"コスモクイーン","race":"魔法使い"}
+{
+ "attack": "ATK 2900",
+ "attribute": "闇",
+ "defence": "DEF 2450",
+ "description": "宇宙に存在する、全ての星を統治しているという女王。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 8,
+ "name": "コスモクイーン",
+ "pronunciation": "コスモクイーン",
+ "race": "魔法使い"
+}

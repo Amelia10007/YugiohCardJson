@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"1700","description":"普段眠っている猛獣。目をさますと手がつけられない。","kinds":[{"kind":"通常"}],"level":4,"name":"眠れる獅子","pronunciation":"ネムレルシシ","race":"獣"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 1700",
+ "description": "普段眠っている猛獣。目をさますと手がつけられない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "眠れる獅子",
+ "pronunciation": "ネムレルシシ",
+ "race": "獣"
+}

@@ -1,1 +1,18 @@
-{"attack":"1850","attribute":"風","defence":"1700","description":"「鋼鉄の巨神像」＋「レッサー・ドラゴン」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"メタル・ドラゴン","pronunciation":"メタル・ドラゴン","race":"機械"}
+{
+ "attack": "ATK 1850",
+ "attribute": "風",
+ "defence": "DEF 1700",
+ "description": "「鋼鉄の巨神像」＋「レッサー・ドラゴン」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "メタル・ドラゴン",
+ "pronunciation": "メタル・ドラゴン",
+ "race": "機械"
+}

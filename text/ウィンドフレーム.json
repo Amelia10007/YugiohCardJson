@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"風","defence":"200","description":"風属性の通常モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"ウィンドフレーム","pronunciation":"ウィンドフレーム","race":"鳥獣"}
+{
+ "attack": "ATK 1800",
+ "attribute": "風",
+ "defence": "DEF 200",
+ "description": "風属性の通常モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ウィンドフレーム",
+ "pronunciation": "ウィンドフレーム",
+ "race": "鳥獣"
+}

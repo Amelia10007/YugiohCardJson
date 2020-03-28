@@ -1,1 +1,15 @@
-{"attack":"1250","attribute":"地","defence":"1300","description":"どんなものでも丸飲みできる大きな口を持っている。","kinds":[{"kind":"通常"}],"level":4,"name":"グレード・ビル","pronunciation":"グレード・ビル","race":"獣"}
+{
+ "attack": "ATK 1250",
+ "attribute": "地",
+ "defence": "DEF 1300",
+ "description": "どんなものでも丸飲みできる大きな口を持っている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "グレード・ビル",
+ "pronunciation": "グレード・ビル",
+ "race": "獣"
+}

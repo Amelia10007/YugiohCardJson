@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"闇","defence":"1600","description":"このカードがシンクロ召喚の素材として墓地へ送られた場合、相手のデッキの上からカードを２枚墓地へ送る。","kinds":[{"kind":"効果"}],"level":4,"name":"二角獣レーム","pronunciation":"ニカクジュウレーム","race":"獣"}
+{
+ "attack": "ATK 800",
+ "attribute": "闇",
+ "defence": "DEF 1600",
+ "description": "このカードがシンクロ召喚の素材として墓地へ送られた場合、相手のデッキの上からカードを２枚墓地へ送る。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "二角獣レーム",
+ "pronunciation": "ニカクジュウレーム",
+ "race": "獣"
+}

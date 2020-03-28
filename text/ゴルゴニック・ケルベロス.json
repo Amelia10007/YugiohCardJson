@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"闇","defence":"300","description":"このカードが召喚に成功した時、自分フィールド上の全ての岩石族モンスターのレベルを３にできる。","kinds":[{"kind":"効果"}],"level":3,"name":"ゴルゴニック・ケルベロス","pronunciation":"ゴルゴニック・ケルベロス","race":"岩石"}
+{
+ "attack": "ATK 1300",
+ "attribute": "闇",
+ "defence": "DEF 300",
+ "description": "このカードが召喚に成功した時、自分フィールド上の全ての岩石族モンスターのレベルを３にできる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "ゴルゴニック・ケルベロス",
+ "pronunciation": "ゴルゴニック・ケルベロス",
+ "race": "岩石"
+}

@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"炎","defence":"1900","description":"ファイヤーボールをはき辺りを火の海にする、真っ赤なドラゴン。","kinds":[{"kind":"通常"}],"level":6,"name":"レッド・ドラゴン","pronunciation":"レッド・ドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 1700",
+ "attribute": "炎",
+ "defence": "DEF 1900",
+ "description": "ファイヤーボールをはき辺りを火の海にする、真っ赤なドラゴン。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "レッド・ドラゴン",
+ "pronunciation": "レッド・ドラゴン",
+ "race": "ドラゴン"
+}

@@ -1,1 +1,15 @@
-{"attack":"1650","attribute":"光","defence":"1600","description":"王室をガードする衛兵ロボ。当たるまで追い続けるミサイルを撃つ。","kinds":[{"kind":"通常"}],"level":4,"name":"王室前のガーディアン","pronunciation":"オウシツマエノガーディアン","race":"機械"}
+{
+ "attack": "ATK 1650",
+ "attribute": "光",
+ "defence": "DEF 1600",
+ "description": "王室をガードする衛兵ロボ。当たるまで追い続けるミサイルを撃つ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "王室前のガーディアン",
+ "pronunciation": "オウシツマエノガーディアン",
+ "race": "機械"
+}

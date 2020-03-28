@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"このカードが戦闘によって破壊され墓地へ送られた時、フィールド上に存在するカード１枚を選択して破壊する。","kinds":[{"kind":"効果"}],"level":1,"name":"グレイブ・スクワーマー","pronunciation":"グレイブ・スクワーマー","race":"悪魔"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "このカードが戦闘によって破壊され墓地へ送られた時、フィールド上に存在するカード１枚を選択して破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "グレイブ・スクワーマー",
+ "pronunciation": "グレイブ・スクワーマー",
+ "race": "悪魔"
+}

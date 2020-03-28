@@ -1,1 +1,18 @@
-{"attack":"2100","attribute":"地","defence":"1700","description":"「女王の影武者」＋「響女」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"裁きを下す女帝","pronunciation":"サバキヲクダスジョテイ","race":"戦士"}
+{
+ "attack": "ATK 2100",
+ "attribute": "地",
+ "defence": "DEF 1700",
+ "description": "「女王の影武者」＋「響女」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "裁きを下す女帝",
+ "pronunciation": "サバキヲクダスジョテイ",
+ "race": "戦士"
+}

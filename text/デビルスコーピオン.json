@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"地","defence":"200","description":"悪魔の魂が宿る巨大なサソリ。普段は力を温存しているが、潜在能力は高い。","kinds":[{"kind":"通常"}],"level":2,"name":"デビルスコーピオン","pronunciation":"デビルスコーピオン","race":"昆虫"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 200",
+ "description": "悪魔の魂が宿る巨大なサソリ。普段は力を温存しているが、潜在能力は高い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "デビルスコーピオン",
+ "pronunciation": "デビルスコーピオン",
+ "race": "昆虫"
+}

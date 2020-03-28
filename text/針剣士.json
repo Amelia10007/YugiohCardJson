@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"風","defence":"600","description":"このカードが相手ライフに戦闘ダメージを与えた時、相手の魔法＆罠カードゾーンに表側表示で存在するカードを全て持ち主の手札に戻す。","kinds":[{"kind":"効果"}],"level":1,"name":"針剣士","pronunciation":"ハリケンシ","race":"戦士"}
+{
+ "attack": "ATK 300",
+ "attribute": "風",
+ "defence": "DEF 600",
+ "description": "このカードが相手ライフに戦闘ダメージを与えた時、相手の魔法＆罠カードゾーンに表側表示で存在するカードを全て持ち主の手札に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "針剣士",
+ "pronunciation": "ハリケンシ",
+ "race": "戦士"
+}

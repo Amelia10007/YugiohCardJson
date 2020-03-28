@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"光","defence":"400","description":"このカードが特殊召喚した時、このカードのコントローラーはカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":4,"name":"聖鳥クレイン","pronunciation":"セイチョウクレイン","race":"鳥獣"}
+{
+ "attack": "ATK 1600",
+ "attribute": "光",
+ "defence": "DEF 400",
+ "description": "このカードが特殊召喚した時、このカードのコントローラーはカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "聖鳥クレイン",
+ "pronunciation": "セイチョウクレイン",
+ "race": "鳥獣"
+}

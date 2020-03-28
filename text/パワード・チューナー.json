@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"水","defence":"1000","description":"このカードの攻撃力は、フィールド上に表側表示で存在するチューナーの数×５００ポイントアップする。","kinds":[{"kind":"効果"}],"level":4,"name":"パワード・チューナー","pronunciation":"パワード・チューナー","race":"ドラゴン"}
+{
+ "attack": "ATK 1400",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "このカードの攻撃力は、フィールド上に表側表示で存在するチューナーの数×５００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "パワード・チューナー",
+ "pronunciation": "パワード・チューナー",
+ "race": "ドラゴン"
+}

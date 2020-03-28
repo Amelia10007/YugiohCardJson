@@ -1,1 +1,18 @@
-{"attack":"4200","attribute":"地","defence":"3700","description":"「ビッグ・コアラ」＋「デス・カンガルー」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":9,"name":"マスター・オブ・OZ","pronunciation":"マスターオブオージー","race":"獣"}
+{
+ "attack": "ATK 4200",
+ "attribute": "地",
+ "defence": "DEF 3700",
+ "description": "「ビッグ・コアラ」＋「デス・カンガルー」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 9,
+ "name": "マスター・オブ・OZ",
+ "pronunciation": "マスターオブオージー",
+ "race": "獣"
+}

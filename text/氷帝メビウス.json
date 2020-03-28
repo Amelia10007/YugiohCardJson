@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"水","defence":"1000","description":"このカードがアドバンス召喚に成功した時、フィールド上に存在する魔法・罠カードを２枚まで選択して破壊する事ができる。","kinds":[{"kind":"効果"}],"level":6,"name":"氷帝メビウス","pronunciation":"ヒョウテイメビウス","race":"水"}
+{
+ "attack": "ATK 2400",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "このカードがアドバンス召喚に成功した時、フィールド上に存在する魔法・罠カードを２枚まで選択して破壊する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "氷帝メビウス",
+ "pronunciation": "ヒョウテイメビウス",
+ "race": "水"
+}

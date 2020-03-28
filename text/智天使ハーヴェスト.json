@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"1000","description":"このカードが戦闘によって破壊され墓地へ送られた時、自分の墓地に存在するカウンター罠１枚を手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"智天使ハーヴェスト","pronunciation":"チテンシハーヴェスト","race":"天使"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "このカードが戦闘によって破壊され墓地へ送られた時、自分の墓地に存在するカウンター罠１枚を手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "智天使ハーヴェスト",
+ "pronunciation": "チテンシハーヴェスト",
+ "race": "天使"
+}

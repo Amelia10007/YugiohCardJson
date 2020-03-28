@@ -1,1 +1,15 @@
-{"attack":"550","attribute":"闇","defence":"400","description":"どの家の屋根裏にも潜んでいるもののけ。特にわるさはしない。","kinds":[{"kind":"通常"}],"level":2,"name":"屋根裏の物の怪","pronunciation":"ヤネウラノモノノケ","race":"悪魔"}
+{
+ "attack": "ATK 550",
+ "attribute": "闇",
+ "defence": "DEF 400",
+ "description": "どの家の屋根裏にも潜んでいるもののけ。特にわるさはしない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "屋根裏の物の怪",
+ "pronunciation": "ヤネウラノモノノケ",
+ "race": "悪魔"
+}

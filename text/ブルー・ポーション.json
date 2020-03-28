@@ -1,1 +1,10 @@
-{"description":"自分は４００ライフポイント回復する。","kinds":[{"kind":"通常魔法"}],"name":"ブルー・ポーション","pronunciation":"ブルー・ポーション"}
+{
+ "description": "自分は４００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "ブルー・ポーション",
+ "pronunciation": "ブルー・ポーション"
+}

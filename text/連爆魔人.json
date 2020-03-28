@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"炎","defence":"300","description":"魔法・罠カードがチェーンする場合、相手ライフに５００ポイントダメージを与える。","kinds":[{"kind":"効果"}],"level":3,"name":"連爆魔人","pronunciation":"ブラストデビル","race":"悪魔"}
+{
+ "attack": "ATK 1000",
+ "attribute": "炎",
+ "defence": "DEF 300",
+ "description": "魔法・罠カードがチェーンする場合、相手ライフに５００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "連爆魔人",
+ "pronunciation": "ブラストデビル",
+ "race": "悪魔"
+}

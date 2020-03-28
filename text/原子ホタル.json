@@ -1,1 +1,15 @@
-{"attack":"100","attribute":"光","defence":"200","description":"フィールド上の表側表示で存在するこのカードを戦闘で破壊したプレイヤーは、１０００ポイントダメージを受ける。","kinds":[{"kind":"効果"}],"level":1,"name":"原子ホタル","pronunciation":"ゲンシホタル","race":"昆虫"}
+{
+ "attack": "ATK 100",
+ "attribute": "光",
+ "defence": "DEF 200",
+ "description": "フィールド上の表側表示で存在するこのカードを戦闘で破壊したプレイヤーは、１０００ポイントダメージを受ける。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "原子ホタル",
+ "pronunciation": "ゲンシホタル",
+ "race": "昆虫"
+}

@@ -1,1 +1,15 @@
-{"attack":"2000","attribute":"光","defence":"0","description":"このカードは攻撃した場合、ダメージステップ終了時に守備表示になる。","kinds":[{"kind":"効果"}],"level":4,"name":"フォトン・クラッシャー","pronunciation":"フォトン・クラッシャー","race":"戦士"}
+{
+ "attack": "ATK 2000",
+ "attribute": "光",
+ "defence": "DEF 0",
+ "description": "このカードは攻撃した場合、ダメージステップ終了時に守備表示になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "フォトン・クラッシャー",
+ "pronunciation": "フォトン・クラッシャー",
+ "race": "戦士"
+}

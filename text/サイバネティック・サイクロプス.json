@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"200","description":"自分の手札が０枚である限り、このカードの攻撃力は１０００ポイントアップする。","kinds":[{"kind":"効果"}],"level":4,"name":"サイバネティック・サイクロプス","pronunciation":"サイバネティック・サイクロプス","race":"獣戦士"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 200",
+ "description": "自分の手札が０枚である限り、このカードの攻撃力は１０００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "サイバネティック・サイクロプス",
+ "pronunciation": "サイバネティック・サイクロプス",
+ "race": "獣戦士"
+}

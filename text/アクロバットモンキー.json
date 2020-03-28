@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"地","defence":"1800","description":"超最先端技術により開発されたモンキータイプの自律型ロボット。非常にアクロバティックな動きをする。","kinds":[{"kind":"通常"}],"level":3,"name":"アクロバットモンキー","pronunciation":"アクロバットモンキー","race":"機械"}
+{
+ "attack": "ATK 1000",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "超最先端技術により開発されたモンキータイプの自律型ロボット。非常にアクロバティックな動きをする。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "アクロバットモンキー",
+ "pronunciation": "アクロバットモンキー",
+ "race": "機械"
+}

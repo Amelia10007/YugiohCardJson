@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"0","description":"ねずみ界最強の格闘家を目指して世界を放浪している熱血ねずみ。うかつに触ると火傷するぞ。","kinds":[{"kind":"通常"}],"level":3,"name":"格闘ねずみ チュー助","pronunciation":"カクトウネズミチュースケ","race":"獣"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 0",
+ "description": "ねずみ界最強の格闘家を目指して世界を放浪している熱血ねずみ。うかつに触ると火傷するぞ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "格闘ねずみ チュー助",
+ "pronunciation": "カクトウネズミチュースケ",
+ "race": "獣"
+}

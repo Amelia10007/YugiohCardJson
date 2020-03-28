@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"光","defence":"1900","description":"このカードがフィールド上に表側守備表示で存在する限り、このカードのレベルは４になる。","kinds":[{"kind":"効果"}],"level":3,"name":"シャインナイト","pronunciation":"シャインナイト","race":"戦士"}
+{
+ "attack": "ATK 400",
+ "attribute": "光",
+ "defence": "DEF 1900",
+ "description": "このカードがフィールド上に表側守備表示で存在する限り、このカードのレベルは４になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "シャインナイト",
+ "pronunciation": "シャインナイト",
+ "race": "戦士"
+}

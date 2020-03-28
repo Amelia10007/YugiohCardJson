@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"光","defence":"1500","description":"このカードの攻撃力と守備力は、ゲームから除外されている自分のカードの数×３００ポイントアップする。","kinds":[{"kind":"効果"}],"level":6,"name":"黄金のホムンクルス","pronunciation":"オウゴンノホムンクルス","race":"戦士"}
+{
+ "attack": "ATK 1500",
+ "attribute": "光",
+ "defence": "DEF 1500",
+ "description": "このカードの攻撃力と守備力は、ゲームから除外されている自分のカードの数×３００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "黄金のホムンクルス",
+ "pronunciation": "オウゴンノホムンクルス",
+ "race": "戦士"
+}

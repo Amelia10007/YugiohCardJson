@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"闇","defence":"300","description":"封印された左腕。封印を解くと、無限の力を得られる。","kinds":[{"kind":"通常"}],"level":1,"name":"封印されし者の左腕","pronunciation":"フウインサレシモノノヒダリウデ","race":"魔法使い"}
+{
+ "attack": "ATK 200",
+ "attribute": "闇",
+ "defence": "DEF 300",
+ "description": "封印された左腕。封印を解くと、無限の力を得られる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "封印されし者の左腕",
+ "pronunciation": "フウインサレシモノノヒダリウデ",
+ "race": "魔法使い"
+}

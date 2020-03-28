@@ -1,1 +1,18 @@
-{"attack":"2100","attribute":"水","defence":"1300","description":"「シーカーメン」＋「キラー・ブロッブ」＋「海原の女戦士」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":5,"name":"黒き人食い鮫","pronunciation":"クロキヒトクイザメ","race":"魚"}
+{
+ "attack": "ATK 2100",
+ "attribute": "水",
+ "defence": "DEF 1300",
+ "description": "「シーカーメン」＋「キラー・ブロッブ」＋「海原の女戦士」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 5,
+ "name": "黒き人食い鮫",
+ "pronunciation": "クロキヒトクイザメ",
+ "race": "魚"
+}

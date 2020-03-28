@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"風","defence":"900","description":"このカードは１ターンに２度まで、戦闘では破壊されない。","kinds":[{"kind":"効果"}],"level":2,"name":"シールド・ウィング","pronunciation":"シールド・ウィング","race":"鳥獣"}
+{
+ "attack": "ATK 0",
+ "attribute": "風",
+ "defence": "DEF 900",
+ "description": "このカードは１ターンに２度まで、戦闘では破壊されない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "シールド・ウィング",
+ "pronunciation": "シールド・ウィング",
+ "race": "鳥獣"
+}

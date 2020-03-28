@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"光","defence":"0","description":"(1)：このカードの攻撃力は、フィールドのリンクモンスターのリンクマーカーの数×３００アップする。","kinds":[{"kind":"効果"}],"level":1,"name":"ザ・アキュムレーター","pronunciation":"ザ・アキュムレーター","race":"雷"}
+{
+ "attack": "ATK 0",
+ "attribute": "光",
+ "defence": "DEF 0",
+ "description": "(1)：このカードの攻撃力は、フィールドのリンクモンスターのリンクマーカーの数×３００アップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "ザ・アキュムレーター",
+ "pronunciation": "ザ・アキュムレーター",
+ "race": "雷"
+}

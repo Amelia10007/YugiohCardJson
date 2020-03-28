@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"水","defence":"1000","description":"トゲのついたこうらを身につけたカメ。とても凶暴で人になつかない。","kinds":[{"kind":"通常"}],"level":3,"name":"モンスタートル","pronunciation":"モンスタートル","race":"水"}
+{
+ "attack": "ATK 800",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "トゲのついたこうらを身につけたカメ。とても凶暴で人になつかない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "モンスタートル",
+ "pronunciation": "モンスタートル",
+ "race": "水"
+}

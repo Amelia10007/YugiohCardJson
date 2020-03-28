@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"地","defence":"1400","description":"相手フィールド上にエクシーズモンスターが存在する場合、このカードは手札から表側攻撃表示で特殊召喚できる。","kinds":[{"kind":"効果"}],"level":4,"name":"グランドラン","pronunciation":"グランドラン","race":"岩石"}
+{
+ "attack": "ATK 0",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "相手フィールド上にエクシーズモンスターが存在する場合、このカードは手札から表側攻撃表示で特殊召喚できる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "グランドラン",
+ "pronunciation": "グランドラン",
+ "race": "岩石"
+}

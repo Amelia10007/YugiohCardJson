@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"闇","defence":"1000","description":"呼び出した主人の言うことを、何でも聞いてくれるランプの精。","kinds":[{"kind":"通常"}],"level":4,"name":"ランプの魔精・ラ・ジーン","pronunciation":"ランプノマセイラジーン","race":"悪魔"}
+{
+ "attack": "ATK 1800",
+ "attribute": "闇",
+ "defence": "DEF 1000",
+ "description": "呼び出した主人の言うことを、何でも聞いてくれるランプの精。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ランプの魔精・ラ・ジーン",
+ "pronunciation": "ランプノマセイラジーン",
+ "race": "悪魔"
+}

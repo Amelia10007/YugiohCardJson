@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"800","description":"リバース：相手フィールド上に表側表示で存在するドラゴン族モンスター１体のコントロールをエンドフェイズまで得る。","kinds":[{"kind":"効果"}],"level":3,"name":"ドラゴン・ライダー","pronunciation":"ドラゴン・ライダー","race":"戦士"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "リバース：相手フィールド上に表側表示で存在するドラゴン族モンスター１体のコントロールをエンドフェイズまで得る。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "ドラゴン・ライダー",
+ "pronunciation": "ドラゴン・ライダー",
+ "race": "戦士"
+}

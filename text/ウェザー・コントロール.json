@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"光","defence":"400","description":"天気を自由にあやつれる。山の天気が変わりやすいのはこいつのせいだ。","kinds":[{"kind":"通常"}],"level":2,"name":"ウェザー・コントロール","pronunciation":"ウェザー・コントロール","race":"天使"}
+{
+ "attack": "ATK 600",
+ "attribute": "光",
+ "defence": "DEF 400",
+ "description": "天気を自由にあやつれる。山の天気が変わりやすいのはこいつのせいだ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ウェザー・コントロール",
+ "pronunciation": "ウェザー・コントロール",
+ "race": "天使"
+}

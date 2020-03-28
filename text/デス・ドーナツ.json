@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"リバース：フィールド上に表側表示で存在する元々の攻撃力または元々の守備力が０のモンスターを全て破壊する。","kinds":[{"kind":"効果"}],"level":1,"name":"デス・ドーナツ","pronunciation":"デス・ドーナツ","race":"悪魔"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "リバース：フィールド上に表側表示で存在する元々の攻撃力または元々の守備力が０のモンスターを全て破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "デス・ドーナツ",
+ "pronunciation": "デス・ドーナツ",
+ "race": "悪魔"
+}

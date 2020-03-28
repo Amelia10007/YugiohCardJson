@@ -1,1 +1,18 @@
-{"attack":"1380","attribute":"闇","defence":"1530","description":"「キラーパンダ」＋「ガーゴイル」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":5,"name":"バロックス","pronunciation":"バロックス","race":"悪魔"}
+{
+ "attack": "ATK 1380",
+ "attribute": "闇",
+ "defence": "DEF 1530",
+ "description": "「キラーパンダ」＋「ガーゴイル」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 5,
+ "name": "バロックス",
+ "pronunciation": "バロックス",
+ "race": "悪魔"
+}

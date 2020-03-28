@@ -1,1 +1,10 @@
-{"description":"自分は８００ライフポイント回復する。","kinds":[{"kind":"通常魔法"}],"name":"天使の生き血","pronunciation":"テンシノイキチ"}
+{
+ "description": "自分は８００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "天使の生き血",
+ "pronunciation": "テンシノイキチ"
+}

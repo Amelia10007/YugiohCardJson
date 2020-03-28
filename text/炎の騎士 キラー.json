@@ -1,1 +1,18 @@
-{"attack":"1100","attribute":"炎","defence":"800","description":"「モンスター・エッグ」＋「スティング」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":3,"name":"炎の騎士 キラー","pronunciation":"ホノオノキシキラー","race":"炎"}
+{
+ "attack": "ATK 1100",
+ "attribute": "炎",
+ "defence": "DEF 800",
+ "description": "「モンスター・エッグ」＋「スティング」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 3,
+ "name": "炎の騎士 キラー",
+ "pronunciation": "ホノオノキシキラー",
+ "race": "炎"
+}

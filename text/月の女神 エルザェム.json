@@ -1,1 +1,15 @@
-{"attack":"750","attribute":"光","defence":"1100","description":"月を守護するきれいな女神。月あかりのカーテンで攻撃を防ぐ。","kinds":[{"kind":"通常"}],"level":3,"name":"月の女神 エルザェム","pronunciation":"ツキノメガミエルザェム","race":"天使"}
+{
+ "attack": "ATK 750",
+ "attribute": "光",
+ "defence": "DEF 1100",
+ "description": "月を守護するきれいな女神。月あかりのカーテンで攻撃を防ぐ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "月の女神 エルザェム",
+ "pronunciation": "ツキノメガミエルザェム",
+ "race": "天使"
+}

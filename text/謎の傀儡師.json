@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"地","defence":"1500","description":"モンスターが召喚・反転召喚に成功した時、自分は５００ライフポイント回復する。","kinds":[{"kind":"効果"}],"level":4,"name":"謎の傀儡師","pronunciation":"ナゾノクグツシ","race":"戦士"}
+{
+ "attack": "ATK 1000",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "モンスターが召喚・反転召喚に成功した時、自分は５００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "謎の傀儡師",
+ "pronunciation": "ナゾノクグツシ",
+ "race": "戦士"
+}

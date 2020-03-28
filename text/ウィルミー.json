@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"地","defence":"1200","description":"かなり凶暴なウサギ。鋭いかぎづめで、相手を血祭りにあげる。","kinds":[{"kind":"通常"}],"level":4,"name":"ウィルミー","pronunciation":"ウィルミー","race":"獣"}
+{
+ "attack": "ATK 1000",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "かなり凶暴なウサギ。鋭いかぎづめで、相手を血祭りにあげる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ウィルミー",
+ "pronunciation": "ウィルミー",
+ "race": "獣"
+}

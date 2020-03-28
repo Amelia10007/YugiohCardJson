@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"800","description":"このカードを手札から墓地に捨てる。自分のデッキまたは墓地に存在する「ネオスペース」１枚を手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"ネオスペース・コンダクター","pronunciation":"ネオスペース・コンダクター","race":"戦士"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 800",
+ "description": "このカードを手札から墓地に捨てる。自分のデッキまたは墓地に存在する「ネオスペース」１枚を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ネオスペース・コンダクター",
+ "pronunciation": "ネオスペース・コンダクター",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1850","attribute":"水","defence":"1000","description":"かつて邪悪な心を持っていたが、ある人物に会う事で正義の心に目覚めた悪魔の若者。","kinds":[{"kind":"通常"}],"level":4,"name":"ガガギゴ","pronunciation":"ガガギゴ","race":"爬虫類"}
+{
+ "attack": "ATK 1850",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "かつて邪悪な心を持っていたが、ある人物に会う事で正義の心に目覚めた悪魔の若者。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ガガギゴ",
+ "pronunciation": "ガガギゴ",
+ "race": "爬虫類"
+}

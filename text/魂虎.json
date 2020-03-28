@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"地","defence":"2100","description":"人の魂をむさぼると言われている恐ろしい虎の魂。できれば出会いたくない魂として有名。","kinds":[{"kind":"通常"}],"level":4,"name":"魂虎","pronunciation":"ソウルタイガー","race":"獣"}
+{
+ "attack": "ATK 0",
+ "attribute": "地",
+ "defence": "DEF 2100",
+ "description": "人の魂をむさぼると言われている恐ろしい虎の魂。できれば出会いたくない魂として有名。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "魂虎",
+ "pronunciation": "ソウルタイガー",
+ "race": "獣"
+}

@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"闇","defence":"1200","description":"凶悪なドラゴン。邪悪な炎をはき、心を邪悪にする。","kinds":[{"kind":"通常"}],"level":4,"name":"デビル・ドラゴン","pronunciation":"デビル・ドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 1500",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "凶悪なドラゴン。邪悪な炎をはき、心を邪悪にする。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "デビル・ドラゴン",
+ "pronunciation": "デビル・ドラゴン",
+ "race": "ドラゴン"
+}

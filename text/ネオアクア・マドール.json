@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"水","defence":"3000","description":"水を支配する魔法使いの真の姿。絶対に破る事のできないと言われる巨大な氷の壁をつくり攻撃を防ぐ。","kinds":[{"kind":"通常"}],"level":6,"name":"ネオアクア・マドール","pronunciation":"ネオアクア・マドール","race":"魔法使い"}
+{
+ "attack": "ATK 1200",
+ "attribute": "水",
+ "defence": "DEF 3000",
+ "description": "水を支配する魔法使いの真の姿。絶対に破る事のできないと言われる巨大な氷の壁をつくり攻撃を防ぐ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "ネオアクア・マドール",
+ "pronunciation": "ネオアクア・マドール",
+ "race": "魔法使い"
+}

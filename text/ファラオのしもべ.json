@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"闇","defence":"0","description":"かつてファラオに仕えたといわれている者たちの亡霊。揺らぐ事のない忠誠心を持っている。","kinds":[{"kind":"通常"}],"level":2,"name":"ファラオのしもべ","pronunciation":"ファラオノシモベ","race":"アンデット"}
+{
+ "attack": "ATK 900",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "かつてファラオに仕えたといわれている者たちの亡霊。揺らぐ事のない忠誠心を持っている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ファラオのしもべ",
+ "pronunciation": "ファラオノシモベ",
+ "race": "アンデット"
+}

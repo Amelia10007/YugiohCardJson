@@ -1,1 +1,18 @@
-{"attack":"2100","attribute":"風","defence":"1800","description":"「冠を戴く蒼き翼」+「コケ」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"裁きの鷹","pronunciation":"サバキノタカ","race":"鳥獣"}
+{
+ "attack": "ATK 2100",
+ "attribute": "風",
+ "defence": "DEF 1800",
+ "description": "「冠を戴く蒼き翼」+「コケ」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "裁きの鷹",
+ "pronunciation": "サバキノタカ",
+ "race": "鳥獣"
+}

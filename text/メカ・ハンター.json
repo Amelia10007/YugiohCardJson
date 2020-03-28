@@ -1,1 +1,15 @@
-{"attack":"1850","attribute":"闇","defence":"800","description":"機械王の命令で、ターゲットを捕まえるまで追いつづけるハンター。","kinds":[{"kind":"通常"}],"level":4,"name":"メカ・ハンター","pronunciation":"メカ・ハンター","race":"機械"}
+{
+ "attack": "ATK 1850",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "機械王の命令で、ターゲットを捕まえるまで追いつづけるハンター。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "メカ・ハンター",
+ "pronunciation": "メカ・ハンター",
+ "race": "機械"
+}

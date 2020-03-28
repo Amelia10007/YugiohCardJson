@@ -1,1 +1,10 @@
-{"description":"相手は３０００ライフポイント回復する。","kinds":[{"kind":"通常罠"}],"name":"ギフトカード","pronunciation":"ギフトカード"}
+{
+ "description": "相手は３０００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "ギフトカード",
+ "pronunciation": "ギフトカード"
+}

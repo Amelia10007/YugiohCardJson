@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"風","defence":"1400","description":"このカードが手札から墓地に送られた時、このカードをデッキに加えてシャッフルする。","kinds":[{"kind":"効果"}],"level":6,"name":"霞の谷の大怪鳥","pronunciation":"カスミノタニノダイカイチョウ","race":"鳥獣"}
+{
+ "attack": "ATK 2400",
+ "attribute": "風",
+ "defence": "DEF 1400",
+ "description": "このカードが手札から墓地に送られた時、このカードをデッキに加えてシャッフルする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "霞の谷の大怪鳥",
+ "pronunciation": "カスミノタニノダイカイチョウ",
+ "race": "鳥獣"
+}

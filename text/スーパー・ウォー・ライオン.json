@@ -1,1 +1,18 @@
-{"attack":"2300","attribute":"地","defence":"2100","description":"「ライオンの儀式」により降臨。","kinds":[{"kind":"通常"},{"kind":"儀式"}],"level":7,"name":"スーパー・ウォー・ライオン","pronunciation":"スーパー・ウォー・ライオン","race":"獣"}
+{
+ "attack": "ATK 2300",
+ "attribute": "地",
+ "defence": "DEF 2100",
+ "description": "「ライオンの儀式」により降臨。",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "儀式"
+  }
+ ],
+ "level": 7,
+ "name": "スーパー・ウォー・ライオン",
+ "pronunciation": "スーパー・ウォー・ライオン",
+ "race": "獣"
+}

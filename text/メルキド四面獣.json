@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"闇","defence":"1200","description":"４つの仮面を切り替えながら、４種類の攻撃をしてくる化け物。","kinds":[{"kind":"通常"}],"level":4,"name":"メルキド四面獣","pronunciation":"メルキドシメンジュウ","race":"悪魔"}
+{
+ "attack": "ATK 1500",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "４つの仮面を切り替えながら、４種類の攻撃をしてくる化け物。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "メルキド四面獣",
+ "pronunciation": "メルキドシメンジュウ",
+ "race": "悪魔"
+}

@@ -1,1 +1,15 @@
-{"attack":"350","attribute":"水","defence":"300","description":"今はまだおだやかな心を持っているが、邪悪な心に染まる運命を背負っている…。","kinds":[{"kind":"通常"}],"level":1,"name":"ギゴバイト","pronunciation":"ギゴバイト","race":"爬虫類"}
+{
+ "attack": "ATK 350",
+ "attribute": "水",
+ "defence": "DEF 300",
+ "description": "今はまだおだやかな心を持っているが、邪悪な心に染まる運命を背負っている…。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "ギゴバイト",
+ "pronunciation": "ギゴバイト",
+ "race": "爬虫類"
+}

@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"1200","description":"青白い肌をした、気味の悪い正体不明のモンスター。","kinds":[{"kind":"通常"}],"level":4,"name":"ペイルビースト","pronunciation":"ペイルビースト","race":"獣"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "青白い肌をした、気味の悪い正体不明のモンスター。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ペイルビースト",
+ "pronunciation": "ペイルビースト",
+ "race": "獣"
+}

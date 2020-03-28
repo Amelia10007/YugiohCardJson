@@ -1,1 +1,10 @@
-{"description":"相手ライフに６００ポイントダメージを与える。","kinds":[{"kind":"通常魔法"}],"name":"火あぶりの刑","pronunciation":"ヒアブリノケイ"}
+{
+ "description": "相手ライフに６００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "火あぶりの刑",
+ "pronunciation": "ヒアブリノケイ"
+}

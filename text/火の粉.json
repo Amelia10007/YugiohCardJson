@@ -1,1 +1,10 @@
-{"description":"相手ライフに２００ポイントダメージを与える。","kinds":[{"kind":"通常魔法"}],"name":"火の粉","pronunciation":"ヒノコ"}
+{
+ "description": "相手ライフに２００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "火の粉",
+ "pronunciation": "ヒノコ"
+}

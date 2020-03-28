@@ -1,1 +1,15 @@
-{"attack":"750","attribute":"風","defence":"600","description":"地面を転がり回り、周囲に電撃を放つボール。","kinds":[{"kind":"通常"}],"level":2,"name":"メガ・サンダーボール","pronunciation":"メガ・サンダーボール","race":"雷"}
+{
+ "attack": "ATK 750",
+ "attribute": "風",
+ "defence": "DEF 600",
+ "description": "地面を転がり回り、周囲に電撃を放つボール。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "メガ・サンダーボール",
+ "pronunciation": "メガ・サンダーボール",
+ "race": "雷"
+}

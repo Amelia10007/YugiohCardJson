@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"風","defence":"1000","description":"大きなハチ。意外に強い攻撃をする。群で襲われると大変。","kinds":[{"kind":"通常"}],"level":4,"name":"キラー・ビー","pronunciation":"キラー・ビー","race":"昆虫"}
+{
+ "attack": "ATK 1200",
+ "attribute": "風",
+ "defence": "DEF 1000",
+ "description": "大きなハチ。意外に強い攻撃をする。群で襲われると大変。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "キラー・ビー",
+ "pronunciation": "キラー・ビー",
+ "race": "昆虫"
+}

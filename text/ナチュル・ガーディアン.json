@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"地","defence":"400","description":"相手がモンスターの召喚に成功した時、このカードの攻撃力はエンドフェイズ時まで３００ポイントアップする。","kinds":[{"kind":"効果"}],"level":4,"name":"ナチュル・ガーディアン","pronunciation":"ナチュル・ガーディアン","race":"植物"}
+{
+ "attack": "ATK 1600",
+ "attribute": "地",
+ "defence": "DEF 400",
+ "description": "相手がモンスターの召喚に成功した時、このカードの攻撃力はエンドフェイズ時まで３００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ナチュル・ガーディアン",
+ "pronunciation": "ナチュル・ガーディアン",
+ "race": "植物"
+}

@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"地","defence":"300","description":"このカードの表示形式が攻撃表示から表側守備表示に変わった時、相手フィールド上のモンスター１体を破壊する。","kinds":[{"kind":"効果"}],"level":2,"name":"ブレードラビット","pronunciation":"ブレードラビット","race":"獣"}
+{
+ "attack": "ATK 400",
+ "attribute": "地",
+ "defence": "DEF 300",
+ "description": "このカードの表示形式が攻撃表示から表側守備表示に変わった時、相手フィールド上のモンスター１体を破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ブレードラビット",
+ "pronunciation": "ブレードラビット",
+ "race": "獣"
+}

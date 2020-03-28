@@ -1,1 +1,18 @@
-{"attack":"4500","attribute":"光","defence":"3800","description":"「青眼の白龍」＋「青眼の白龍」＋「青眼の白龍」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":12,"name":"青眼の究極竜","pronunciation":"ブルーアイズアルティメットドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 4500",
+ "attribute": "光",
+ "defence": "DEF 3800",
+ "description": "「青眼の白龍」＋「青眼の白龍」＋「青眼の白龍」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 12,
+ "name": "青眼の究極竜",
+ "pronunciation": "ブルーアイズアルティメットドラゴン",
+ "race": "ドラゴン"
+}

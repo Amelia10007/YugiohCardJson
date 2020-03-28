@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"炎","defence":"1700","description":"このカードは特殊召喚できない。このカードの召喚に成功した時、自分のデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":7,"name":"フレイム・オーガ","pronunciation":"フレイム・オーガ","race":"悪魔"}
+{
+ "attack": "ATK 2400",
+ "attribute": "炎",
+ "defence": "DEF 1700",
+ "description": "このカードは特殊召喚できない。このカードの召喚に成功した時、自分のデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 7,
+ "name": "フレイム・オーガ",
+ "pronunciation": "フレイム・オーガ",
+ "race": "悪魔"
+}

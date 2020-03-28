@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"0","description":"相手がコントロールするカードの効果によって、このカードが手札から墓地に送られた時、相手ライフに２０００ポイントダメージを与える。","kinds":[{"kind":"効果"}],"level":3,"name":"災いの像","pronunciation":"ワザワイノゾウ","race":"岩石"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 0",
+ "description": "相手がコントロールするカードの効果によって、このカードが手札から墓地に送られた時、相手ライフに２０００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "災いの像",
+ "pronunciation": "ワザワイノゾウ",
+ "race": "岩石"
+}

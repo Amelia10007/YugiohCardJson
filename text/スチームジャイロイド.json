@@ -1,1 +1,18 @@
-{"attack":"2200","attribute":"地","defence":"1600","description":"「ジャイロイド」＋「スチームロイド」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"スチームジャイロイド","pronunciation":"スチームジャイロイド","race":"機械"}
+{
+ "attack": "ATK 2200",
+ "attribute": "地",
+ "defence": "DEF 1600",
+ "description": "「ジャイロイド」＋「スチームロイド」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "スチームジャイロイド",
+ "pronunciation": "スチームジャイロイド",
+ "race": "機械"
+}

@@ -1,1 +1,15 @@
-{"attack":"2200","attribute":"闇","defence":"0","description":"このカードは召喚したターンには攻撃できない。","kinds":[{"kind":"効果"}],"level":4,"name":"遅すぎたオーク","pronunciation":"オソスギタオーク","race":"悪魔"}
+{
+ "attack": "ATK 2200",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "このカードは召喚したターンには攻撃できない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "遅すぎたオーク",
+ "pronunciation": "オソスギタオーク",
+ "race": "悪魔"
+}

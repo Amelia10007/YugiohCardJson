@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"炎","defence":"500","description":"このカードの攻撃力は、相手フィールド上の魔法・罠カードの枚数×４００ポイントアップする。","kinds":[{"kind":"効果"}],"level":3,"name":"Ｎ・フレア・スカラベ","pronunciation":"ネオスペーシアンフレアスカラベ","race":"昆虫"}
+{
+ "attack": "ATK 500",
+ "attribute": "炎",
+ "defence": "DEF 500",
+ "description": "このカードの攻撃力は、相手フィールド上の魔法・罠カードの枚数×４００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "Ｎ・フレア・スカラベ",
+ "pronunciation": "ネオスペーシアンフレアスカラベ",
+ "race": "昆虫"
+}

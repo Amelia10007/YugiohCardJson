@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"闇","defence":"1400","description":"光属性モンスターの攻撃を受けた時、このカードの守備力は半分になる。","kinds":[{"kind":"効果"}],"level":3,"name":"闇の芸術家","pronunciation":"ダークアーティスト","race":"悪魔"}
+{
+ "attack": "ATK 600",
+ "attribute": "闇",
+ "defence": "DEF 1400",
+ "description": "光属性モンスターの攻撃を受けた時、このカードの守備力は半分になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "闇の芸術家",
+ "pronunciation": "ダークアーティスト",
+ "race": "悪魔"
+}

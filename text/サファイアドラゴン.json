@@ -1,1 +1,15 @@
-{"attack":"1900","attribute":"風","defence":"1600","description":"全身がサファイアに覆われた、非常に美しい姿をしたドラゴン。争いは好まないが、とても高い攻撃力を備えている。","kinds":[{"kind":"通常"}],"level":4,"name":"サファイアドラゴン","pronunciation":"サファイアドラゴン","race":"ドラゴン"}
+{
+ "attack": "ATK 1900",
+ "attribute": "風",
+ "defence": "DEF 1600",
+ "description": "全身がサファイアに覆われた、非常に美しい姿をしたドラゴン。争いは好まないが、とても高い攻撃力を備えている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "サファイアドラゴン",
+ "pronunciation": "サファイアドラゴン",
+ "race": "ドラゴン"
+}

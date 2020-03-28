@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"地","defence":"800","description":"暗闇の中、道行く人々を襲う人型の吸血ヘビ。","kinds":[{"kind":"通常"}],"level":3,"name":"生き血をすするもの","pronunciation":"イキチヲススルモノ","race":"爬虫類"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "暗闇の中、道行く人々を襲う人型の吸血ヘビ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "生き血をすするもの",
+ "pronunciation": "イキチヲススルモノ",
+ "race": "爬虫類"
+}

@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"水","defence":"0","description":"自分フィールド上にこのカード以外の魚族・海竜族・水族モンスターが存在する場合、このカードの攻撃力は８００ポイントアップする。","kinds":[{"kind":"効果"}],"level":3,"name":"海皇の突撃兵","pronunciation":"カイオウノトツゲキヘイ","race":"海竜"}
+{
+ "attack": "ATK 1400",
+ "attribute": "水",
+ "defence": "DEF 0",
+ "description": "自分フィールド上にこのカード以外の魚族・海竜族・水族モンスターが存在する場合、このカードの攻撃力は８００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "海皇の突撃兵",
+ "pronunciation": "カイオウノトツゲキヘイ",
+ "race": "海竜"
+}

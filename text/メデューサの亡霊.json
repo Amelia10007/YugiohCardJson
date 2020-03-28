@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"闇","defence":"1200","description":"毒ヘビの頭を持つモンスター。目をあわせると、石にされてしまう。","kinds":[{"kind":"通常"}],"level":4,"name":"メデューサの亡霊","pronunciation":"メデューサノボウレイ","race":"アンデット"}
+{
+ "attack": "ATK 1500",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "毒ヘビの頭を持つモンスター。目をあわせると、石にされてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "メデューサの亡霊",
+ "pronunciation": "メデューサノボウレイ",
+ "race": "アンデット"
+}

@@ -1,1 +1,18 @@
-{"attack":"2800","attribute":"光","defence":"2000","description":"「慈悲深き修道女」＋「堕天使マリー」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":7,"name":"聖女ジャンヌ","pronunciation":"セイジョジャンヌ","race":"天使"}
+{
+ "attack": "ATK 2800",
+ "attribute": "光",
+ "defence": "DEF 2000",
+ "description": "「慈悲深き修道女」＋「堕天使マリー」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 7,
+ "name": "聖女ジャンヌ",
+ "pronunciation": "セイジョジャンヌ",
+ "race": "天使"
+}

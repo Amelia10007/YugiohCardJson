@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"風","defence":"1000","description":"ハイエルフの森に生息するクワガタ。人の親指ほどの大きさしかないが、鋼鉄をも切り裂く強力な顎をもつ。","kinds":[{"kind":"通常"}],"level":4,"name":"ギロチン・クワガタ","pronunciation":"ギロチン・クワガタ","race":"昆虫"}
+{
+ "attack": "ATK 1700",
+ "attribute": "風",
+ "defence": "DEF 1000",
+ "description": "ハイエルフの森に生息するクワガタ。人の親指ほどの大きさしかないが、鋼鉄をも切り裂く強力な顎をもつ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ギロチン・クワガタ",
+ "pronunciation": "ギロチン・クワガタ",
+ "race": "昆虫"
+}

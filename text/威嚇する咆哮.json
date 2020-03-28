@@ -1,1 +1,10 @@
-{"description":"このターン相手は攻撃宣言をする事ができない。","kinds":[{"kind":"通常罠"}],"name":"威嚇する咆哮","pronunciation":"イカクスルホウコウ"}
+{
+ "description": "このターン相手は攻撃宣言をする事ができない。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "威嚇する咆哮",
+ "pronunciation": "イカクスルホウコウ"
+}

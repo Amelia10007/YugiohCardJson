@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"光","defence":"100","description":"このカードは１度のバトルフェイズ中に２回攻撃する事ができる。このカードと戦闘を行ったモンスターは表示形式を変更する事ができない。","kinds":[{"kind":"効果"}],"level":3,"name":"エレキツツキ","pronunciation":"エレキツツキ","race":"雷"}
+{
+ "attack": "ATK 1000",
+ "attribute": "光",
+ "defence": "DEF 100",
+ "description": "このカードは１度のバトルフェイズ中に２回攻撃する事ができる。このカードと戦闘を行ったモンスターは表示形式を変更する事ができない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "エレキツツキ",
+ "pronunciation": "エレキツツキ",
+ "race": "雷"
+}

@@ -1,1 +1,15 @@
-{"attack":"2800","attribute":"地","defence":"1500","description":"自分の手札が０枚である限り、相手は魔法カードを発動する事ができない。","kinds":[{"kind":"効果"}],"level":7,"name":"メカニカル・ハウンド","pronunciation":"メカニカル・ハウンド","race":"機械"}
+{
+ "attack": "ATK 2800",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "自分の手札が０枚である限り、相手は魔法カードを発動する事ができない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 7,
+ "name": "メカニカル・ハウンド",
+ "pronunciation": "メカニカル・ハウンド",
+ "race": "機械"
+}

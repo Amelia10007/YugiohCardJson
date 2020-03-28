@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"900","description":"煙の中にひそむ悪魔。まわりを煙でおおい、見えなくしてしまう。","kinds":[{"kind":"通常"}],"level":3,"name":"キング・スモーク","pronunciation":"キング・スモーク","race":"悪魔"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 900",
+ "description": "煙の中にひそむ悪魔。まわりを煙でおおい、見えなくしてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "キング・スモーク",
+ "pronunciation": "キング・スモーク",
+ "race": "悪魔"
+}

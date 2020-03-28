@@ -1,1 +1,10 @@
-{"description":"自分のデッキからカードを２枚ドローする。","kinds":[{"kind":"通常魔法"}],"name":"強欲な壺","pronunciation":"ゴウヨクナツボ"}
+{
+ "description": "自分のデッキからカードを２枚ドローする。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "強欲な壺",
+ "pronunciation": "ゴウヨクナツボ"
+}

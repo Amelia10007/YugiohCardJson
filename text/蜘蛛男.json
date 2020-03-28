@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"1400","description":"巨大クモが知恵をつけた姿。糸を吐き動きを封じ込める。","kinds":[{"kind":"通常"}],"level":3,"name":"蜘蛛男","pronunciation":"クモオトコ","race":"昆虫"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "巨大クモが知恵をつけた姿。糸を吐き動きを封じ込める。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "蜘蛛男",
+ "pronunciation": "クモオトコ",
+ "race": "昆虫"
+}

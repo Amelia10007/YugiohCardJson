@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"風","defence":"1600","description":"リバース：カード名に「ガーディアン」の文字が入っているカードを自分のデッキから１枚手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"ウェポンサモナー","pronunciation":"ウェポンサモナー","race":"魔法使い"}
+{
+ "attack": "ATK 1600",
+ "attribute": "風",
+ "defence": "DEF 1600",
+ "description": "リバース：カード名に「ガーディアン」の文字が入っているカードを自分のデッキから１枚手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ウェポンサモナー",
+ "pronunciation": "ウェポンサモナー",
+ "race": "魔法使い"
+}

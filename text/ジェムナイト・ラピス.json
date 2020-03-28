@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"100","description":"仲間の健康を常に気づかう癒しの戦士。ラズリーとは大の仲良しだ。","kinds":[{"kind":"通常"}],"level":3,"name":"ジェムナイト・ラピス","pronunciation":"ジェムナイト・ラピス","race":"岩石"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 100",
+ "description": "仲間の健康を常に気づかう癒しの戦士。ラズリーとは大の仲良しだ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ジェムナイト・ラピス",
+ "pronunciation": "ジェムナイト・ラピス",
+ "race": "岩石"
+}

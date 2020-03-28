@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"900","description":"神話の世界に出てくるヘビ。非常に長い。","kinds":[{"kind":"通常"}],"level":3,"name":"ヨルムンガルド","pronunciation":"ヨルムンガルド","race":"爬虫類"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 900",
+ "description": "神話の世界に出てくるヘビ。非常に長い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ヨルムンガルド",
+ "pronunciation": "ヨルムンガルド",
+ "race": "爬虫類"
+}

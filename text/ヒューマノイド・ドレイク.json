@@ -1,1 +1,18 @@
-{"attack":"2200","attribute":"水","defence":"2000","description":"「ワームドレイク」＋「ヒューマノイド・スライム」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":7,"name":"ヒューマノイド・ドレイク","pronunciation":"ヒューマノイド・ドレイク","race":"水"}
+{
+ "attack": "ATK 2200",
+ "attribute": "水",
+ "defence": "DEF 2000",
+ "description": "「ワームドレイク」＋「ヒューマノイド・スライム」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 7,
+ "name": "ヒューマノイド・ドレイク",
+ "pronunciation": "ヒューマノイド・ドレイク",
+ "race": "水"
+}

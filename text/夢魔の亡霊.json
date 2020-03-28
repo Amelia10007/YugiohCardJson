@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"闇","defence":"1800","description":"寝ている者の夢に取り憑き、生気を吸い取る悪魔。取り憑かれてしまった者は、決して自力で目覚めることはない。","kinds":[{"kind":"通常"}],"level":4,"name":"夢魔の亡霊","pronunciation":"ムマノボウレイ","race":"悪魔"}
+{
+ "attack": "ATK 1300",
+ "attribute": "闇",
+ "defence": "DEF 1800",
+ "description": "寝ている者の夢に取り憑き、生気を吸い取る悪魔。取り憑かれてしまった者は、決して自力で目覚めることはない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "夢魔の亡霊",
+ "pronunciation": "ムマノボウレイ",
+ "race": "悪魔"
+}

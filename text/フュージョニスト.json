@@ -1,1 +1,18 @@
-{"attack":"900","attribute":"地","defence":"700","description":"「プチテンシ」＋「スリーピィ」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":3,"name":"フュージョニスト","pronunciation":"フュージョニスト","race":"獣"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 700",
+ "description": "「プチテンシ」＋「スリーピィ」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 3,
+ "name": "フュージョニスト",
+ "pronunciation": "フュージョニスト",
+ "race": "獣"
+}

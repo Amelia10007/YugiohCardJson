@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"闇","defence":"800","description":"ほそっちょとでぶっちょの、仲良しガイコツ二人組。歩きにくそう。","kinds":[{"kind":"通常"}],"level":3,"name":"２人３脚ゾンビ","pronunciation":"ニニンサンキャクゾンビ","race":"アンデット"}
+{
+ "attack": "ATK 1100",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "ほそっちょとでぶっちょの、仲良しガイコツ二人組。歩きにくそう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "２人３脚ゾンビ",
+ "pronunciation": "ニニンサンキャクゾンビ",
+ "race": "アンデット"
+}

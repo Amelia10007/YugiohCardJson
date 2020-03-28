@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"水","defence":"1000","description":"広大な銀河を漂う宇宙マンボウ。アルファード４の超文明遺跡から発見されたという生きた化石。","kinds":[{"kind":"通常"}],"level":4,"name":"スペースマンボウ","pronunciation":"スペースマンボウ","race":"魚"}
+{
+ "attack": "ATK 1700",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "広大な銀河を漂う宇宙マンボウ。アルファード４の超文明遺跡から発見されたという生きた化石。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "スペースマンボウ",
+ "pronunciation": "スペースマンボウ",
+ "race": "魚"
+}

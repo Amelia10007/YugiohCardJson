@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"1300","description":"剣やマメを使って攻撃してくる植物戦士。意外と強いぞ。","kinds":[{"kind":"通常"}],"level":4,"name":"ビーン・ソルジャー","pronunciation":"ビーン・ソルジャー","race":"植物"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 1300",
+ "description": "剣やマメを使って攻撃してくる植物戦士。意外と強いぞ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ビーン・ソルジャー",
+ "pronunciation": "ビーン・ソルジャー",
+ "race": "植物"
+}

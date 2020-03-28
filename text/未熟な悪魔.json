@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"闇","defence":"750","description":"完全体になれなかった醜い悪魔。はらの穴は何でも吸い込む。","kinds":[{"kind":"通常"}],"level":2,"name":"未熟な悪魔","pronunciation":"ミジュクナアクマ","race":"悪魔"}
+{
+ "attack": "ATK 500",
+ "attribute": "闇",
+ "defence": "DEF 750",
+ "description": "完全体になれなかった醜い悪魔。はらの穴は何でも吸い込む。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "未熟な悪魔",
+ "pronunciation": "ミジュクナアクマ",
+ "race": "悪魔"
+}

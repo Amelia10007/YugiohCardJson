@@ -1,1 +1,15 @@
-{"attack":"950","attribute":"地","defence":"700","description":"頭のノコギリの他に、腕もノコギリになっているクワガタ。","kinds":[{"kind":"通常"}],"level":3,"name":"インセクション","pronunciation":"インセクション","race":"昆虫"}
+{
+ "attack": "ATK 950",
+ "attribute": "地",
+ "defence": "DEF 700",
+ "description": "頭のノコギリの他に、腕もノコギリになっているクワガタ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "インセクション",
+ "pronunciation": "インセクション",
+ "race": "昆虫"
+}

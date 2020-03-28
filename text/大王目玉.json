@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"闇","defence":"1000","description":"リバース：自分のデッキのカードを上から５枚見て、そのカードを好きな順番に入れ替える事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"大王目玉","pronunciation":"ダイオウメダマ","race":"悪魔"}
+{
+ "attack": "ATK 1200",
+ "attribute": "闇",
+ "defence": "DEF 1000",
+ "description": "リバース：自分のデッキのカードを上から５枚見て、そのカードを好きな順番に入れ替える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "大王目玉",
+ "pronunciation": "ダイオウメダマ",
+ "race": "悪魔"
+}

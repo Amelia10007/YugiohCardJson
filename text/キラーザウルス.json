@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"地","defence":"1100","description":"このカードを手札から墓地に捨てる。デッキから「ジュラシックワールド」１枚を手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"キラーザウルス","pronunciation":"キラーザウルス","race":"恐竜"}
+{
+ "attack": "ATK 1800",
+ "attribute": "地",
+ "defence": "DEF 1100",
+ "description": "このカードを手札から墓地に捨てる。デッキから「ジュラシックワールド」１枚を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "キラーザウルス",
+ "pronunciation": "キラーザウルス",
+ "race": "恐竜"
+}

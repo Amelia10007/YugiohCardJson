@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"闇","defence":"1800","description":"このカードが召喚（反転召喚）に成功した時、「幻獣王ガゼル」をデッキから１枚手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":5,"name":"バフォメット","pronunciation":"バフォメット","race":"悪魔"}
+{
+ "attack": "ATK 1400",
+ "attribute": "闇",
+ "defence": "DEF 1800",
+ "description": "このカードが召喚（反転召喚）に成功した時、「幻獣王ガゼル」をデッキから１枚手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 5,
+ "name": "バフォメット",
+ "pronunciation": "バフォメット",
+ "race": "悪魔"
+}

@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"水","defence":"700","description":"スライムの親分。見た目は同じだが、なめてかかると痛い目にあうぞ。","kinds":[{"kind":"通常"}],"level":3,"name":"キラー・ブロッブ","pronunciation":"キラー・ブロッブ","race":"水"}
+{
+ "attack": "ATK 1300",
+ "attribute": "水",
+ "defence": "DEF 700",
+ "description": "スライムの親分。見た目は同じだが、なめてかかると痛い目にあうぞ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "キラー・ブロッブ",
+ "pronunciation": "キラー・ブロッブ",
+ "race": "水"
+}

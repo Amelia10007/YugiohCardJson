@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"600","description":"目が一つしかないヘビ。冷気をはき出し、相手を氷づけにする。","kinds":[{"kind":"通常"}],"level":2,"name":"デビル・スネーク","pronunciation":"デビル・スネーク","race":"爬虫類"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 600",
+ "description": "目が一つしかないヘビ。冷気をはき出し、相手を氷づけにする。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "デビル・スネーク",
+ "pronunciation": "デビル・スネーク",
+ "race": "爬虫類"
+}

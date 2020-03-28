@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"水","defence":"1200","description":"体にヒレを持ち、水中でも自由に動ける海竜の仲間。","kinds":[{"kind":"通常"}],"level":4,"name":"タクリミノス","pronunciation":"タクリミノス","race":"海竜"}
+{
+ "attack": "ATK 1500",
+ "attribute": "水",
+ "defence": "DEF 1200",
+ "description": "体にヒレを持ち、水中でも自由に動ける海竜の仲間。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "タクリミノス",
+ "pronunciation": "タクリミノス",
+ "race": "海竜"
+}

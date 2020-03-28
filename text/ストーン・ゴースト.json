@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1000","description":"怒らせると、おつむが大噴火。岩がゴロゴロ降ってくるぞ。","kinds":[{"kind":"通常"}],"level":4,"name":"ストーン・ゴースト","pronunciation":"ストーン・ゴースト","race":"岩石"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "怒らせると、おつむが大噴火。岩がゴロゴロ降ってくるぞ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ストーン・ゴースト",
+ "pronunciation": "ストーン・ゴースト",
+ "race": "岩石"
+}

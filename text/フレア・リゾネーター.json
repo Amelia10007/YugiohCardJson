@@ -1,1 +1,18 @@
-{"attack":"300","attribute":"炎","defence":"1300","description":"このカードをシンクロ素材としたシンクロモンスターの攻撃力は３００ポイントアップする。","kinds":[{"kind":"効果"},{"kind":"チューナー"}],"level":3,"name":"フレア・リゾネーター","pronunciation":"フレア・リゾネーター","race":"悪魔"}
+{
+ "attack": "ATK 300",
+ "attribute": "炎",
+ "defence": "DEF 1300",
+ "description": "このカードをシンクロ素材としたシンクロモンスターの攻撃力は３００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 3,
+ "name": "フレア・リゾネーター",
+ "pronunciation": "フレア・リゾネーター",
+ "race": "悪魔"
+}

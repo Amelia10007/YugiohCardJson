@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"1500","description":"戦いの神と言われている天使。その戦いを見た者は誰もいない。","kinds":[{"kind":"通常"}],"level":5,"name":"戦いの神 オリオン","pronunciation":"タタカイノカミオリオン","race":"天使"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 1500",
+ "description": "戦いの神と言われている天使。その戦いを見た者は誰もいない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "戦いの神 オリオン",
+ "pronunciation": "タタカイノカミオリオン",
+ "race": "天使"
+}

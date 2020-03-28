@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"水","defence":"500","description":"このカードが戦闘によって破壊され墓地へ送られた時、自分のデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":1,"name":"氷結界の番人ブリズド","pronunciation":"ヒョウケッカイノバンニンブリズド","race":"水"}
+{
+ "attack": "ATK 300",
+ "attribute": "水",
+ "defence": "DEF 500",
+ "description": "このカードが戦闘によって破壊され墓地へ送られた時、自分のデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "氷結界の番人ブリズド",
+ "pronunciation": "ヒョウケッカイノバンニンブリズド",
+ "race": "水"
+}

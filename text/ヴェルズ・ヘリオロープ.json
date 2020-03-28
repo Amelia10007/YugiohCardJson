@@ -1,1 +1,15 @@
-{"attack":"1950","attribute":"闇","defence":"650","description":"ルメトモヲンエウユシツメハイカハンネヤジルナウコウスノズルエヴンイイシマタノラレワルナクアヤジテシニイスンユジ","kinds":[{"kind":"通常"}],"level":4,"name":"ヴェルズ・ヘリオロープ","pronunciation":"ヴェルズ・ヘリオロープ","race":"岩石"}
+{
+ "attack": "ATK 1950",
+ "attribute": "闇",
+ "defence": "DEF 650",
+ "description": "ルメトモヲンエウユシツメハイカハンネヤジルナウコウスノズルエヴンイイシマタノラレワルナクアヤジテシニイスンユジ",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ヴェルズ・ヘリオロープ",
+ "pronunciation": "ヴェルズ・ヘリオロープ",
+ "race": "岩石"
+}

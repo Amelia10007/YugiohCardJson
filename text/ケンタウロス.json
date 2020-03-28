@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"地","defence":"1550","description":"人とウマがひとつになった化け物。走るのが速く、誰も追いつけない。","kinds":[{"kind":"通常"}],"level":4,"name":"ケンタウロス","pronunciation":"ケンタウロス","race":"獣"}
+{
+ "attack": "ATK 1300",
+ "attribute": "地",
+ "defence": "DEF 1550",
+ "description": "人とウマがひとつになった化け物。走るのが速く、誰も追いつけない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ケンタウロス",
+ "pronunciation": "ケンタウロス",
+ "race": "獣"
+}

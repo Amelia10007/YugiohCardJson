@@ -1,1 +1,15 @@
-{"attack":"950","attribute":"闇","defence":"1400","description":"銀河系の外から地球にやってきた宇宙人。","kinds":[{"kind":"通常"}],"level":4,"name":"異次元からの侵略者","pronunciation":"イジゲンカラノシンリャクシャ","race":"悪魔"}
+{
+ "attack": "ATK 950",
+ "attribute": "闇",
+ "defence": "DEF 1400",
+ "description": "銀河系の外から地球にやってきた宇宙人。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "異次元からの侵略者",
+ "pronunciation": "イジゲンカラノシンリャクシャ",
+ "race": "悪魔"
+}

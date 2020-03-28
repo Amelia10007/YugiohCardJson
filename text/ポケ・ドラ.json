@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"炎","defence":"100","description":"このカードが召喚に成功した時、自分のデッキから「ポケ・ドラ」１体を手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":3,"name":"ポケ・ドラ","pronunciation":"ポケ・ドラ","race":"ドラゴン"}
+{
+ "attack": "ATK 200",
+ "attribute": "炎",
+ "defence": "DEF 100",
+ "description": "このカードが召喚に成功した時、自分のデッキから「ポケ・ドラ」１体を手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "ポケ・ドラ",
+ "pronunciation": "ポケ・ドラ",
+ "race": "ドラゴン"
+}

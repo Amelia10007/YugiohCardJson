@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"光","defence":"300","description":"とても小さな天使。かわいらしさに負け、誰でも心を開いてしまう。","kinds":[{"kind":"通常"}],"level":1,"name":"キーメイス","pronunciation":"キーメイス","race":"天使"}
+{
+ "attack": "ATK 400",
+ "attribute": "光",
+ "defence": "DEF 300",
+ "description": "とても小さな天使。かわいらしさに負け、誰でも心を開いてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "キーメイス",
+ "pronunciation": "キーメイス",
+ "race": "天使"
+}

@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"地","defence":"2000","description":"電子空間で見つけた新種。その情報量は少ない。","kinds":[{"kind":"通常"}],"level":2,"name":"ビットロン","pronunciation":"ビットロン","race":"サイバース"}
+{
+ "attack": "ATK 200",
+ "attribute": "地",
+ "defence": "DEF 2000",
+ "description": "電子空間で見つけた新種。その情報量は少ない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ビットロン",
+ "pronunciation": "ビットロン",
+ "race": "サイバース"
+}

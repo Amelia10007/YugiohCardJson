@@ -1,1 +1,15 @@
-{"attack":"1450","attribute":"地","defence":"1700","description":"反逆者に仕立て上げられ処刑された騎士の亡霊。失ったものを求め、出会った者に襲いかかる。","kinds":[{"kind":"通常"}],"level":4,"name":"首なし騎士","pronunciation":"クビナシキシ","race":"悪魔"}
+{
+ "attack": "ATK 1450",
+ "attribute": "地",
+ "defence": "DEF 1700",
+ "description": "反逆者に仕立て上げられ処刑された騎士の亡霊。失ったものを求め、出会った者に襲いかかる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "首なし騎士",
+ "pronunciation": "クビナシキシ",
+ "race": "悪魔"
+}

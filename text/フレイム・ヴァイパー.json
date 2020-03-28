@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"地","defence":"450","description":"シュルシュルと素早く動き、口から火炎をはくマムシ。","kinds":[{"kind":"通常"}],"level":2,"name":"フレイム・ヴァイパー","pronunciation":"フレイム・ヴァイパー","race":"炎"}
+{
+ "attack": "ATK 400",
+ "attribute": "地",
+ "defence": "DEF 450",
+ "description": "シュルシュルと素早く動き、口から火炎をはくマムシ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "フレイム・ヴァイパー",
+ "pronunciation": "フレイム・ヴァイパー",
+ "race": "炎"
+}

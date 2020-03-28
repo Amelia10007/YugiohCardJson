@@ -1,1 +1,10 @@
-{"description":"表側表示になったモンスターの表示形式は変更できない。","kinds":[{"kind":"永続罠"}],"name":"砂漠の裁き","pronunciation":"サバクノサバキ"}
+{
+ "description": "表側表示になったモンスターの表示形式は変更できない。",
+ "kinds": [
+  {
+   "kind": "永続罠"
+  }
+ ],
+ "name": "砂漠の裁き",
+ "pronunciation": "サバクノサバキ"
+}

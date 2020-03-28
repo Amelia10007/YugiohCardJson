@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"水","defence":"1600","description":"水属性モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"ヒゲアンコウ","pronunciation":"ヒゲアンコウ","race":"魚"}
+{
+ "attack": "ATK 1500",
+ "attribute": "水",
+ "defence": "DEF 1600",
+ "description": "水属性モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ヒゲアンコウ",
+ "pronunciation": "ヒゲアンコウ",
+ "race": "魚"
+}

@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"水","defence":"2100","description":"このカードがフィールド上に表側表示で存在する限り、「強欲な瓶」が発動する度に自分のデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":4,"name":"瓶亀","pronunciation":"カメガメ","race":"爬虫類"}
+{
+ "attack": "ATK 200",
+ "attribute": "水",
+ "defence": "DEF 2100",
+ "description": "このカードがフィールド上に表側表示で存在する限り、「強欲な瓶」が発動する度に自分のデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "瓶亀",
+ "pronunciation": "カメガメ",
+ "race": "爬虫類"
+}

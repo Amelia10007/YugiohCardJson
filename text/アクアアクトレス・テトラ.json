@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"水","defence":"300","description":"(1)：１ターンに１度、自分メインフェイズに発動できる。デッキから「アクアリウム」カード１枚を手札に加える。","kinds":[{"kind":"効果"}],"level":1,"name":"アクアアクトレス・テトラ","pronunciation":"アクアアクトレス・テトラ","race":"水"}
+{
+ "attack": "ATK 300",
+ "attribute": "水",
+ "defence": "DEF 300",
+ "description": "(1)：１ターンに１度、自分メインフェイズに発動できる。デッキから「アクアリウム」カード１枚を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "アクアアクトレス・テトラ",
+ "pronunciation": "アクアアクトレス・テトラ",
+ "race": "水"
+}

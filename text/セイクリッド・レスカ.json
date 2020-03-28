@@ -1,1 +1,15 @@
-{"attack":"2200","attribute":"光","defence":"1200","description":"このカードが召喚に成功した時、手札から「セイクリッド」と名のついたモンスター１体を表側守備表示で特殊召喚できる。","kinds":[{"kind":"効果"}],"level":6,"name":"セイクリッド・レスカ","pronunciation":"セイクリッド・レスカ","race":"戦士"}
+{
+ "attack": "ATK 2200",
+ "attribute": "光",
+ "defence": "DEF 1200",
+ "description": "このカードが召喚に成功した時、手札から「セイクリッド」と名のついたモンスター１体を表側守備表示で特殊召喚できる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "セイクリッド・レスカ",
+ "pronunciation": "セイクリッド・レスカ",
+ "race": "戦士"
+}

@@ -1,1 +1,18 @@
-{"attack":"2800","attribute":"光","defence":"2100","description":"「サンダー・ドラゴン」＋「サンダー・ドラゴン」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":7,"name":"双頭の雷龍","pronunciation":"ソウトウノサンダードラゴン","race":"雷"}
+{
+ "attack": "ATK 2800",
+ "attribute": "光",
+ "defence": "DEF 2100",
+ "description": "「サンダー・ドラゴン」＋「サンダー・ドラゴン」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 7,
+ "name": "双頭の雷龍",
+ "pronunciation": "ソウトウノサンダードラゴン",
+ "race": "雷"
+}

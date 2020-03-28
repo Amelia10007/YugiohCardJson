@@ -1,1 +1,18 @@
-{"attack":"1900","attribute":"地","defence":"1700","description":"「音女」＋「斬首の美女」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"戦場の死装束","pronunciation":"センジョウノシニショウゾク","race":"戦士"}
+{
+ "attack": "ATK 1900",
+ "attribute": "地",
+ "defence": "DEF 1700",
+ "description": "「音女」＋「斬首の美女」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "戦場の死装束",
+ "pronunciation": "センジョウノシニショウゾク",
+ "race": "戦士"
+}

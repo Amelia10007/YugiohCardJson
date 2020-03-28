@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"地","defence":"500","description":"いろんな奴に変身して、相手をだましながら戦う戦士。","kinds":[{"kind":"通常"}],"level":2,"name":"コピックス","pronunciation":"コピックス","race":"戦士"}
+{
+ "attack": "ATK 600",
+ "attribute": "地",
+ "defence": "DEF 500",
+ "description": "いろんな奴に変身して、相手をだましながら戦う戦士。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "コピックス",
+ "pronunciation": "コピックス",
+ "race": "戦士"
+}

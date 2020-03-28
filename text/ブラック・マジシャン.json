@@ -1,1 +1,15 @@
-{"attack":"2500","attribute":"闇","defence":"2100","description":"魔法使いとしては、攻撃力・守備力ともに最高クラス。","kinds":[{"kind":"通常"}],"level":7,"name":"ブラック・マジシャン","pronunciation":"ブラック・マジシャン","race":"魔法使い"}
+{
+ "attack": "ATK 2500",
+ "attribute": "闇",
+ "defence": "DEF 2100",
+ "description": "魔法使いとしては、攻撃力・守備力ともに最高クラス。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 7,
+ "name": "ブラック・マジシャン",
+ "pronunciation": "ブラック・マジシャン",
+ "race": "魔法使い"
+}

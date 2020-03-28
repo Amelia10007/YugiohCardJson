@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"光","defence":"2000","description":"かよわいエルフだが、聖なる力で身を守りとても守備が高い。","kinds":[{"kind":"通常"}],"level":4,"name":"ホーリー・エルフ","pronunciation":"ホーリー・エルフ","race":"魔法使い"}
+{
+ "attack": "ATK 800",
+ "attribute": "光",
+ "defence": "DEF 2000",
+ "description": "かよわいエルフだが、聖なる力で身を守りとても守備が高い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ホーリー・エルフ",
+ "pronunciation": "ホーリー・エルフ",
+ "race": "魔法使い"
+}

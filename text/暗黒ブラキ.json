@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"地","defence":"1100","description":"このカードが召喚に成功した時、フィールド上のモンスター１体を選択して表側守備表示にする事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"暗黒ブラキ","pronunciation":"ブラックブラキ","race":"恐竜"}
+{
+ "attack": "ATK 1800",
+ "attribute": "地",
+ "defence": "DEF 1100",
+ "description": "このカードが召喚に成功した時、フィールド上のモンスター１体を選択して表側守備表示にする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "暗黒ブラキ",
+ "pronunciation": "ブラックブラキ",
+ "race": "恐竜"
+}

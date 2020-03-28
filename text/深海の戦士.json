@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"水","defence":"1800","description":"「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。","kinds":[{"kind":"効果"}],"level":5,"name":"深海の戦士","pronunciation":"シンカイノセンシ","race":"戦士"}
+{
+ "attack": "ATK 1600",
+ "attribute": "水",
+ "defence": "DEF 1800",
+ "description": "「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 5,
+ "name": "深海の戦士",
+ "pronunciation": "シンカイノセンシ",
+ "race": "戦士"
+}

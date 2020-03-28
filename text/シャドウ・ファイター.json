@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"闇","defence":"600","description":"実体と影に分かれて襲ってくる。油断すると挟まれるぞ。","kinds":[{"kind":"通常"}],"level":2,"name":"シャドウ・ファイター","pronunciation":"シャドウ・ファイター","race":"戦士"}
+{
+ "attack": "ATK 800",
+ "attribute": "闇",
+ "defence": "DEF 600",
+ "description": "実体と影に分かれて襲ってくる。油断すると挟まれるぞ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "シャドウ・ファイター",
+ "pronunciation": "シャドウ・ファイター",
+ "race": "戦士"
+}

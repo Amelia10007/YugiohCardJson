@@ -1,1 +1,15 @@
-{"attack":"2000","attribute":"闇","defence":"800","description":"このカードは１０００ライフポイント払わなければ攻撃できない。","kinds":[{"kind":"効果"}],"level":4,"name":"ダーク・エルフ","pronunciation":"ダーク・エルフ","race":"魔法使い"}
+{
+ "attack": "ATK 2000",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "このカードは１０００ライフポイント払わなければ攻撃できない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ダーク・エルフ",
+ "pronunciation": "ダーク・エルフ",
+ "race": "魔法使い"
+}

@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"600","description":"このカードが召喚・特殊召喚に成功した時、デッキから「レッド・ガジェット」１体を手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"グリーン・ガジェット","pronunciation":"グリーン・ガジェット","race":"機械"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 600",
+ "description": "このカードが召喚・特殊召喚に成功した時、デッキから「レッド・ガジェット」１体を手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "グリーン・ガジェット",
+ "pronunciation": "グリーン・ガジェット",
+ "race": "機械"
+}

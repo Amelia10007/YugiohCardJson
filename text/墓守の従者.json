@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"闇","defence":"500","description":"このカードが相手に与える戦闘ダメージは、このカードの効果によるダメージとして扱われる。","kinds":[{"kind":"効果"}],"level":3,"name":"墓守の従者","pronunciation":"ハカモリノジュウシャ","race":"魔法使い"}
+{
+ "attack": "ATK 700",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "このカードが相手に与える戦闘ダメージは、このカードの効果によるダメージとして扱われる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "墓守の従者",
+ "pronunciation": "ハカモリノジュウシャ",
+ "race": "魔法使い"
+}

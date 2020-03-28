@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"地","defence":"400","description":"相手の墓地に存在するカード１枚を選択しゲームから除外する。この効果は１ターンに１度しか使用できない。","kinds":[{"kind":"効果"}],"level":3,"name":"カードエクスクルーダー","pronunciation":"カードエクスクルーダー","race":"魔法使い"}
+{
+ "attack": "ATK 400",
+ "attribute": "地",
+ "defence": "DEF 400",
+ "description": "相手の墓地に存在するカード１枚を選択しゲームから除外する。この効果は１ターンに１度しか使用できない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "カードエクスクルーダー",
+ "pronunciation": "カードエクスクルーダー",
+ "race": "魔法使い"
+}

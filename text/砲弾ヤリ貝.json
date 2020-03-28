@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"水","defence":"1000","description":"「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。","kinds":[{"kind":"効果"}],"level":2,"name":"砲弾ヤリ貝","pronunciation":"ホウダンヤリガイ","race":"水"}
+{
+ "attack": "ATK 1000",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "砲弾ヤリ貝",
+ "pronunciation": "ホウダンヤリガイ",
+ "race": "水"
+}

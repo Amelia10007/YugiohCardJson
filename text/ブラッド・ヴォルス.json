@@ -1,1 +1,15 @@
-{"attack":"1900","attribute":"闇","defence":"1200","description":"悪行の限りを尽くし、それを喜びとしている魔獣人。手にした斧は常に血塗られている。","kinds":[{"kind":"通常"}],"level":4,"name":"ブラッド・ヴォルス","pronunciation":"ブラッド・ヴォルス","race":"獣戦士"}
+{
+ "attack": "ATK 1900",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "悪行の限りを尽くし、それを喜びとしている魔獣人。手にした斧は常に血塗られている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ブラッド・ヴォルス",
+ "pronunciation": "ブラッド・ヴォルス",
+ "race": "獣戦士"
+}

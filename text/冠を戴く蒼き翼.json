@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"風","defence":"1200","description":"頭の毛が冠のように見える、青白く燃えるトリ。","kinds":[{"kind":"通常"}],"level":4,"name":"冠を戴く蒼き翼","pronunciation":"カンムリヲイタダクアオキツバサ","race":"鳥獣"}
+{
+ "attack": "ATK 1600",
+ "attribute": "風",
+ "defence": "DEF 1200",
+ "description": "頭の毛が冠のように見える、青白く燃えるトリ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "冠を戴く蒼き翼",
+ "pronunciation": "カンムリヲイタダクアオキツバサ",
+ "race": "鳥獣"
+}

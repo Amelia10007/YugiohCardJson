@@ -1,1 +1,15 @@
-{"attack":"3000","attribute":"炎","defence":"3000","description":"「メタルフォーゼ」モンスター＋攻撃力３０００以下のモンスター×２","kinds":[{"kind":"融合"}],"level":9,"name":"メタルフォーゼ・カーディナル","pronunciation":"メタルフォーゼ・カーディナル","race":"サイキック"}
+{
+ "attack": "ATK 3000",
+ "attribute": "炎",
+ "defence": "DEF 3000",
+ "description": "「メタルフォーゼ」モンスター＋攻撃力３０００以下のモンスター×２",
+ "kinds": [
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 9,
+ "name": "メタルフォーゼ・カーディナル",
+ "pronunciation": "メタルフォーゼ・カーディナル",
+ "race": "サイキック"
+}

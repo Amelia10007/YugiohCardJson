@@ -1,1 +1,15 @@
-{"attack":"1150","attribute":"闇","defence":"2150","description":"魔界の宝を守護する悪魔。暗闇での守備は相当かたい。","kinds":[{"kind":"通常"}],"level":5,"name":"メタル・ガーディアン","pronunciation":"メタル・ガーディアン","race":"悪魔"}
+{
+ "attack": "ATK 1150",
+ "attribute": "闇",
+ "defence": "DEF 2150",
+ "description": "魔界の宝を守護する悪魔。暗闇での守備は相当かたい。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "メタル・ガーディアン",
+ "pronunciation": "メタル・ガーディアン",
+ "race": "悪魔"
+}

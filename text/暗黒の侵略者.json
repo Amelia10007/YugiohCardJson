@@ -1,1 +1,15 @@
-{"attack":"2900","attribute":"闇","defence":"2500","description":"このカードがフィールド上に表側表示で存在する限り、相手は速攻魔法カードを発動する事ができない。","kinds":[{"kind":"効果"}],"level":8,"name":"暗黒の侵略者","pronunciation":"アンコクノシンリャクシャ","race":"悪魔"}
+{
+ "attack": "ATK 2900",
+ "attribute": "闇",
+ "defence": "DEF 2500",
+ "description": "このカードがフィールド上に表側表示で存在する限り、相手は速攻魔法カードを発動する事ができない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 8,
+ "name": "暗黒の侵略者",
+ "pronunciation": "アンコクノシンリャクシャ",
+ "race": "悪魔"
+}

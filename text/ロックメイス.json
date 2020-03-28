@@ -1,1 +1,15 @@
-{"attack":"1050","attribute":"闇","defence":"1200","description":"心の良い部分を封印して、相手を悪魔の手先にしてしまう。","kinds":[{"kind":"通常"}],"level":4,"name":"ロックメイス","pronunciation":"ロックメイス","race":"悪魔"}
+{
+ "attack": "ATK 1050",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "心の良い部分を封印して、相手を悪魔の手先にしてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ロックメイス",
+ "pronunciation": "ロックメイス",
+ "race": "悪魔"
+}

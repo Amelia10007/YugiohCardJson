@@ -1,1 +1,15 @@
-{"attack":"1350","attribute":"闇","defence":"0","description":"闇の力で生き返ったピエロ。フラフラとした踊りで死へといざなう。","kinds":[{"kind":"通常"}],"level":2,"name":"マーダーサーカス・ゾンビ","pronunciation":"マーダーサーカス・ゾンビ","race":"アンデット"}
+{
+ "attack": "ATK 1350",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "闇の力で生き返ったピエロ。フラフラとした踊りで死へといざなう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "マーダーサーカス・ゾンビ",
+ "pronunciation": "マーダーサーカス・ゾンビ",
+ "race": "アンデット"
+}

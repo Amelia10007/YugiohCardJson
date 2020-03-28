@@ -1,1 +1,15 @@
-{"attack":"1450","attribute":"地","defence":"1000","description":"耳障りな音をガンガン響かせる。相手を行動不能にしてしまう。","kinds":[{"kind":"通常"}],"level":4,"name":"響女","pronunciation":"ヒビキメ","race":"戦士"}
+{
+ "attack": "ATK 1450",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "耳障りな音をガンガン響かせる。相手を行動不能にしてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "響女",
+ "pronunciation": "ヒビキメ",
+ "race": "戦士"
+}

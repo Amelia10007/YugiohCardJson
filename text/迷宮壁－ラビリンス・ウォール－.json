@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"地","defence":"3000","description":"フィールドに壁を出現させ、出口のない迷宮をつくる。","kinds":[{"kind":"通常"}],"level":5,"name":"迷宮壁－ラビリンス・ウォール－","pronunciation":"メイキュウヘキラビリンスウォール","race":"岩石"}
+{
+ "attack": "ATK 0",
+ "attribute": "地",
+ "defence": "DEF 3000",
+ "description": "フィールドに壁を出現させ、出口のない迷宮をつくる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "迷宮壁－ラビリンス・ウォール－",
+ "pronunciation": "メイキュウヘキラビリンスウォール",
+ "race": "岩石"
+}

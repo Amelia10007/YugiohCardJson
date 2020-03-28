@@ -1,1 +1,15 @@
-{"attack":"1900","attribute":"地","defence":"1200","description":"このカードを手札から墓地へ捨てて発動する。自分のデッキから「バスター・モード」１枚を手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"バスター・ビースト","pronunciation":"バスター・ビースト","race":"獣戦士"}
+{
+ "attack": "ATK 1900",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "このカードを手札から墓地へ捨てて発動する。自分のデッキから「バスター・モード」１枚を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "バスター・ビースト",
+ "pronunciation": "バスター・ビースト",
+ "race": "獣戦士"
+}

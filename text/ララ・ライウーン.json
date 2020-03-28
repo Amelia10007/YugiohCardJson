@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"風","defence":"600","description":"電気を帯びた雲形のモンスター。何でも溶かす危険な雨を降らせる。","kinds":[{"kind":"通常"}],"level":2,"name":"ララ・ライウーン","pronunciation":"ララ・ライウーン","race":"雷"}
+{
+ "attack": "ATK 600",
+ "attribute": "風",
+ "defence": "DEF 600",
+ "description": "電気を帯びた雲形のモンスター。何でも溶かす危険な雨を降らせる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ララ・ライウーン",
+ "pronunciation": "ララ・ライウーン",
+ "race": "雷"
+}

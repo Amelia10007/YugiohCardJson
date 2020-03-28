@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"風","defence":"1000","description":"このカードがアドバンス召喚に成功した時、フィールド上に存在するカード１枚を持ち主のデッキの一番上に戻す。","kinds":[{"kind":"効果"}],"level":6,"name":"風帝ライザー","pronunciation":"フウテイライザー","race":"鳥獣"}
+{
+ "attack": "ATK 2400",
+ "attribute": "風",
+ "defence": "DEF 1000",
+ "description": "このカードがアドバンス召喚に成功した時、フィールド上に存在するカード１枚を持ち主のデッキの一番上に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "風帝ライザー",
+ "pronunciation": "フウテイライザー",
+ "race": "鳥獣"
+}

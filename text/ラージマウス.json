@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"水","defence":"250","description":"このカードは相手プレイヤーを直接攻撃する事ができる。","kinds":[{"kind":"効果"}],"level":1,"name":"ラージマウス","pronunciation":"ラージマウス","race":"水"}
+{
+ "attack": "ATK 300",
+ "attribute": "水",
+ "defence": "DEF 250",
+ "description": "このカードは相手プレイヤーを直接攻撃する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "ラージマウス",
+ "pronunciation": "ラージマウス",
+ "race": "水"
+}

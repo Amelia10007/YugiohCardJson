@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"地","defence":"900","description":"ドラゴンの魂を持つ石像の戦士。自慢の剣で、敵を切り裂く。","kinds":[{"kind":"通常"}],"level":3,"name":"竜魂の石像","pronunciation":"ドラゴンソウルスタチュー","race":"戦士"}
+{
+ "attack": "ATK 1100",
+ "attribute": "地",
+ "defence": "DEF 900",
+ "description": "ドラゴンの魂を持つ石像の戦士。自慢の剣で、敵を切り裂く。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "竜魂の石像",
+ "pronunciation": "ドラゴンソウルスタチュー",
+ "race": "戦士"
+}

@@ -1,1 +1,18 @@
-{"attack":"2350","attribute":"水","defence":"2150","description":"「要塞クジラの誓い」により降臨。\u000a場か手札から、星の数が合計７個以上になるようカードを生け贄に捧げなければならない。","kinds":[{"kind":"通常"},{"kind":"儀式"}],"level":7,"name":"要塞クジラ","pronunciation":"ヨウサイクジラ","race":"魚"}
+{
+ "attack": "ATK 2350",
+ "attribute": "水",
+ "defence": "DEF 2150",
+ "description": "「要塞クジラの誓い」により降臨。\u000a場か手札から、星の数が合計７個以上になるようカードを生け贄に捧げなければならない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "儀式"
+  }
+ ],
+ "level": 7,
+ "name": "要塞クジラ",
+ "pronunciation": "ヨウサイクジラ",
+ "race": "魚"
+}

@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"地","defence":"3000","description":"古代エジプト王家より伝わるといわれている伝説の盾。どんなに強い攻撃でも防げるという。","kinds":[{"kind":"通常"}],"level":5,"name":"千年の盾","pronunciation":"センネンノタテ","race":"戦士"}
+{
+ "attack": "ATK 0",
+ "attribute": "地",
+ "defence": "DEF 3000",
+ "description": "古代エジプト王家より伝わるといわれている伝説の盾。どんなに強い攻撃でも防げるという。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "千年の盾",
+ "pronunciation": "センネンノタテ",
+ "race": "戦士"
+}

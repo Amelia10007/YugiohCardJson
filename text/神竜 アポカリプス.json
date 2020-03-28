@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"1500","description":"１ターンに１度、手札を１枚捨てて発動できる。自分の墓地のドラゴン族モンスター１体を選択して手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"神竜 アポカリプス","pronunciation":"シンリュウアポカリプス","race":"ドラゴン"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 1500",
+ "description": "１ターンに１度、手札を１枚捨てて発動できる。自分の墓地のドラゴン族モンスター１体を選択して手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "神竜 アポカリプス",
+ "pronunciation": "シンリュウアポカリプス",
+ "race": "ドラゴン"
+}

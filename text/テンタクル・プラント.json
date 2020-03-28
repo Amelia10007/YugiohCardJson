@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"水","defence":"600","description":"近くに動く者がいると、青いつるを伸ばして攻撃してくる。","kinds":[{"kind":"通常"}],"level":2,"name":"テンタクル・プラント","pronunciation":"テンタクル・プラント","race":"植物"}
+{
+ "attack": "ATK 500",
+ "attribute": "水",
+ "defence": "DEF 600",
+ "description": "近くに動く者がいると、青いつるを伸ばして攻撃してくる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "テンタクル・プラント",
+ "pronunciation": "テンタクル・プラント",
+ "race": "植物"
+}

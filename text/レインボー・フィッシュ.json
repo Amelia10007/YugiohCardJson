@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"水","defence":"800","description":"世にも珍しい七色の魚。捕まえるのはかなり難しい。","kinds":[{"kind":"通常"}],"level":4,"name":"レインボー・フィッシュ","pronunciation":"レインボー・フィッシュ","race":"魚"}
+{
+ "attack": "ATK 1800",
+ "attribute": "水",
+ "defence": "DEF 800",
+ "description": "世にも珍しい七色の魚。捕まえるのはかなり難しい。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "レインボー・フィッシュ",
+ "pronunciation": "レインボー・フィッシュ",
+ "race": "魚"
+}

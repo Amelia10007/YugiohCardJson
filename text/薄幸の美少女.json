@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"光","defence":"100","description":"このカードが戦闘によって墓地に送られた時、そのターンのバトルフェイズは終了する。","kinds":[{"kind":"効果"}],"level":1,"name":"薄幸の美少女","pronunciation":"ハッコウノビショウジョ","race":"魔法使い"}
+{
+ "attack": "ATK 0",
+ "attribute": "光",
+ "defence": "DEF 100",
+ "description": "このカードが戦闘によって墓地に送られた時、そのターンのバトルフェイズは終了する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "薄幸の美少女",
+ "pronunciation": "ハッコウノビショウジョ",
+ "race": "魔法使い"
+}

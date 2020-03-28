@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"水","defence":"1200","description":"大昔から海を外敵から守っている、アンモナイトの戦士。","kinds":[{"kind":"通常"}],"level":4,"name":"アンモ・ナイト","pronunciation":"アンモ・ナイト","race":"水"}
+{
+ "attack": "ATK 1000",
+ "attribute": "水",
+ "defence": "DEF 1200",
+ "description": "大昔から海を外敵から守っている、アンモナイトの戦士。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "アンモ・ナイト",
+ "pronunciation": "アンモ・ナイト",
+ "race": "水"
+}

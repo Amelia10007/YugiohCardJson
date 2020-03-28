@@ -1,1 +1,15 @@
-{"attack":"2250","attribute":"炎","defence":"1800","description":"色鮮やかな真紅の翼をはばたかせ、天を駆け抜ける天馬。","kinds":[{"kind":"通常"}],"level":6,"name":"ファイヤー・ウイング・ペガサス","pronunciation":"ファイヤー・ウイング・ペガサス","race":"獣"}
+{
+ "attack": "ATK 2250",
+ "attribute": "炎",
+ "defence": "DEF 1800",
+ "description": "色鮮やかな真紅の翼をはばたかせ、天を駆け抜ける天馬。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "ファイヤー・ウイング・ペガサス",
+ "pronunciation": "ファイヤー・ウイング・ペガサス",
+ "race": "獣"
+}

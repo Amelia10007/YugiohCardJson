@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"闇","defence":"200","description":"リバース：フィールド上に表側表示で存在する魔力カウンターを置く事ができるカード全てに魔力カウンターを１つ置く。","kinds":[{"kind":"効果"}],"level":2,"name":"魔草 マンドラゴラ","pronunciation":"マソウマンドラゴラ","race":"魔法使い"}
+{
+ "attack": "ATK 500",
+ "attribute": "闇",
+ "defence": "DEF 200",
+ "description": "リバース：フィールド上に表側表示で存在する魔力カウンターを置く事ができるカード全てに魔力カウンターを１つ置く。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "魔草 マンドラゴラ",
+ "pronunciation": "マソウマンドラゴラ",
+ "race": "魔法使い"
+}

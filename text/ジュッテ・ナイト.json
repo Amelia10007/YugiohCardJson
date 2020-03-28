@@ -1,1 +1,18 @@
-{"attack":"700","attribute":"地","defence":"900","description":"１ターンに１度だけ、相手フィールド上に表側攻撃表示で存在するモンスター１体を表側守備表示にする事ができる。","kinds":[{"kind":"効果"},{"kind":"チューナー"}],"level":2,"name":"ジュッテ・ナイト","pronunciation":"ジュッテ・ナイト","race":"戦士"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 900",
+ "description": "１ターンに１度だけ、相手フィールド上に表側攻撃表示で存在するモンスター１体を表側守備表示にする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 2,
+ "name": "ジュッテ・ナイト",
+ "pronunciation": "ジュッテ・ナイト",
+ "race": "戦士"
+}

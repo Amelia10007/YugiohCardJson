@@ -1,1 +1,10 @@
-{"description":"相手はデッキからカードを２枚ドローする。","kinds":[{"kind":"通常罠"}],"name":"強欲な贈り物","pronunciation":"ゴウヨクナオクリモノ"}
+{
+ "description": "相手はデッキからカードを２枚ドローする。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "強欲な贈り物",
+ "pronunciation": "ゴウヨクナオクリモノ"
+}

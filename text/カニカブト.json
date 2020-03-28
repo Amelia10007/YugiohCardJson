@@ -1,1 +1,15 @@
-{"attack":"650","attribute":"水","defence":"900","description":"カニのモンスター。両手の大きなハサミで相手を切り刻む。","kinds":[{"kind":"通常"}],"level":3,"name":"カニカブト","pronunciation":"カニカブト","race":"水"}
+{
+ "attack": "ATK 650",
+ "attribute": "水",
+ "defence": "DEF 900",
+ "description": "カニのモンスター。両手の大きなハサミで相手を切り刻む。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "カニカブト",
+ "pronunciation": "カニカブト",
+ "race": "水"
+}

@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"闇","defence":"1200","description":"このカードが墓地へ送られたターン、このカードの持ち主は手札から罠カードを発動する事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"処刑人－マキュラ","pronunciation":"ショケイニンマキュラ","race":"戦士"}
+{
+ "attack": "ATK 1600",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "このカードが墓地へ送られたターン、このカードの持ち主は手札から罠カードを発動する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "処刑人－マキュラ",
+ "pronunciation": "ショケイニンマキュラ",
+ "race": "戦士"
+}

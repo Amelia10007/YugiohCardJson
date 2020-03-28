@@ -1,1 +1,15 @@
-{"attack":"650","attribute":"風","defence":"500","description":"くちばしがとても大きく、大声で鳴き気の弱い相手を驚かせる。","kinds":[{"kind":"通常"}],"level":2,"name":"スピック","pronunciation":"スピック","race":"鳥獣"}
+{
+ "attack": "ATK 650",
+ "attribute": "風",
+ "defence": "DEF 500",
+ "description": "くちばしがとても大きく、大声で鳴き気の弱い相手を驚かせる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "スピック",
+ "pronunciation": "スピック",
+ "race": "鳥獣"
+}

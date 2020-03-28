@@ -1,1 +1,18 @@
-{"attack":"1900","attribute":"風","defence":"1400","description":"「エンゼル・イヤーズ」+「メガ・サンダーボール」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":5,"name":"雷神の怒り","pronunciation":"ライジンノイカリ","race":"雷"}
+{
+ "attack": "ATK 1900",
+ "attribute": "風",
+ "defence": "DEF 1400",
+ "description": "「エンゼル・イヤーズ」+「メガ・サンダーボール」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 5,
+ "name": "雷神の怒り",
+ "pronunciation": "ライジンノイカリ",
+ "race": "雷"
+}

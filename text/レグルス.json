@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"光","defence":"1000","description":"自分の墓地に存在するフィールド魔法カード１枚を選択して発動する。選択したカードをデッキに戻す。この効果は１ターンに１度しか使用できない。","kinds":[{"kind":"効果"}],"level":4,"name":"レグルス","pronunciation":"レグルス","race":"獣"}
+{
+ "attack": "ATK 1700",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "自分の墓地に存在するフィールド魔法カード１枚を選択して発動する。選択したカードをデッキに戻す。この効果は１ターンに１度しか使用できない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "レグルス",
+ "pronunciation": "レグルス",
+ "race": "獣"
+}

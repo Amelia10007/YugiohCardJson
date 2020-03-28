@@ -1,1 +1,10 @@
-{"description":"このターン自分は通常召喚を２回まで行う事ができる。","kinds":[{"kind":"通常魔法"}],"name":"二重召喚","pronunciation":"デュアルサモン"}
+{
+ "description": "このターン自分は通常召喚を２回まで行う事ができる。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "二重召喚",
+ "pronunciation": "デュアルサモン"
+}

@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"光","defence":"1900","description":"このカード１枚を対象にするモンスターの効果を無効にする。","kinds":[{"kind":"効果"}],"level":6,"name":"カオス・マジシャン","pronunciation":"カオス・マジシャン","race":"魔法使い"}
+{
+ "attack": "ATK 2400",
+ "attribute": "光",
+ "defence": "DEF 1900",
+ "description": "このカード１枚を対象にするモンスターの効果を無効にする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "カオス・マジシャン",
+ "pronunciation": "カオス・マジシャン",
+ "race": "魔法使い"
+}

@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"1800","description":"このカードを攻撃したモンスターは持ち主の手札に戻る。ダメージ計算は適用する。","kinds":[{"kind":"効果"}],"level":4,"name":"ケルベク","pronunciation":"ケルベク","race":"天使"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "このカードを攻撃したモンスターは持ち主の手札に戻る。ダメージ計算は適用する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ケルベク",
+ "pronunciation": "ケルベク",
+ "race": "天使"
+}

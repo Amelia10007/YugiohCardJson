@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"闇","defence":"500","description":"デコイチ専用の貨物車両。どんな物でも運ぶ事ができるが、大抵は到着時に壊れている。","kinds":[{"kind":"通常"}],"level":2,"name":"魔貨物車両 ボコイチ","pronunciation":"マカモツシャリョウボコイチ","race":"機械"}
+{
+ "attack": "ATK 500",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "デコイチ専用の貨物車両。どんな物でも運ぶ事ができるが、大抵は到着時に壊れている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "魔貨物車両 ボコイチ",
+ "pronunciation": "マカモツシャリョウボコイチ",
+ "race": "機械"
+}

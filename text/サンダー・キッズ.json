@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"風","defence":"600","description":"雷をからだの中に蓄電させている。泣かせたときは危険。","kinds":[{"kind":"通常"}],"level":2,"name":"サンダー・キッズ","pronunciation":"サンダー・キッズ","race":"雷"}
+{
+ "attack": "ATK 700",
+ "attribute": "風",
+ "defence": "DEF 600",
+ "description": "雷をからだの中に蓄電させている。泣かせたときは危険。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "サンダー・キッズ",
+ "pronunciation": "サンダー・キッズ",
+ "race": "雷"
+}

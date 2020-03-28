@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"闇","defence":"500","description":"大砲で埋め尽くされているメカだるま。ねらいは外さない。","kinds":[{"kind":"通常"}],"level":2,"name":"大砲だるま","pronunciation":"タイホウダルマ","race":"機械"}
+{
+ "attack": "ATK 900",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "大砲で埋め尽くされているメカだるま。ねらいは外さない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "大砲だるま",
+ "pronunciation": "タイホウダルマ",
+ "race": "機械"
+}

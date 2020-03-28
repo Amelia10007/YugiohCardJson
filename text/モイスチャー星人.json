@@ -1,1 +1,15 @@
-{"attack":"2800","attribute":"光","defence":"2900","description":"３体の生け贄を捧げてこのカードを生け贄召喚した場合、相手フィールド上の魔法・罠カードを全て破壊する。","kinds":[{"kind":"効果"}],"level":9,"name":"モイスチャー星人","pronunciation":"モイスチャーセイジン","race":"天使"}
+{
+ "attack": "ATK 2800",
+ "attribute": "光",
+ "defence": "DEF 2900",
+ "description": "３体の生け贄を捧げてこのカードを生け贄召喚した場合、相手フィールド上の魔法・罠カードを全て破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 9,
+ "name": "モイスチャー星人",
+ "pronunciation": "モイスチャーセイジン",
+ "race": "天使"
+}

@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"光","defence":"1000","description":"リバース：このカードがエンドフェイズ時に表側表示で存在する場合、自分はデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":2,"name":"ワーム・リンクス","pronunciation":"ワーム・リンクス","race":"爬虫類"}
+{
+ "attack": "ATK 300",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "リバース：このカードがエンドフェイズ時に表側表示で存在する場合、自分はデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ワーム・リンクス",
+ "pronunciation": "ワーム・リンクス",
+ "race": "爬虫類"
+}

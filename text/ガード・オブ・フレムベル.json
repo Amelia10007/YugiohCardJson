@@ -1,1 +1,18 @@
-{"attack":"100","attribute":"炎","defence":"2000","description":"炎を自在に操る事ができる、フレムベルの護衛戦士。灼熱のバリアを作り出して敵の攻撃を跳ね返す。","kinds":[{"kind":"通常"},{"kind":"チューナー"}],"level":1,"name":"ガード・オブ・フレムベル","pronunciation":"ガード・オブ・フレムベル","race":"ドラゴン"}
+{
+ "attack": "ATK 100",
+ "attribute": "炎",
+ "defence": "DEF 2000",
+ "description": "炎を自在に操る事ができる、フレムベルの護衛戦士。灼熱のバリアを作り出して敵の攻撃を跳ね返す。",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 1,
+ "name": "ガード・オブ・フレムベル",
+ "pronunciation": "ガード・オブ・フレムベル",
+ "race": "ドラゴン"
+}

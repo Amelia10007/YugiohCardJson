@@ -1,1 +1,15 @@
-{"attack":"150","attribute":"地","defence":"2050","description":"甘いものがとっても大好きな甘党うさぎ。世界一甘いと言われる甘党人参を探し求め、今日も明日もニンジンをかじりたい。","kinds":[{"kind":"通常"}],"level":1,"name":"バニーラ","pronunciation":"バニーラ","race":"獣"}
+{
+ "attack": "ATK 150",
+ "attribute": "地",
+ "defence": "DEF 2050",
+ "description": "甘いものがとっても大好きな甘党うさぎ。世界一甘いと言われる甘党人参を探し求め、今日も明日もニンジンをかじりたい。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "バニーラ",
+ "pronunciation": "バニーラ",
+ "race": "獣"
+}

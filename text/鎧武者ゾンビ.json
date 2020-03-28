@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"闇","defence":"0","description":"怨念によって蘇った武者。闇雲にふりまわすカタナに注意。","kinds":[{"kind":"通常"}],"level":3,"name":"鎧武者ゾンビ","pronunciation":"ヨロイムシャゾンビ","race":"アンデット"}
+{
+ "attack": "ATK 1500",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "怨念によって蘇った武者。闇雲にふりまわすカタナに注意。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "鎧武者ゾンビ",
+ "pronunciation": "ヨロイムシャゾンビ",
+ "race": "アンデット"
+}

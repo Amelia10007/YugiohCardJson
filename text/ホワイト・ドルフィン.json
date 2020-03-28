@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"水","defence":"400","description":"頭にツノを持つまっしろなイルカ。大波をおこして攻撃する。","kinds":[{"kind":"通常"}],"level":2,"name":"ホワイト・ドルフィン","pronunciation":"ホワイト・ドルフィン","race":"魚"}
+{
+ "attack": "ATK 500",
+ "attribute": "水",
+ "defence": "DEF 400",
+ "description": "頭にツノを持つまっしろなイルカ。大波をおこして攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ホワイト・ドルフィン",
+ "pronunciation": "ホワイト・ドルフィン",
+ "race": "魚"
+}

@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"地","defence":"1100","description":"生けてある花から、花粉を飛ばし噛みついてくる生きている花瓶。","kinds":[{"kind":"通常"}],"level":3,"name":"命ある花瓶","pronunciation":"イノチアルカビン","race":"植物"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 1100",
+ "description": "生けてある花から、花粉を飛ばし噛みついてくる生きている花瓶。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "命ある花瓶",
+ "pronunciation": "イノチアルカビン",
+ "race": "植物"
+}

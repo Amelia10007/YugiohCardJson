@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"水","defence":"1000","description":"(1)：相手の魔法＆罠ゾーンにカードが２枚以上存在する場合、このカードは手札から特殊召喚できる。","kinds":[{"kind":"効果"}],"level":4,"name":"氷帝家臣エッシャー","pronunciation":"ヒョウテイカシンエッシャー","race":"水"}
+{
+ "attack": "ATK 800",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "(1)：相手の魔法＆罠ゾーンにカードが２枚以上存在する場合、このカードは手札から特殊召喚できる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "氷帝家臣エッシャー",
+ "pronunciation": "ヒョウテイカシンエッシャー",
+ "race": "水"
+}

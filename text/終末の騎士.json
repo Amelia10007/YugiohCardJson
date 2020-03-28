@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"闇","defence":"1200","description":"このカードが召喚・反転召喚・特殊召喚に成功した時、自分のデッキから闇属性モンスター１体を選択して墓地に送る事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"終末の騎士","pronunciation":"シュウマツノキシ","race":"戦士"}
+{
+ "attack": "ATK 1400",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "このカードが召喚・反転召喚・特殊召喚に成功した時、自分のデッキから闇属性モンスター１体を選択して墓地に送る事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "終末の騎士",
+ "pronunciation": "シュウマツノキシ",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"2300","attribute":"風","defence":"1400","description":"風属性モンスターを生け贄にして生け贄召喚に成功した場合、フィールド上の魔法・罠カードを全て持ち主の手札に戻す。","kinds":[{"kind":"効果"}],"level":6,"name":"疾風鳥人ジョー","pronunciation":"シップウチョウジンジョー","race":"鳥獣"}
+{
+ "attack": "ATK 2300",
+ "attribute": "風",
+ "defence": "DEF 1400",
+ "description": "風属性モンスターを生け贄にして生け贄召喚に成功した場合、フィールド上の魔法・罠カードを全て持ち主の手札に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "疾風鳥人ジョー",
+ "pronunciation": "シップウチョウジンジョー",
+ "race": "鳥獣"
+}

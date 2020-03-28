@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"1200","description":"剣技にすぐれたトカゲ人間。音の速さで剣をふるう。","kinds":[{"kind":"通常"}],"level":4,"name":"ワイバーンの戦士","pronunciation":"ワイバーンノセンシ","race":"獣"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "剣技にすぐれたトカゲ人間。音の速さで剣をふるう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ワイバーンの戦士",
+ "pronunciation": "ワイバーンノセンシ",
+ "race": "獣"
+}

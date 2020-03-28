@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"炎","defence":"1000","description":"このカードがフィールド上に表側表示で存在する限り、炎属性モンスター以外の特殊召喚はできない。","kinds":[{"kind":"効果"}],"level":4,"name":"業火の結界像","pronunciation":"ゴウカノケッカイゾウ","race":"炎"}
+{
+ "attack": "ATK 1000",
+ "attribute": "炎",
+ "defence": "DEF 1000",
+ "description": "このカードがフィールド上に表側表示で存在する限り、炎属性モンスター以外の特殊召喚はできない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "業火の結界像",
+ "pronunciation": "ゴウカノケッカイゾウ",
+ "race": "炎"
+}

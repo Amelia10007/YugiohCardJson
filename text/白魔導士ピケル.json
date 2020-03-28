@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"光","defence":"0","description":"自分のスタンバイフェイズ時、自分のフィールド上に存在するモンスターの数×４００ライフポイント回復する。","kinds":[{"kind":"効果"}],"level":2,"name":"白魔導士ピケル","pronunciation":"シロマドウシピケル","race":"魔法使い"}
+{
+ "attack": "ATK 1200",
+ "attribute": "光",
+ "defence": "DEF 0",
+ "description": "自分のスタンバイフェイズ時、自分のフィールド上に存在するモンスターの数×４００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "白魔導士ピケル",
+ "pronunciation": "シロマドウシピケル",
+ "race": "魔法使い"
+}

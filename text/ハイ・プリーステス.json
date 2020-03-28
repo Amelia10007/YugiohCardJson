@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"光","defence":"800","description":"聞いたことのない呪文を唱え、あらぶる心をしずめてくれる。","kinds":[{"kind":"通常"}],"level":3,"name":"ハイ・プリーステス","pronunciation":"ハイ・プリーステス","race":"魔法使い"}
+{
+ "attack": "ATK 1100",
+ "attribute": "光",
+ "defence": "DEF 800",
+ "description": "聞いたことのない呪文を唱え、あらぶる心をしずめてくれる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ハイ・プリーステス",
+ "pronunciation": "ハイ・プリーステス",
+ "race": "魔法使い"
+}

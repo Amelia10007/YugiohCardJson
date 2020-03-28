@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"闇","defence":"1500","description":"宝箱のフタを開けようとする盗賊を、箱から飛び出し襲う。","kinds":[{"kind":"通常"}],"level":4,"name":"ヤランゾ","pronunciation":"ヤランゾ","race":"アンデット"}
+{
+ "attack": "ATK 1300",
+ "attribute": "闇",
+ "defence": "DEF 1500",
+ "description": "宝箱のフタを開けようとする盗賊を、箱から飛び出し襲う。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ヤランゾ",
+ "pronunciation": "ヤランゾ",
+ "race": "アンデット"
+}

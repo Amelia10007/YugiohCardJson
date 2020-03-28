@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"地","defence":"1200","description":"警備用として開発された機械の戦士。錆びない金属でできている。","kinds":[{"kind":"通常"}],"level":4,"name":"マイティガード","pronunciation":"マイティガード","race":"機械"}
+{
+ "attack": "ATK 500",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "警備用として開発された機械の戦士。錆びない金属でできている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "マイティガード",
+ "pronunciation": "マイティガード",
+ "race": "機械"
+}

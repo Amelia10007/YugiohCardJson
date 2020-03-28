@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"地","defence":"2000","description":"岩石の巨人兵。太い腕の攻撃は大地をゆるがす。","kinds":[{"kind":"通常"}],"level":3,"name":"岩石の巨兵","pronunciation":"ガンセキノキョヘイ","race":"岩石"}
+{
+ "attack": "ATK 1300",
+ "attribute": "地",
+ "defence": "DEF 2000",
+ "description": "岩石の巨人兵。太い腕の攻撃は大地をゆるがす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "岩石の巨兵",
+ "pronunciation": "ガンセキノキョヘイ",
+ "race": "岩石"
+}

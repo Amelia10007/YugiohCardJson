@@ -1,1 +1,15 @@
-{"attack":"1450","attribute":"風","defence":"1000","description":"このトリが現れた時は、何か不吉な事が起こる前ぶれ。","kinds":[{"kind":"通常"}],"level":4,"name":"タクヒ","pronunciation":"タクヒ","race":"鳥獣"}
+{
+ "attack": "ATK 1450",
+ "attribute": "風",
+ "defence": "DEF 1000",
+ "description": "このトリが現れた時は、何か不吉な事が起こる前ぶれ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "タクヒ",
+ "pronunciation": "タクヒ",
+ "race": "鳥獣"
+}

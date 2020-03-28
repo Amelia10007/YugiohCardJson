@@ -1,1 +1,15 @@
-{"attack":"1350","attribute":"水","defence":"800","description":"他の魚を長い舌で捕まえ、エネルギーを吸収する。","kinds":[{"kind":"通常"}],"level":4,"name":"舌魚","pronunciation":"タンギョ","race":"魚"}
+{
+ "attack": "ATK 1350",
+ "attribute": "水",
+ "defence": "DEF 800",
+ "description": "他の魚を長い舌で捕まえ、エネルギーを吸収する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "舌魚",
+ "pronunciation": "タンギョ",
+ "race": "魚"
+}

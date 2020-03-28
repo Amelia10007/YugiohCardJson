@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"闇","defence":"600","description":"敵を呪い、動きを止めることができる魔法使い。","kinds":[{"kind":"通常"}],"level":2,"name":"サターナ","pronunciation":"サターナ","race":"魔法使い"}
+{
+ "attack": "ATK 700",
+ "attribute": "闇",
+ "defence": "DEF 600",
+ "description": "敵を呪い、動きを止めることができる魔法使い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "サターナ",
+ "pronunciation": "サターナ",
+ "race": "魔法使い"
+}

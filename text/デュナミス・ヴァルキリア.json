@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"1050","description":"勇敢なる光の天使。その強い正義感ゆえ、負けるとわかっている悪との戦いでも決して逃げない。","kinds":[{"kind":"通常"}],"level":4,"name":"デュナミス・ヴァルキリア","pronunciation":"デュナミス・ヴァルキリア","race":"天使"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 1050",
+ "description": "勇敢なる光の天使。その強い正義感ゆえ、負けるとわかっている悪との戦いでも決して逃げない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "デュナミス・ヴァルキリア",
+ "pronunciation": "デュナミス・ヴァルキリア",
+ "race": "天使"
+}

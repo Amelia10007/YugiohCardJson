@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"地","defence":"300","description":"このカードがフィールド上に表側表示で存在する限り、コントローラーへのカードの効果によるダメージを０にする。","kinds":[{"kind":"効果"}],"level":3,"name":"デス・ウォンバット","pronunciation":"デス・ウォンバット","race":"獣"}
+{
+ "attack": "ATK 1600",
+ "attribute": "地",
+ "defence": "DEF 300",
+ "description": "このカードがフィールド上に表側表示で存在する限り、コントローラーへのカードの効果によるダメージを０にする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "デス・ウォンバット",
+ "pronunciation": "デス・ウォンバット",
+ "race": "獣"
+}

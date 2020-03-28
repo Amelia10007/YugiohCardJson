@@ -1,1 +1,15 @@
-{"attack":"1050","attribute":"地","defence":"1000","description":"下半身がシカで、魂を吸うという大カマを持った獣戦士。","kinds":[{"kind":"通常"}],"level":3,"name":"ソリテュード","pronunciation":"ソリテュード","race":"獣戦士"}
+{
+ "attack": "ATK 1050",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "下半身がシカで、魂を吸うという大カマを持った獣戦士。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ソリテュード",
+ "pronunciation": "ソリテュード",
+ "race": "獣戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"闇","defence":"1000","description":"宝石箱の形をしたモンスター。冒険者をだまして襲いかかる。","kinds":[{"kind":"通常"}],"level":4,"name":"人喰い宝石箱","pronunciation":"ヒトクイホウセキバコ","race":"悪魔"}
+{
+ "attack": "ATK 1600",
+ "attribute": "闇",
+ "defence": "DEF 1000",
+ "description": "宝石箱の形をしたモンスター。冒険者をだまして襲いかかる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "人喰い宝石箱",
+ "pronunciation": "ヒトクイホウセキバコ",
+ "race": "悪魔"
+}

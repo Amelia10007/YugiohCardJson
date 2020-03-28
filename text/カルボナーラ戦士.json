@@ -1,1 +1,18 @@
-{"attack":"1500","attribute":"地","defence":"1200","description":"「マグネッツ１号」＋「マグネッツ２号」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":4,"name":"カルボナーラ戦士","pronunciation":"カルボナーラセンシ","race":"戦士"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "「マグネッツ１号」＋「マグネッツ２号」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 4,
+ "name": "カルボナーラ戦士",
+ "pronunciation": "カルボナーラセンシ",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1000","description":"けもの使いの達人と、主人に忠実なけもの。コンビは完璧。","kinds":[{"kind":"通常"}],"level":4,"name":"マスター・アン・エキスパート","pronunciation":"マスター・アン・エキスパート","race":"獣"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "けもの使いの達人と、主人に忠実なけもの。コンビは完璧。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "マスター・アン・エキスパート",
+ "pronunciation": "マスター・アン・エキスパート",
+ "race": "獣"
+}

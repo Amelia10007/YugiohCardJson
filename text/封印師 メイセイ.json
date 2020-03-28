@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"闇","defence":"900","description":"封印の呪符を使いこなす事ができる数少ない人物。その経歴は未だ謎に包まれている。","kinds":[{"kind":"通常"}],"level":3,"name":"封印師 メイセイ","pronunciation":"フウインシメイセイ","race":"魔法使い"}
+{
+ "attack": "ATK 1100",
+ "attribute": "闇",
+ "defence": "DEF 900",
+ "description": "封印の呪符を使いこなす事ができる数少ない人物。その経歴は未だ謎に包まれている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "封印師 メイセイ",
+ "pronunciation": "フウインシメイセイ",
+ "race": "魔法使い"
+}

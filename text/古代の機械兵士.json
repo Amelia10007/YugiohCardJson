@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"地","defence":"1300","description":"このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。","kinds":[{"kind":"効果"}],"level":4,"name":"古代の機械兵士","pronunciation":"アンティークギアソルジャー","race":"機械"}
+{
+ "attack": "ATK 1300",
+ "attribute": "地",
+ "defence": "DEF 1300",
+ "description": "このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "古代の機械兵士",
+ "pronunciation": "アンティークギアソルジャー",
+ "race": "機械"
+}

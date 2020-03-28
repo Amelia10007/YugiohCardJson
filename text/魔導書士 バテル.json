@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"水","defence":"400","description":"このカードが召喚・リバースした時、デッキから「魔導書」と名のついた魔法カード１枚を手札に加える。","kinds":[{"kind":"効果"}],"level":2,"name":"魔導書士 バテル","pronunciation":"マドウショシバテル","race":"魔法使い"}
+{
+ "attack": "ATK 500",
+ "attribute": "水",
+ "defence": "DEF 400",
+ "description": "このカードが召喚・リバースした時、デッキから「魔導書」と名のついた魔法カード１枚を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "魔導書士 バテル",
+ "pronunciation": "マドウショシバテル",
+ "race": "魔法使い"
+}

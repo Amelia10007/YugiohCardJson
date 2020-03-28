@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"地","defence":"1400","description":"ラーバスがより進化したけもの。力がパワーアップしている。","kinds":[{"kind":"通常"}],"level":4,"name":"モン・ラーバス","pronunciation":"モン・ラーバス","race":"獣"}
+{
+ "attack": "ATK 1300",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "ラーバスがより進化したけもの。力がパワーアップしている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "モン・ラーバス",
+ "pronunciation": "モン・ラーバス",
+ "race": "獣"
+}

@@ -1,1 +1,15 @@
-{"attack":"?","attribute":"地","defence":"0","description":"このカードの元々の攻撃力は、ゲームから除外された自分が持ち主の恐竜族モンスターの数×１０００ポイントの数値になる。","kinds":[{"kind":"効果"}],"level":4,"name":"ディノインフィニティ","pronunciation":"ディノインフィニティ","race":"恐竜"}
+{
+ "attack": "ATK ?",
+ "attribute": "地",
+ "defence": "DEF 0",
+ "description": "このカードの元々の攻撃力は、ゲームから除外された自分が持ち主の恐竜族モンスターの数×１０００ポイントの数値になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ディノインフィニティ",
+ "pronunciation": "ディノインフィニティ",
+ "race": "恐竜"
+}

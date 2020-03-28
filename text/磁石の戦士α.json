@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"地","defence":"1700","description":"α、β、γで変形合体する。","kinds":[{"kind":"通常"}],"level":4,"name":"磁石の戦士α","pronunciation":"マグネットウォリアーアルファ","race":"岩石"}
+{
+ "attack": "ATK 1400",
+ "attribute": "地",
+ "defence": "DEF 1700",
+ "description": "α、β、γで変形合体する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "磁石の戦士α",
+ "pronunciation": "マグネットウォリアーアルファ",
+ "race": "岩石"
+}

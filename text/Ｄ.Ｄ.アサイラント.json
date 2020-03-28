@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"地","defence":"1600","description":"このカードが相手モンスターとの戦闘によって破壊された時、そのモンスターとこのカードをゲームから除外する。","kinds":[{"kind":"効果"}],"level":4,"name":"Ｄ.Ｄ.アサイラント","pronunciation":"ディーディーアサイラント","race":"戦士"}
+{
+ "attack": "ATK 1700",
+ "attribute": "地",
+ "defence": "DEF 1600",
+ "description": "このカードが相手モンスターとの戦闘によって破壊された時、そのモンスターとこのカードをゲームから除外する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "Ｄ.Ｄ.アサイラント",
+ "pronunciation": "ディーディーアサイラント",
+ "race": "戦士"
+}

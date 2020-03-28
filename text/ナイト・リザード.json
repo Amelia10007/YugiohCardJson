@@ -1,1 +1,15 @@
-{"attack":"1150","attribute":"水","defence":"1300","description":"海を守る、緑のウロコに身を包むリザードマンの戦士。","kinds":[{"kind":"通常"}],"level":4,"name":"ナイト・リザード","pronunciation":"ナイト・リザード","race":"水"}
+{
+ "attack": "ATK 1150",
+ "attribute": "水",
+ "defence": "DEF 1300",
+ "description": "海を守る、緑のウロコに身を包むリザードマンの戦士。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ナイト・リザード",
+ "pronunciation": "ナイト・リザード",
+ "race": "水"
+}

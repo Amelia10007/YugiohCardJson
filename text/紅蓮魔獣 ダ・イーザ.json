@@ -1,1 +1,15 @@
-{"attack":"?","attribute":"炎","defence":"?","description":"このカードの攻撃力と守備力は、ゲームから除外されている自分のカードの数×４００ポイントになる。","kinds":[{"kind":"効果"}],"level":3,"name":"紅蓮魔獣 ダ・イーザ","pronunciation":"グレンマジュウダイーザ","race":"悪魔"}
+{
+ "attack": "ATK ?",
+ "attribute": "炎",
+ "defence": "DEF ?",
+ "description": "このカードの攻撃力と守備力は、ゲームから除外されている自分のカードの数×４００ポイントになる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "紅蓮魔獣 ダ・イーザ",
+ "pronunciation": "グレンマジュウダイーザ",
+ "race": "悪魔"
+}

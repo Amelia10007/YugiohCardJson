@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"地","defence":"1400","description":"美女と思い近づくと、首筋をかまれ全身の血を吸われてしまう。","kinds":[{"kind":"通常"}],"level":3,"name":"スフィラスレディ","pronunciation":"スフィラスレディ","race":"岩石"}
+{
+ "attack": "ATK 400",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "美女と思い近づくと、首筋をかまれ全身の血を吸われてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "スフィラスレディ",
+ "pronunciation": "スフィラスレディ",
+ "race": "岩石"
+}

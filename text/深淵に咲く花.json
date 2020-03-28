@@ -1,1 +1,15 @@
-{"attack":"750","attribute":"地","defence":"400","description":"光の届かない深淵にひっそりと咲く、あまり見かけない花。","kinds":[{"kind":"通常"}],"level":2,"name":"深淵に咲く花","pronunciation":"シンエンニサクハナ","race":"植物"}
+{
+ "attack": "ATK 750",
+ "attribute": "地",
+ "defence": "DEF 400",
+ "description": "光の届かない深淵にひっそりと咲く、あまり見かけない花。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "深淵に咲く花",
+ "pronunciation": "シンエンニサクハナ",
+ "race": "植物"
+}

@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"光","defence":"1000","description":"リバース：自分の墓地からレベル３以下の通常モンスター１体を自分フィールド上に特殊召喚する事ができる。","kinds":[{"kind":"効果"}],"level":3,"name":"魂を呼ぶ者","pronunciation":"タマシイヲヨブモノ","race":"魔法使い"}
+{
+ "attack": "ATK 1000",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "リバース：自分の墓地からレベル３以下の通常モンスター１体を自分フィールド上に特殊召喚する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "魂を呼ぶ者",
+ "pronunciation": "タマシイヲヨブモノ",
+ "race": "魔法使い"
+}

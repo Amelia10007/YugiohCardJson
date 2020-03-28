@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"光","defence":"600","description":"命を司る天使。命を短くするかわりに力を与える。","kinds":[{"kind":"通常"}],"level":2,"name":"命の砂時計","pronunciation":"イノチノスナドケイ","race":"天使"}
+{
+ "attack": "ATK 700",
+ "attribute": "光",
+ "defence": "DEF 600",
+ "description": "命を司る天使。命を短くするかわりに力を与える。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "命の砂時計",
+ "pronunciation": "イノチノスナドケイ",
+ "race": "天使"
+}

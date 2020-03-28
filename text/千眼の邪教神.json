@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"人の心を操る邪神。千の邪眼は、人の負の心を見透かし増大させる。","kinds":[{"kind":"通常"}],"level":1,"name":"千眼の邪教神","pronunciation":"センガンノジャキョウシン","race":"魔法使い"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "人の心を操る邪神。千の邪眼は、人の負の心を見透かし増大させる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "千眼の邪教神",
+ "pronunciation": "センガンノジャキョウシン",
+ "race": "魔法使い"
+}

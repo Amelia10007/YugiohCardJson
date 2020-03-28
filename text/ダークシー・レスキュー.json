@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"このカードがシンクロモンスターのシンクロ召喚に使用され墓地へ送られた場合、自分はデッキからカードを１枚ドローする。","kinds":[{"kind":"効果"}],"level":1,"name":"ダークシー・レスキュー","pronunciation":"ダークシー・レスキュー","race":"機械"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "このカードがシンクロモンスターのシンクロ召喚に使用され墓地へ送られた場合、自分はデッキからカードを１枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "ダークシー・レスキュー",
+ "pronunciation": "ダークシー・レスキュー",
+ "race": "機械"
+}

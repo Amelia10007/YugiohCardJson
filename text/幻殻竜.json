@@ -1,1 +1,15 @@
-{"attack":"2000","attribute":"闇","defence":"0","description":"別次元から突如として飛来した謎の生命体。高い攻撃力と奇襲能力を併せ持つ。その攻撃は対象物の神経を麻痺させ、強烈な幻覚症状を引き起こす。","kinds":[{"kind":"通常"}],"level":4,"name":"幻殻竜","pronunciation":"ゲンカクリュウ","race":"幻竜"}
+{
+ "attack": "ATK 2000",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "別次元から突如として飛来した謎の生命体。高い攻撃力と奇襲能力を併せ持つ。その攻撃は対象物の神経を麻痺させ、強烈な幻覚症状を引き起こす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "幻殻竜",
+ "pronunciation": "ゲンカクリュウ",
+ "race": "幻竜"
+}

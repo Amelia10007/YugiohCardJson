@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"闇","defence":"300","description":"表面から強力な酸を出して、近づく者を溶かしてしまう。","kinds":[{"kind":"通常"}],"level":1,"name":"魔界植物","pronunciation":"マカイショクブツ","race":"悪魔"}
+{
+ "attack": "ATK 400",
+ "attribute": "闇",
+ "defence": "DEF 300",
+ "description": "表面から強力な酸を出して、近づく者を溶かしてしまう。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "魔界植物",
+ "pronunciation": "マカイショクブツ",
+ "race": "悪魔"
+}

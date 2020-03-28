@@ -1,1 +1,18 @@
-{"attack":"1600","attribute":"地","defence":"200","description":"あらゆるものをチューニングしてしまう電波系戦士。常にアンテナを張ってはいるものの、感度はそう高くない。","kinds":[{"kind":"通常"},{"kind":"チューナー"}],"level":3,"name":"チューン・ウォリアー","pronunciation":"チューン・ウォリアー","race":"戦士"}
+{
+ "attack": "ATK 1600",
+ "attribute": "地",
+ "defence": "DEF 200",
+ "description": "あらゆるものをチューニングしてしまう電波系戦士。常にアンテナを張ってはいるものの、感度はそう高くない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 3,
+ "name": "チューン・ウォリアー",
+ "pronunciation": "チューン・ウォリアー",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"風","defence":"1200","description":"ジェットエンジンを装備した鷹。音の速度で飛ぶことが出来る。","kinds":[{"kind":"通常"}],"level":4,"name":"メカファルコン","pronunciation":"メカファルコン","race":"機械"}
+{
+ "attack": "ATK 1400",
+ "attribute": "風",
+ "defence": "DEF 1200",
+ "description": "ジェットエンジンを装備した鷹。音の速度で飛ぶことが出来る。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "メカファルコン",
+ "pronunciation": "メカファルコン",
+ "race": "機械"
+}

@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"闇","defence":"500","description":"このカードが他のカードの効果によって手札から墓地に捨てられた場合、フィールド上のモンスター１体を破壊する。","kinds":[{"kind":"効果"}],"level":2,"name":"暗黒界の刺客 カーキ","pronunciation":"アンコクカイノシカクカーキ","race":"悪魔"}
+{
+ "attack": "ATK 300",
+ "attribute": "闇",
+ "defence": "DEF 500",
+ "description": "このカードが他のカードの効果によって手札から墓地に捨てられた場合、フィールド上のモンスター１体を破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "暗黒界の刺客 カーキ",
+ "pronunciation": "アンコクカイノシカクカーキ",
+ "race": "悪魔"
+}

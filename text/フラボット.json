@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"800","description":"(1):このカードが墓地へ送られた場合に発動する。自分はデッキから１枚ドローする。その後、手札を１枚持ち主のデッキの一番上に戻す。","kinds":[{"kind":"効果"}],"level":3,"name":"フラボット","pronunciation":"フラボット","race":"植物"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "(1):このカードが墓地へ送られた場合に発動する。自分はデッキから１枚ドローする。その後、手札を１枚持ち主のデッキの一番上に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "フラボット",
+ "pronunciation": "フラボット",
+ "race": "植物"
+}

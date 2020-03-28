@@ -1,1 +1,18 @@
-{"attack":"2200","attribute":"水","defence":"2000","description":"「二頭を持つキング・レックス」＋「屍を貪る竜」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"ブラキオレイドス","pronunciation":"ブラキオレイドス","race":"恐竜"}
+{
+ "attack": "ATK 2200",
+ "attribute": "水",
+ "defence": "DEF 2000",
+ "description": "「二頭を持つキング・レックス」＋「屍を貪る竜」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "ブラキオレイドス",
+ "pronunciation": "ブラキオレイドス",
+ "race": "恐竜"
+}

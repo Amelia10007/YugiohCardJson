@@ -1,1 +1,15 @@
-{"attack":"1900","attribute":"地","defence":"2200","description":"鋼鉄でできた機械人形。恐るべき怪力を誇る。","kinds":[{"kind":"通常"}],"level":6,"name":"鉄腕ゴーレム","pronunciation":"テツワンゴーレム","race":"機械"}
+{
+ "attack": "ATK 1900",
+ "attribute": "地",
+ "defence": "DEF 2200",
+ "description": "鋼鉄でできた機械人形。恐るべき怪力を誇る。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "鉄腕ゴーレム",
+ "pronunciation": "テツワンゴーレム",
+ "race": "機械"
+}

@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"地","defence":"1000","description":"遥か東の国から来たと言われているサムライ。手にするカタナは良く切れる。","kinds":[{"kind":"通常"}],"level":3,"name":"東方の英雄","pronunciation":"トウホウノエイユウ","race":"戦士"}
+{
+ "attack": "ATK 1100",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "遥か東の国から来たと言われているサムライ。手にするカタナは良く切れる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "東方の英雄",
+ "pronunciation": "トウホウノエイユウ",
+ "race": "戦士"
+}

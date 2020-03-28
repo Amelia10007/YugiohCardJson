@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"光","defence":"1800","description":"空中戦を得意とする、合体能力を持つモンスター。合体と分離を駆使して立体的な攻撃を繰り出す。","kinds":[{"kind":"通常"}],"level":4,"name":"Ｖ－タイガー・ジェット","pronunciation":"ヴィタイガージェット","race":"機械"}
+{
+ "attack": "ATK 1600",
+ "attribute": "光",
+ "defence": "DEF 1800",
+ "description": "空中戦を得意とする、合体能力を持つモンスター。合体と分離を駆使して立体的な攻撃を繰り出す。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "Ｖ－タイガー・ジェット",
+ "pronunciation": "ヴィタイガージェット",
+ "race": "機械"
+}

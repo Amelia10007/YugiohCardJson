@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"1850","description":"このカードを攻撃したモンスターは持ち主の手札に戻る。ダメージ計算は適用する。","kinds":[{"kind":"効果"}],"level":4,"name":"幻影の壁","pronunciation":"ゲンエイノカベ","race":"悪魔"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 1850",
+ "description": "このカードを攻撃したモンスターは持ち主の手札に戻る。ダメージ計算は適用する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "幻影の壁",
+ "pronunciation": "ゲンエイノカベ",
+ "race": "悪魔"
+}

@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"水","defence":"400","description":"このカードが戦闘によって破壊された場合、自分のデッキから水属性モンスター２体を選択して墓地へ送る。","kinds":[{"kind":"効果"}],"level":4,"name":"スクリーチ","pronunciation":"スクリーチ","race":"爬虫類"}
+{
+ "attack": "ATK 1500",
+ "attribute": "水",
+ "defence": "DEF 400",
+ "description": "このカードが戦闘によって破壊された場合、自分のデッキから水属性モンスター２体を選択して墓地へ送る。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "スクリーチ",
+ "pronunciation": "スクリーチ",
+ "race": "爬虫類"
+}

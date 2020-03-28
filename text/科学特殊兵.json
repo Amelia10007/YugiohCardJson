@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"闇","defence":"800","description":"未知の生物に対抗するため、最新の科学兵器を装備した兵士。背中のコンテナにはさまざまな兵器が収納されている。","kinds":[{"kind":"通常"}],"level":3,"name":"科学特殊兵","pronunciation":"カガクトクシュヘイ","race":"戦士"}
+{
+ "attack": "ATK 800",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "未知の生物に対抗するため、最新の科学兵器を装備した兵士。背中のコンテナにはさまざまな兵器が収納されている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "科学特殊兵",
+ "pronunciation": "カガクトクシュヘイ",
+ "race": "戦士"
+}

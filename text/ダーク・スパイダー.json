@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"闇","defence":"0","description":"１ターンに１度、自分フィールド上に表側表示で存在する昆虫族モンスター１体のレベルをエンドフェイズ時まで２つ上げる事ができる。","kinds":[{"kind":"効果"}],"level":1,"name":"ダーク・スパイダー","pronunciation":"ダーク・スパイダー","race":"昆虫"}
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "１ターンに１度、自分フィールド上に表側表示で存在する昆虫族モンスター１体のレベルをエンドフェイズ時まで２つ上げる事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "ダーク・スパイダー",
+ "pronunciation": "ダーク・スパイダー",
+ "race": "昆虫"
+}

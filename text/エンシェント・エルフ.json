@@ -1,1 +1,15 @@
-{"attack":"1450","attribute":"光","defence":"1200","description":"何千年も生きているエルフ。精霊をあやつり攻撃をする。","kinds":[{"kind":"通常"}],"level":4,"name":"エンシェント・エルフ","pronunciation":"エンシェント・エルフ","race":"魔法使い"}
+{
+ "attack": "ATK 1450",
+ "attribute": "光",
+ "defence": "DEF 1200",
+ "description": "何千年も生きているエルフ。精霊をあやつり攻撃をする。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "エンシェント・エルフ",
+ "pronunciation": "エンシェント・エルフ",
+ "race": "魔法使い"
+}

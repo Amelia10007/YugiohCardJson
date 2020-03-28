@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"炎","defence":"2000","description":"戦うために造られた機械の戦士。さびない金属でできている。","kinds":[{"kind":"通常"}],"level":6,"name":"ガジェット・ソルジャー","pronunciation":"ガジェット・ソルジャー","race":"機械"}
+{
+ "attack": "ATK 1800",
+ "attribute": "炎",
+ "defence": "DEF 2000",
+ "description": "戦うために造られた機械の戦士。さびない金属でできている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "ガジェット・ソルジャー",
+ "pronunciation": "ガジェット・ソルジャー",
+ "race": "機械"
+}

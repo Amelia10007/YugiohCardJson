@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"1000","description":"陸上戦闘ロボット。今はダメだが、海でも使えたらしい。","kinds":[{"kind":"通常"}],"level":4,"name":"陸戦型 バグロス","pronunciation":"リクセンガタバグロス","race":"機械"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "陸上戦闘ロボット。今はダメだが、海でも使えたらしい。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "陸戦型 バグロス",
+ "pronunciation": "リクセンガタバグロス",
+ "race": "機械"
+}

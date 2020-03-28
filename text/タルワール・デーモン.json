@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"闇","defence":"2150","description":"そのタルワールは、悪魔族でも剣術の達人しか持つ事を許されていない。","kinds":[{"kind":"通常"}],"level":6,"name":"タルワール・デーモン","pronunciation":"タルワール・デーモン","race":"悪魔"}
+{
+ "attack": "ATK 2400",
+ "attribute": "闇",
+ "defence": "DEF 2150",
+ "description": "そのタルワールは、悪魔族でも剣術の達人しか持つ事を許されていない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "タルワール・デーモン",
+ "pronunciation": "タルワール・デーモン",
+ "race": "悪魔"
+}

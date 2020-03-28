@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1800","description":"リバース：自分のデッキから「督戦官コヴィントン」１体を自分の手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"マシンナーズ・ディフェンダー","pronunciation":"マシンナーズ・ディフェンダー","race":"機械"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "リバース：自分のデッキから「督戦官コヴィントン」１体を自分の手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "マシンナーズ・ディフェンダー",
+ "pronunciation": "マシンナーズ・ディフェンダー",
+ "race": "機械"
+}

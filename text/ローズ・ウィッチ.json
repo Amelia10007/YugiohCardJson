@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"地","defence":"1000","description":"植物族モンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。","kinds":[{"kind":"効果"}],"level":4,"name":"ローズ・ウィッチ","pronunciation":"ローズ・ウィッチ","race":"植物"}
+{
+ "attack": "ATK 1600",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "植物族モンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ローズ・ウィッチ",
+ "pronunciation": "ローズ・ウィッチ",
+ "race": "植物"
+}

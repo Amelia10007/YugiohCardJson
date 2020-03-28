@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"闇","defence":"800","description":"目玉に足の生えた化け物。高くジャンプしてかぎづめで攻撃する。","kinds":[{"kind":"通常"}],"level":3,"name":"デス・フット","pronunciation":"デス・フット","race":"悪魔"}
+{
+ "attack": "ATK 700",
+ "attribute": "闇",
+ "defence": "DEF 800",
+ "description": "目玉に足の生えた化け物。高くジャンプしてかぎづめで攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "デス・フット",
+ "pronunciation": "デス・フット",
+ "race": "悪魔"
+}

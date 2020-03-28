@@ -1,1 +1,10 @@
-{"description":"フィールド上に存在する魔法・罠カードを全て破壊する。","kinds":[{"kind":"通常魔法"}],"name":"大嵐","pronunciation":"オオアラシ"}
+{
+ "description": "フィールド上に存在する魔法・罠カードを全て破壊する。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "大嵐",
+ "pronunciation": "オオアラシ"
+}

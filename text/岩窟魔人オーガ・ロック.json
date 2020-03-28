@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"地","defence":"1200","description":"体が岩のため守備は高い。太い腕のひと振りに注意。","kinds":[{"kind":"通常"}],"level":3,"name":"岩窟魔人オーガ・ロック","pronunciation":"ガンクツマジンオーガロック","race":"岩石"}
+{
+ "attack": "ATK 800",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "体が岩のため守備は高い。太い腕のひと振りに注意。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "岩窟魔人オーガ・ロック",
+ "pronunciation": "ガンクツマジンオーガロック",
+ "race": "岩石"
+}

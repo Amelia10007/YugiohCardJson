@@ -1,1 +1,10 @@
-{"description":"カード１枚のターンカウントを１ターン進める。","kinds":[{"kind":"通常罠"}],"name":"運命の火時計","pronunciation":"ウンメイノヒドケイ"}
+{
+ "description": "カード１枚のターンカウントを１ターン進める。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "運命の火時計",
+ "pronunciation": "ウンメイノヒドケイ"
+}

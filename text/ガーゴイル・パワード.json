@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"闇","defence":"1200","description":"闇の力を得て強化されたガーゴイル。かぎづめの攻撃に注意。","kinds":[{"kind":"通常"}],"level":4,"name":"ガーゴイル・パワード","pronunciation":"ガーゴイル・パワード","race":"悪魔"}
+{
+ "attack": "ATK 1600",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "闇の力を得て強化されたガーゴイル。かぎづめの攻撃に注意。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ガーゴイル・パワード",
+ "pronunciation": "ガーゴイル・パワード",
+ "race": "悪魔"
+}

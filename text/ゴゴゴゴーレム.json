@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"地","defence":"1500","description":"フィールド上に表側守備表示で存在するこのカードは、１ターンに１度だけ戦闘では破壊されない。","kinds":[{"kind":"効果"}],"level":4,"name":"ゴゴゴゴーレム","pronunciation":"ゴゴゴゴーレム","race":"岩石"}
+{
+ "attack": "ATK 1800",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "フィールド上に表側守備表示で存在するこのカードは、１ターンに１度だけ戦闘では破壊されない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ゴゴゴゴーレム",
+ "pronunciation": "ゴゴゴゴーレム",
+ "race": "岩石"
+}

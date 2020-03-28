@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"光","defence":"200","description":"このカードが相手モンスターから攻撃を受けた場合、他の自分のモンスター１体が攻撃を受けた事にし、ダメージ計算を行う。","kinds":[{"kind":"効果"}],"level":2,"name":"幻影の妖精","pronunciation":"ゲンエイノヨウセイ","race":"植物"}
+{
+ "attack": "ATK 300",
+ "attribute": "光",
+ "defence": "DEF 200",
+ "description": "このカードが相手モンスターから攻撃を受けた場合、他の自分のモンスター１体が攻撃を受けた事にし、ダメージ計算を行う。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "幻影の妖精",
+ "pronunciation": "ゲンエイノヨウセイ",
+ "race": "植物"
+}

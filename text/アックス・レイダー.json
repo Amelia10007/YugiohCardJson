@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"地","defence":"1150","description":"オノを持つ戦士。片手でオノを振り回す攻撃はかなり強い。","kinds":[{"kind":"通常"}],"level":4,"name":"アックス・レイダー","pronunciation":"アックス・レイダー","race":"戦士"}
+{
+ "attack": "ATK 1700",
+ "attribute": "地",
+ "defence": "DEF 1150",
+ "description": "オノを持つ戦士。片手でオノを振り回す攻撃はかなり強い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "アックス・レイダー",
+ "pronunciation": "アックス・レイダー",
+ "race": "戦士"
+}

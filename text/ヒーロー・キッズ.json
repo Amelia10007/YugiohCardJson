@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"地","defence":"600","description":"このカードが特殊召喚に成功した時、デッキから「ヒーロー・キッズ」を任意の枚数特殊召喚する事ができる。","kinds":[{"kind":"効果"}],"level":2,"name":"ヒーロー・キッズ","pronunciation":"ヒーロー・キッズ","race":"戦士"}
+{
+ "attack": "ATK 300",
+ "attribute": "地",
+ "defence": "DEF 600",
+ "description": "このカードが特殊召喚に成功した時、デッキから「ヒーロー・キッズ」を任意の枚数特殊召喚する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ヒーロー・キッズ",
+ "pronunciation": "ヒーロー・キッズ",
+ "race": "戦士"
+}

@@ -1,1 +1,18 @@
-{"attack":"1200","attribute":"闇","defence":"900","description":"「ワイト」＋「格闘戦士アルティメーター」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":3,"name":"アンデット・ウォーリアー","pronunciation":"アンデット・ウォーリアー","race":"アンデット"}
+{
+ "attack": "ATK 1200",
+ "attribute": "闇",
+ "defence": "DEF 900",
+ "description": "「ワイト」＋「格闘戦士アルティメーター」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 3,
+ "name": "アンデット・ウォーリアー",
+ "pronunciation": "アンデット・ウォーリアー",
+ "race": "アンデット"
+}

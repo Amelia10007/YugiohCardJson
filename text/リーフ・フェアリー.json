@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"地","defence":"400","description":"このカードが装備している装備カードを１枚墓地へ送る。相手プレイヤーに５００ポイントダメージを与える。","kinds":[{"kind":"効果"}],"level":3,"name":"リーフ・フェアリー","pronunciation":"リーフ・フェアリー","race":"植物"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 400",
+ "description": "このカードが装備している装備カードを１枚墓地へ送る。相手プレイヤーに５００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "リーフ・フェアリー",
+ "pronunciation": "リーフ・フェアリー",
+ "race": "植物"
+}

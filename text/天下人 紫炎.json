@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"炎","defence":"1000","description":"このカードは罠の効果を受けない。","kinds":[{"kind":"効果"}],"level":4,"name":"天下人 紫炎","pronunciation":"テンカビトシエン","race":"炎"}
+{
+ "attack": "ATK 1500",
+ "attribute": "炎",
+ "defence": "DEF 1000",
+ "description": "このカードは罠の効果を受けない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "天下人 紫炎",
+ "pronunciation": "テンカビトシエン",
+ "race": "炎"
+}

@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"炎","defence":"1500","description":"水の中でもボウボウと燃え盛る炎に包まれたイカ。","kinds":[{"kind":"通常"}],"level":4,"name":"ファイヤー・クラーケン","pronunciation":"ファイヤー・クラーケン","race":"水"}
+{
+ "attack": "ATK 1600",
+ "attribute": "炎",
+ "defence": "DEF 1500",
+ "description": "水の中でもボウボウと燃え盛る炎に包まれたイカ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ファイヤー・クラーケン",
+ "pronunciation": "ファイヤー・クラーケン",
+ "race": "水"
+}

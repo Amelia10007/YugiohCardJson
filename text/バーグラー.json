@@ -1,1 +1,15 @@
-{"attack":"850","attribute":"地","defence":"800","description":"ずるがしこいねずみ。右手の大きなかぎづめで攻撃してくる。","kinds":[{"kind":"通常"}],"level":3,"name":"バーグラー","pronunciation":"バーグラー","race":"獣"}
+{
+ "attack": "ATK 850",
+ "attribute": "地",
+ "defence": "DEF 800",
+ "description": "ずるがしこいねずみ。右手の大きなかぎづめで攻撃してくる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "バーグラー",
+ "pronunciation": "バーグラー",
+ "race": "獣"
+}

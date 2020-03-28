@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"風","defence":"1000","description":"羽をはばたかせて強力な竜巻を起こす。","kinds":[{"kind":"通常"}],"level":4,"name":"ワイバーン","pronunciation":"ワイバーン","race":"鳥獣"}
+{
+ "attack": "ATK 1200",
+ "attribute": "風",
+ "defence": "DEF 1000",
+ "description": "羽をはばたかせて強力な竜巻を起こす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ワイバーン",
+ "pronunciation": "ワイバーン",
+ "race": "鳥獣"
+}

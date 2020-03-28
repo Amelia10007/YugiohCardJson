@@ -1,1 +1,18 @@
-{"attack":"1800","attribute":"地","defence":"1400","description":"「シルバー・フォング」＋「魔界のイバラ」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":5,"name":"フラワー・ウルフ","pronunciation":"フラワー・ウルフ","race":"獣"}
+{
+ "attack": "ATK 1800",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "「シルバー・フォング」＋「魔界のイバラ」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 5,
+ "name": "フラワー・ウルフ",
+ "pronunciation": "フラワー・ウルフ",
+ "race": "獣"
+}

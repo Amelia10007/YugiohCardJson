@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"1900","description":"リバース：フィールド上の相手モンスター１体を持ち主の手札に戻す。","kinds":[{"kind":"効果"}],"level":4,"name":"墓守の番兵","pronunciation":"ハカモリノバンペイ","race":"魔法使い"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 1900",
+ "description": "リバース：フィールド上の相手モンスター１体を持ち主の手札に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "墓守の番兵",
+ "pronunciation": "ハカモリノバンペイ",
+ "race": "魔法使い"
+}

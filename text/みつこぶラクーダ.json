@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"地","defence":"1500","description":"「みつこぶラクーダ」が自分フィールド上に表側表示で３体存在する場合、その内２体を生け贄に捧げる事でカードを３枚ドローする。","kinds":[{"kind":"効果"}],"level":3,"name":"みつこぶラクーダ","pronunciation":"ミツコブラクーダ","race":"獣"}
+{
+ "attack": "ATK 500",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "「みつこぶラクーダ」が自分フィールド上に表側表示で３体存在する場合、その内２体を生け贄に捧げる事でカードを３枚ドローする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "みつこぶラクーダ",
+ "pronunciation": "ミツコブラクーダ",
+ "race": "獣"
+}

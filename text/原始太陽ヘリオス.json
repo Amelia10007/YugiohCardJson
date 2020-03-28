@@ -1,1 +1,15 @@
-{"attack":"?","attribute":"光","defence":"?","description":"このカードの攻撃力と守備力は、ゲームから除外されているモンスターの数×１００ポイントになる。","kinds":[{"kind":"効果"}],"level":4,"name":"原始太陽ヘリオス","pronunciation":"ゲンシタイヨウヘリオス","race":"炎"}
+{
+ "attack": "ATK ?",
+ "attribute": "光",
+ "defence": "DEF ?",
+ "description": "このカードの攻撃力と守備力は、ゲームから除外されているモンスターの数×１００ポイントになる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "原始太陽ヘリオス",
+ "pronunciation": "ゲンシタイヨウヘリオス",
+ "race": "炎"
+}

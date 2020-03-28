@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"水","defence":"1900","description":"このカードがリバースした時、フィールド上に表側表示で存在するモンスター１体を破壊する。","kinds":[{"kind":"効果"}],"level":3,"name":"スノーマンイーター","pronunciation":"スノーマンイーター","race":"水"}
+{
+ "attack": "ATK 0",
+ "attribute": "水",
+ "defence": "DEF 1900",
+ "description": "このカードがリバースした時、フィールド上に表側表示で存在するモンスター１体を破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "スノーマンイーター",
+ "pronunciation": "スノーマンイーター",
+ "race": "水"
+}

@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"地","defence":"1900","description":"このカードが戦闘によって墓地に送られた時、相手ライフに５００ポイントダメージを与える。","kinds":[{"kind":"効果"}],"level":3,"name":"マイン・ゴーレム","pronunciation":"マイン・ゴーレム","race":"岩石"}
+{
+ "attack": "ATK 1000",
+ "attribute": "地",
+ "defence": "DEF 1900",
+ "description": "このカードが戦闘によって墓地に送られた時、相手ライフに５００ポイントダメージを与える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "マイン・ゴーレム",
+ "pronunciation": "マイン・ゴーレム",
+ "race": "岩石"
+}

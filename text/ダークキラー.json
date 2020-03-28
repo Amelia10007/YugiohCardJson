@@ -1,1 +1,15 @@
-{"attack":"700","attribute":"地","defence":"700","description":"カマのように発達した腕を振り回し攻撃してくる。","kinds":[{"kind":"通常"}],"level":2,"name":"ダークキラー","pronunciation":"ダークキラー","race":"昆虫"}
+{
+ "attack": "ATK 700",
+ "attribute": "地",
+ "defence": "DEF 700",
+ "description": "カマのように発達した腕を振り回し攻撃してくる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ダークキラー",
+ "pronunciation": "ダークキラー",
+ "race": "昆虫"
+}

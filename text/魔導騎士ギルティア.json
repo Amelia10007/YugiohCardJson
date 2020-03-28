@@ -1,1 +1,18 @@
-{"attack":"1850","attribute":"光","defence":"1500","description":"「冥界の番人」＋「王座の守護者」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":5,"name":"魔導騎士ギルティア","pronunciation":"マドウキシギルティア","race":"戦士"}
+{
+ "attack": "ATK 1850",
+ "attribute": "光",
+ "defence": "DEF 1500",
+ "description": "「冥界の番人」＋「王座の守護者」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 5,
+ "name": "魔導騎士ギルティア",
+ "pronunciation": "マドウキシギルティア",
+ "race": "戦士"
+}

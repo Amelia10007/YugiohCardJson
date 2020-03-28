@@ -1,1 +1,15 @@
-{"attack":"200","attribute":"地","defence":"100","description":"相手ターン時のみこのカードと戦闘する相手モンスターの元々の攻撃力はダメージステップ時に２００になる。","kinds":[{"kind":"効果"}],"level":1,"name":"ネコ耳族","pronunciation":"ネコミミゾク","race":"獣戦士"}
+{
+ "attack": "ATK 200",
+ "attribute": "地",
+ "defence": "DEF 100",
+ "description": "相手ターン時のみこのカードと戦闘する相手モンスターの元々の攻撃力はダメージステップ時に２００になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "ネコ耳族",
+ "pronunciation": "ネコミミゾク",
+ "race": "獣戦士"
+}

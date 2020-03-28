@@ -1,1 +1,15 @@
-{"attack":"2100","attribute":"闇","defence":"1400","description":"光属性モンスターと戦闘をする場合、ダメージステップの間このカードの攻撃力は１０００ポイントアップする。","kinds":[{"kind":"効果"}],"level":6,"name":"月の女戦士","pronunciation":"ツキノオンナセンシ","race":"戦士"}
+{
+ "attack": "ATK 2100",
+ "attribute": "闇",
+ "defence": "DEF 1400",
+ "description": "光属性モンスターと戦闘をする場合、ダメージステップの間このカードの攻撃力は１０００ポイントアップする。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "月の女戦士",
+ "pronunciation": "ツキノオンナセンシ",
+ "race": "戦士"
+}

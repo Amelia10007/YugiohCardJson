@@ -1,1 +1,15 @@
-{"attack":"0","attribute":"光","defence":"1000","description":"あらゆる手段を使ってジャマをすると言われているおジャマトリオの一員。三人揃うと何かが起こると言われている。","kinds":[{"kind":"通常"}],"level":2,"name":"おジャマ・グリーン","pronunciation":"おジャマ・グリーン","race":"獣"}
+{
+ "attack": "ATK 0",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "あらゆる手段を使ってジャマをすると言われているおジャマトリオの一員。三人揃うと何かが起こると言われている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "おジャマ・グリーン",
+ "pronunciation": "おジャマ・グリーン",
+ "race": "獣"
+}

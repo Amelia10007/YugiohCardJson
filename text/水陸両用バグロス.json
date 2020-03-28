@@ -1,1 +1,18 @@
-{"attack":"1850","attribute":"水","defence":"1300","description":"「陸戦型バグロス」＋「海を守る戦士」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":5,"name":"水陸両用バグロス","pronunciation":"スイリクリョウヨウバグロスー","race":"水"}
+{
+ "attack": "ATK 1850",
+ "attribute": "水",
+ "defence": "DEF 1300",
+ "description": "「陸戦型バグロス」＋「海を守る戦士」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 5,
+ "name": "水陸両用バグロス",
+ "pronunciation": "スイリクリョウヨウバグロスー",
+ "race": "水"
+}

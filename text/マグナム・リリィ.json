@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"地","defence":"600","description":"いわゆるてっぽうユリ。花粉の弾を飛ばし相手を攻撃する。","kinds":[{"kind":"通常"}],"level":3,"name":"マグナム・リリィ","pronunciation":"マグナム・リリィ","race":"植物"}
+{
+ "attack": "ATK 1100",
+ "attribute": "地",
+ "defence": "DEF 600",
+ "description": "いわゆるてっぽうユリ。花粉の弾を飛ばし相手を攻撃する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "マグナム・リリィ",
+ "pronunciation": "マグナム・リリィ",
+ "race": "植物"
+}

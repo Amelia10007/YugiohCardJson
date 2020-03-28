@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"闇","defence":"700","description":"暗闇の中にとけこむ影。金縛りで敵の動きを封じる。","kinds":[{"kind":"通常"}],"level":3,"name":"闇を司る影","pronunciation":"ヤミヲツカサドルカゲ","race":"悪魔"}
+{
+ "attack": "ATK 800",
+ "attribute": "闇",
+ "defence": "DEF 700",
+ "description": "暗闇の中にとけこむ影。金縛りで敵の動きを封じる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "闇を司る影",
+ "pronunciation": "ヤミヲツカサドルカゲ",
+ "race": "悪魔"
+}

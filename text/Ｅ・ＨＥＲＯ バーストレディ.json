@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"炎","defence":"800","description":"炎を操るＥ・ＨＥＲＯの紅一点。紅蓮の炎、バーストファイヤーが悪を焼き尽くす。","kinds":[{"kind":"通常"}],"level":3,"name":"Ｅ・ＨＥＲＯ バーストレディ","pronunciation":"エレメンタルヒーローバーストレディ","race":"戦士"}
+{
+ "attack": "ATK 1200",
+ "attribute": "炎",
+ "defence": "DEF 800",
+ "description": "炎を操るＥ・ＨＥＲＯの紅一点。紅蓮の炎、バーストファイヤーが悪を焼き尽くす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "Ｅ・ＨＥＲＯ バーストレディ",
+ "pronunciation": "エレメンタルヒーローバーストレディ",
+ "race": "戦士"
+}

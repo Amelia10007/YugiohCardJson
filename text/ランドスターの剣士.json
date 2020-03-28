@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"地","defence":"1200","description":"剣の腕は未熟だが、不思議な能力を持つ妖精剣士。","kinds":[{"kind":"通常"}],"level":3,"name":"ランドスターの剣士","pronunciation":"ランドスターノケンシ","race":"戦士"}
+{
+ "attack": "ATK 500",
+ "attribute": "地",
+ "defence": "DEF 1200",
+ "description": "剣の腕は未熟だが、不思議な能力を持つ妖精剣士。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ランドスターの剣士",
+ "pronunciation": "ランドスターノケンシ",
+ "race": "戦士"
+}

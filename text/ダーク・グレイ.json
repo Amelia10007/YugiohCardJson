@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"地","defence":"900","description":"からだが灰色のけもの。あまり見かけない貴重ないきもの。","kinds":[{"kind":"通常"}],"level":3,"name":"ダーク・グレイ","pronunciation":"ダーク・グレイ","race":"獣"}
+{
+ "attack": "ATK 800",
+ "attribute": "地",
+ "defence": "DEF 900",
+ "description": "からだが灰色のけもの。あまり見かけない貴重ないきもの。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ダーク・グレイ",
+ "pronunciation": "ダーク・グレイ",
+ "race": "獣"
+}

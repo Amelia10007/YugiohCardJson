@@ -1,1 +1,15 @@
-{"attack":"100","attribute":"水","defence":"300","description":"このカードが召喚に成功した時、デッキからレベル３～５の魚族モンスター１体を手札に加える事ができる。","kinds":[{"kind":"効果"}],"level":1,"name":"マーメイド・シャーク","pronunciation":"マーメイド・シャーク","race":"魚"}
+{
+ "attack": "ATK 100",
+ "attribute": "水",
+ "defence": "DEF 300",
+ "description": "このカードが召喚に成功した時、デッキからレベル３～５の魚族モンスター１体を手札に加える事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "マーメイド・シャーク",
+ "pronunciation": "マーメイド・シャーク",
+ "race": "魚"
+}

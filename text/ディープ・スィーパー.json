@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"水","defence":"1300","description":"このカードをリリースして発動できる。フィールド上の魔法・罠カード１枚を選択して破壊する。","kinds":[{"kind":"効果"}],"level":4,"name":"ディープ・スィーパー","pronunciation":"ディープ・スィーパー","race":"魚"}
+{
+ "attack": "ATK 1600",
+ "attribute": "水",
+ "defence": "DEF 1300",
+ "description": "このカードをリリースして発動できる。フィールド上の魔法・罠カード１枚を選択して破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ディープ・スィーパー",
+ "pronunciation": "ディープ・スィーパー",
+ "race": "魚"
+}

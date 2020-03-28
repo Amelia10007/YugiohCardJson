@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"闇","defence":"200","description":"相手ターンの戦闘ダメージ計算時、このカードを手札から捨てて発動する。その戦闘によって発生するコントローラーへの戦闘ダメージは０になる。","kinds":[{"kind":"効果"}],"level":1,"name":"クリボー","pronunciation":"クリボー","race":"悪魔"}
+{
+ "attack": "ATK 300",
+ "attribute": "闇",
+ "defence": "DEF 200",
+ "description": "相手ターンの戦闘ダメージ計算時、このカードを手札から捨てて発動する。その戦闘によって発生するコントローラーへの戦闘ダメージは０になる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "クリボー",
+ "pronunciation": "クリボー",
+ "race": "悪魔"
+}

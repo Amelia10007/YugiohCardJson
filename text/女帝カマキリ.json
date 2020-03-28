@@ -1,1 +1,15 @@
-{"attack":"2200","attribute":"風","defence":"1400","description":"集団性の高い巨大カマキリの女王。狩りや移動など、カマキリの大群は全て女王の指令により行動する。","kinds":[{"kind":"通常"}],"level":6,"name":"女帝カマキリ","pronunciation":"ジョテイカマキリ","race":"昆虫"}
+{
+ "attack": "ATK 2200",
+ "attribute": "風",
+ "defence": "DEF 1400",
+ "description": "集団性の高い巨大カマキリの女王。狩りや移動など、カマキリの大群は全て女王の指令により行動する。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "女帝カマキリ",
+ "pronunciation": "ジョテイカマキリ",
+ "race": "昆虫"
+}

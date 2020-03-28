@@ -1,1 +1,15 @@
-{"attack":"100","attribute":"水","defence":"100","description":"リバース：自分のデッキの上から２枚をめくり、その内の１枚を選択して手札に加える。残りはデッキの一番下に戻す。","kinds":[{"kind":"効果"}],"level":1,"name":"水晶の占い師","pronunciation":"スイショウノウラナイシ","race":"魔法使い"}
+{
+ "attack": "ATK 100",
+ "attribute": "水",
+ "defence": "DEF 100",
+ "description": "リバース：自分のデッキの上から２枚をめくり、その内の１枚を選択して手札に加える。残りはデッキの一番下に戻す。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "水晶の占い師",
+ "pronunciation": "スイショウノウラナイシ",
+ "race": "魔法使い"
+}

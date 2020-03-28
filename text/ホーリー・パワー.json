@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"光","defence":"800","description":"ひょろひょろとしているが、聖なる力に守られている。","kinds":[{"kind":"通常"}],"level":2,"name":"ホーリー・パワー","pronunciation":"ホーリー・パワー","race":"魔法使い"}
+{
+ "attack": "ATK 600",
+ "attribute": "光",
+ "defence": "DEF 800",
+ "description": "ひょろひょろとしているが、聖なる力に守られている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ホーリー・パワー",
+ "pronunciation": "ホーリー・パワー",
+ "race": "魔法使い"
+}

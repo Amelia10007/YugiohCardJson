@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"風","defence":"600","description":"マッハ５で飛行する鳥人。その眼光は鷹より鋭い。","kinds":[{"kind":"通常"}],"level":4,"name":"バードマン","pronunciation":"バードマン","race":"鳥獣"}
+{
+ "attack": "ATK 1800",
+ "attribute": "風",
+ "defence": "DEF 600",
+ "description": "マッハ５で飛行する鳥人。その眼光は鷹より鋭い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "バードマン",
+ "pronunciation": "バードマン",
+ "race": "鳥獣"
+}

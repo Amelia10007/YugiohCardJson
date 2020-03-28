@@ -1,1 +1,15 @@
-{"attack":"1150","attribute":"光","defence":"1000","description":"最新のバイオテクノロジーによって生み出された僧侶。数々の謎を秘めている。","kinds":[{"kind":"通常"}],"level":3,"name":"バイオ僧侶","pronunciation":"バイオソウリョ","race":"天使"}
+{
+ "attack": "ATK 1150",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "最新のバイオテクノロジーによって生み出された僧侶。数々の謎を秘めている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "バイオ僧侶",
+ "pronunciation": "バイオソウリョ",
+ "race": "天使"
+}

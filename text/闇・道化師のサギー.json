@@ -1,1 +1,15 @@
-{"attack":"600","attribute":"闇","defence":"1500","description":"どこからともなく現れる道化師。不思議な動きで攻撃をかわす。","kinds":[{"kind":"通常"}],"level":3,"name":"闇・道化師のサギー","pronunciation":"ヤミドウケシノサギー","race":"魔法使い"}
+{
+ "attack": "ATK 600",
+ "attribute": "闇",
+ "defence": "DEF 1500",
+ "description": "どこからともなく現れる道化師。不思議な動きで攻撃をかわす。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "闇・道化師のサギー",
+ "pronunciation": "ヤミドウケシノサギー",
+ "race": "魔法使い"
+}

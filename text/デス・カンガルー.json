@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"闇","defence":"1700","description":"守備表示のこのカードを攻撃したモンスターの攻撃力がこのカードの守備力より低い場合、その攻撃モンスターを破壊する。","kinds":[{"kind":"効果"}],"level":4,"name":"デス・カンガルー","pronunciation":"デス・カンガルー","race":"獣"}
+{
+ "attack": "ATK 1500",
+ "attribute": "闇",
+ "defence": "DEF 1700",
+ "description": "守備表示のこのカードを攻撃したモンスターの攻撃力がこのカードの守備力より低い場合、その攻撃モンスターを破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "デス・カンガルー",
+ "pronunciation": "デス・カンガルー",
+ "race": "獣"
+}

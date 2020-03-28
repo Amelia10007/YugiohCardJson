@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"闇","defence":"1200","description":"このカードと戦闘を行ったモンスターが悪魔族・アンデット族の場合、ダメージステップ終了時にそのモンスターを破壊する。","kinds":[{"kind":"効果"}],"level":4,"name":"月風魔","pronunciation":"ゲツフウマ","race":"戦士"}
+{
+ "attack": "ATK 1700",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "このカードと戦闘を行ったモンスターが悪魔族・アンデット族の場合、ダメージステップ終了時にそのモンスターを破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "月風魔",
+ "pronunciation": "ゲツフウマ",
+ "race": "戦士"
+}

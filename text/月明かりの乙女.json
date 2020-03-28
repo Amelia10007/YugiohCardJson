@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"光","defence":"1300","description":"月に守護されている月の魔導士。神秘的な魔法で幻想を見せる。","kinds":[{"kind":"通常"}],"level":4,"name":"月明かりの乙女","pronunciation":"ツキアカリノオトメ","race":"魔法使い"}
+{
+ "attack": "ATK 1500",
+ "attribute": "光",
+ "defence": "DEF 1300",
+ "description": "月に守護されている月の魔導士。神秘的な魔法で幻想を見せる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "月明かりの乙女",
+ "pronunciation": "ツキアカリノオトメ",
+ "race": "魔法使い"
+}

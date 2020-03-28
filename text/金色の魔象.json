@@ -1,1 +1,18 @@
-{"attack":"2200","attribute":"闇","defence":"1800","description":"「メデューサの亡霊」＋「ドラゴン・ゾンビ」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"金色の魔象","pronunciation":"キンイロノマゾウ","race":"アンデット"}
+{
+ "attack": "ATK 2200",
+ "attribute": "闇",
+ "defence": "DEF 1800",
+ "description": "「メデューサの亡霊」＋「ドラゴン・ゾンビ」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "金色の魔象",
+ "pronunciation": "キンイロノマゾウ",
+ "race": "アンデット"
+}

@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"闇","defence":"1200","description":"サイコソードと呼ばれる剣を持ち、魔界に君臨する暗殺者。","kinds":[{"kind":"通常"}],"level":4,"name":"闇の暗殺者","pronunciation":"ヤミノアンサツシャ","race":"アンデット"}
+{
+ "attack": "ATK 1200",
+ "attribute": "闇",
+ "defence": "DEF 1200",
+ "description": "サイコソードと呼ばれる剣を持ち、魔界に君臨する暗殺者。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "闇の暗殺者",
+ "pronunciation": "ヤミノアンサツシャ",
+ "race": "アンデット"
+}

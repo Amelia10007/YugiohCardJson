@@ -1,1 +1,15 @@
-{"attack":"1900","attribute":"地","defence":"500","description":"おとなしい性格で有名な恐竜。大草原の小さな巣でのんびりと過ごすのが好きという。怒ると怖い。","kinds":[{"kind":"通常"}],"level":4,"name":"セイバーザウルス","pronunciation":"セイバーザウルス","race":"恐竜"}
+{
+ "attack": "ATK 1900",
+ "attribute": "地",
+ "defence": "DEF 500",
+ "description": "おとなしい性格で有名な恐竜。大草原の小さな巣でのんびりと過ごすのが好きという。怒ると怖い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "セイバーザウルス",
+ "pronunciation": "セイバーザウルス",
+ "race": "恐竜"
+}

@@ -1,1 +1,15 @@
-{"attack":"1700","attribute":"地","defence":"1600","description":"ドラゴン族を操る才能を秘めた戦士。過去は謎に包まれている。","kinds":[{"kind":"通常"}],"level":4,"name":"戦士ダイ・グレファー","pronunciation":"センシダイグレファー","race":"戦士"}
+{
+ "attack": "ATK 1700",
+ "attribute": "地",
+ "defence": "DEF 1600",
+ "description": "ドラゴン族を操る才能を秘めた戦士。過去は謎に包まれている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "戦士ダイ・グレファー",
+ "pronunciation": "センシダイグレファー",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"闇","defence":"1500","description":"暗黒界でその名を知らぬ者はいない、誇り高き騎士。決して弱き者に手を下す事はない。","kinds":[{"kind":"通常"}],"level":4,"name":"暗黒界の騎士 ズール","pronunciation":"アンコクカイノキシズール","race":"悪魔"}
+{
+ "attack": "ATK 1800",
+ "attribute": "闇",
+ "defence": "DEF 1500",
+ "description": "暗黒界でその名を知らぬ者はいない、誇り高き騎士。決して弱き者に手を下す事はない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "暗黒界の騎士 ズール",
+ "pronunciation": "アンコクカイノキシズール",
+ "race": "悪魔"
+}

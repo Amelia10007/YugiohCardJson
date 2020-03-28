@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"闇","defence":"700","description":"リバース：相手フィールド上に存在する表側表示モンスター全ての表示形式を変更する。","kinds":[{"kind":"効果"}],"level":3,"name":"グラビティ・ボール","pronunciation":"グラビティ・ボール","race":"悪魔"}
+{
+ "attack": "ATK 1100",
+ "attribute": "闇",
+ "defence": "DEF 700",
+ "description": "リバース：相手フィールド上に存在する表側表示モンスター全ての表示形式を変更する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "グラビティ・ボール",
+ "pronunciation": "グラビティ・ボール",
+ "race": "悪魔"
+}

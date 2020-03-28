@@ -1,1 +1,15 @@
-{"attack":"850","attribute":"水","defence":"1400","description":"表面がかたく守備力が比較的高い、青っぽいヒトデ。","kinds":[{"kind":"通常"}],"level":4,"name":"アーマード・スターフィッシュ","pronunciation":"アーマード・スターフィッシュ","race":"水"}
+{
+ "attack": "ATK 850",
+ "attribute": "水",
+ "defence": "DEF 1400",
+ "description": "表面がかたく守備力が比較的高い、青っぽいヒトデ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "アーマード・スターフィッシュ",
+ "pronunciation": "アーマード・スターフィッシュ",
+ "race": "水"
+}

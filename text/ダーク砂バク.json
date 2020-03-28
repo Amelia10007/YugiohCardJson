@@ -1,1 +1,15 @@
-{"attack":"1100","attribute":"地","defence":"300","description":"このカードがゲームから除外された時、自分の墓地に存在するレベル４以下の獣族モンスター１体を選択して特殊召喚する事ができる。","kinds":[{"kind":"効果"}],"level":2,"name":"ダーク砂バク","pronunciation":"ダークサバク","race":"獣"}
+{
+ "attack": "ATK 1100",
+ "attribute": "地",
+ "defence": "DEF 300",
+ "description": "このカードがゲームから除外された時、自分の墓地に存在するレベル４以下の獣族モンスター１体を選択して特殊召喚する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ダーク砂バク",
+ "pronunciation": "ダークサバク",
+ "race": "獣"
+}

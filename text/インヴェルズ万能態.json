@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"闇","defence":"0","description":"「インヴェルズ」と名のついたモンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。","kinds":[{"kind":"効果"}],"level":2,"name":"インヴェルズ万能態","pronunciation":"インヴェルズバンノウタイ","race":"悪魔"}
+{
+ "attack": "ATK 1000",
+ "attribute": "闇",
+ "defence": "DEF 0",
+ "description": "「インヴェルズ」と名のついたモンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "インヴェルズ万能態",
+ "pronunciation": "インヴェルズバンノウタイ",
+ "race": "悪魔"
+}

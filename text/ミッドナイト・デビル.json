@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"闇","defence":"600","description":"深夜に現れる鳥のばけもの。呼び出すにはいけにえが必要という。","kinds":[{"kind":"通常"}],"level":2,"name":"ミッドナイト・デビル","pronunciation":"ミッドナイト・デビル","race":"悪魔"}
+{
+ "attack": "ATK 800",
+ "attribute": "闇",
+ "defence": "DEF 600",
+ "description": "深夜に現れる鳥のばけもの。呼び出すにはいけにえが必要という。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 2,
+ "name": "ミッドナイト・デビル",
+ "pronunciation": "ミッドナイト・デビル",
+ "race": "悪魔"
+}

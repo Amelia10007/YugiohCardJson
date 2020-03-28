@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"地","defence":"1800","description":"このカードが表側表示で自分フィールド上に存在する限り、お互いは「手札のカードを捨てる事によって発動する効果」を発動できない。","kinds":[{"kind":"効果"}],"level":4,"name":"強欲ゴブリン","pronunciation":"ゴウヨクゴブリン","race":"悪魔"}
+{
+ "attack": "ATK 1000",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "このカードが表側表示で自分フィールド上に存在する限り、お互いは「手札のカードを捨てる事によって発動する効果」を発動できない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "強欲ゴブリン",
+ "pronunciation": "ゴウヨクゴブリン",
+ "race": "悪魔"
+}

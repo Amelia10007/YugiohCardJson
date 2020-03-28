@@ -1,1 +1,18 @@
-{"attack":"2200","attribute":"闇","defence":"1800","description":"「ランプの魔人」＋「異次元からの侵略者」","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":6,"name":"ソウル・ハンター","pronunciation":"ソウル・ハンター","race":"悪魔"}
+{
+ "attack": "ATK 2200",
+ "attribute": "闇",
+ "defence": "DEF 1800",
+ "description": "「ランプの魔人」＋「異次元からの侵略者」",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 6,
+ "name": "ソウル・ハンター",
+ "pronunciation": "ソウル・ハンター",
+ "race": "悪魔"
+}

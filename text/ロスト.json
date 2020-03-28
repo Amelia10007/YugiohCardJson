@@ -1,1 +1,10 @@
-{"description":"相手の墓地のカード１枚をゲームから除外する。","kinds":[{"kind":"通常罠"}],"name":"ロスト","pronunciation":"ロスト"}
+{
+ "description": "相手の墓地のカード１枚をゲームから除外する。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "ロスト",
+ "pronunciation": "ロスト"
+}

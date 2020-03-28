@@ -1,1 +1,15 @@
-{"attack":"2400","attribute":"闇","defence":"2000","description":"このカードと戦闘を行ったモンスターが戦士族・魔法使い族の場合、ダメージステップ終了時にそのモンスターを破壊する。","kinds":[{"kind":"効果"}],"level":6,"name":"龍骨鬼","pronunciation":"リュウコツキ","race":"アンデット"}
+{
+ "attack": "ATK 2400",
+ "attribute": "闇",
+ "defence": "DEF 2000",
+ "description": "このカードと戦闘を行ったモンスターが戦士族・魔法使い族の場合、ダメージステップ終了時にそのモンスターを破壊する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 6,
+ "name": "龍骨鬼",
+ "pronunciation": "リュウコツキ",
+ "race": "アンデット"
+}

@@ -1,1 +1,15 @@
-{"attack":"1750","attribute":"地","defence":"1500","description":"珍しい女性の魔物使い。ムチを手にすると、性格が変わる。","kinds":[{"kind":"通常"}],"level":5,"name":"美しき魔物使い","pronunciation":"ウツクシキマモノツカイ","race":"戦士"}
+{
+ "attack": "ATK 1750",
+ "attribute": "地",
+ "defence": "DEF 1500",
+ "description": "珍しい女性の魔物使い。ムチを手にすると、性格が変わる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "美しき魔物使い",
+ "pronunciation": "ウツクシキマモノツカイ",
+ "race": "戦士"
+}

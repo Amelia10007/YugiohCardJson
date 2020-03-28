@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"風","defence":"500","description":"このカードが戦闘によって破壊される以外の方法でフィールド上から墓地に送られた時、このカードは持ち主の手札に戻る。","kinds":[{"kind":"効果"}],"level":3,"name":"暗黒プテラ","pronunciation":"ブラックプテラ","race":"恐竜"}
+{
+ "attack": "ATK 1000",
+ "attribute": "風",
+ "defence": "DEF 500",
+ "description": "このカードが戦闘によって破壊される以外の方法でフィールド上から墓地に送られた時、このカードは持ち主の手札に戻る。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "暗黒プテラ",
+ "pronunciation": "ブラックプテラ",
+ "race": "恐竜"
+}

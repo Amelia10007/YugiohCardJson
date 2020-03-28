@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"水","defence":"1000","description":"水で相手の周りを囲んで、包むように攻撃をする。","kinds":[{"kind":"通常"}],"level":4,"name":"水の魔導師","pronunciation":"ミズノマドウシ","race":"水"}
+{
+ "attack": "ATK 1400",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "水で相手の周りを囲んで、包むように攻撃をする。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "水の魔導師",
+ "pronunciation": "ミズノマドウシ",
+ "race": "水"
+}

@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1400","description":"森の精霊。草木の力を借りて相手の動きを封じる。","kinds":[{"kind":"通常"}],"level":4,"name":"ドリアード","pronunciation":"ドリアード","race":"魔法使い"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "森の精霊。草木の力を借りて相手の動きを封じる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ドリアード",
+ "pronunciation": "ドリアード",
+ "race": "魔法使い"
+}

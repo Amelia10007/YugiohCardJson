@@ -1,1 +1,10 @@
-{"description":"相手は次のバトルフェイズを２回行う。","kinds":[{"kind":"通常罠"}],"name":"不運なリポート","pronunciation":"フウンナリポート"}
+{
+ "description": "相手は次のバトルフェイズを２回行う。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "不運なリポート",
+ "pronunciation": "フウンナリポート"
+}

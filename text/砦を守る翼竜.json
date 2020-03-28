@@ -1,1 +1,15 @@
-{"attack":"1400","attribute":"風","defence":"1200","description":"山の砦を守る竜。天空から急降下して敵を攻撃。","kinds":[{"kind":"通常"}],"level":4,"name":"砦を守る翼竜","pronunciation":"トリデヲマモルヨクリュウ","race":"ドラゴン"}
+{
+ "attack": "ATK 1400",
+ "attribute": "風",
+ "defence": "DEF 1200",
+ "description": "山の砦を守る竜。天空から急降下して敵を攻撃。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "砦を守る翼竜",
+ "pronunciation": "トリデヲマモルヨクリュウ",
+ "race": "ドラゴン"
+}

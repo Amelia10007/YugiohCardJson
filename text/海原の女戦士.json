@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"水","defence":"1400","description":"海の神に仕えるマーメイド。神聖な領域を守っている。","kinds":[{"kind":"通常"}],"level":4,"name":"海原の女戦士","pronunciation":"ウナバラノオンナセンシ","race":"魚"}
+{
+ "attack": "ATK 1300",
+ "attribute": "水",
+ "defence": "DEF 1400",
+ "description": "海の神に仕えるマーメイド。神聖な領域を守っている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "海原の女戦士",
+ "pronunciation": "ウナバラノオンナセンシ",
+ "race": "魚"
+}

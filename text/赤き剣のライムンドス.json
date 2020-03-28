@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1300","description":"赤き炎の剣を持った戦士。炎の束縛で動きを封じる。","kinds":[{"kind":"通常"}],"level":4,"name":"赤き剣のライムンドス","pronunciation":"アカキケンノライムンドス","race":"戦士"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1300",
+ "description": "赤き炎の剣を持った戦士。炎の束縛で動きを封じる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "赤き剣のライムンドス",
+ "pronunciation": "アカキケンノライムンドス",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"地","defence":"1000","description":"花の中の女性が毒花粉をまき散らす。近づいてはいけない。","kinds":[{"kind":"通常"}],"level":3,"name":"アルラウネ","pronunciation":"アルラウネ","race":"植物"}
+{
+ "attack": "ATK 800",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "花の中の女性が毒花粉をまき散らす。近づいてはいけない。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "アルラウネ",
+ "pronunciation": "アルラウネ",
+ "race": "植物"
+}

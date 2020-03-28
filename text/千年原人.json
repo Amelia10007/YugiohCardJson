@@ -1,1 +1,15 @@
-{"attack":"2750","attribute":"地","defence":"2500","description":"どんな時でも力で押し通す、千年アイテムを持つ原始人。","kinds":[{"kind":"通常"}],"level":8,"name":"千年原人","pronunciation":"センネンゲンジン","race":"獣戦士"}
+{
+ "attack": "ATK 2750",
+ "attribute": "地",
+ "defence": "DEF 2500",
+ "description": "どんな時でも力で押し通す、千年アイテムを持つ原始人。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 8,
+ "name": "千年原人",
+ "pronunciation": "センネンゲンジン",
+ "race": "獣戦士"
+}

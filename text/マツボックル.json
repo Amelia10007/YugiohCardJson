@@ -1,1 +1,15 @@
-{"attack":"400","attribute":"地","defence":"200","description":"このカードが「コロボックリ」の効果によって墓地へ送られた場合、このカードを墓地から特殊召喚する事ができる。","kinds":[{"kind":"効果"}],"level":1,"name":"マツボックル","pronunciation":"マツボックル","race":"植物"}
+{
+ "attack": "ATK 400",
+ "attribute": "地",
+ "defence": "DEF 200",
+ "description": "このカードが「コロボックリ」の効果によって墓地へ送られた場合、このカードを墓地から特殊召喚する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "マツボックル",
+ "pronunciation": "マツボックル",
+ "race": "植物"
+}

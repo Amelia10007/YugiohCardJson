@@ -1,1 +1,10 @@
-{"description":"お互いは１０００ライフポイント回復する。","kinds":[{"kind":"通常魔法"}],"name":"恵みの雨","pronunciation":"メグミノアメ"}
+{
+ "description": "お互いは１０００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "恵みの雨",
+ "pronunciation": "メグミノアメ"
+}

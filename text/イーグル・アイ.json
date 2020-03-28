@@ -1,1 +1,15 @@
-{"attack":"1300","attribute":"風","defence":"1200","description":"このカードが召喚に成功した時、罠カードを発動する事はできない。","kinds":[{"kind":"効果"}],"level":3,"name":"イーグル・アイ","pronunciation":"イーグル・アイ","race":"鳥獣"}
+{
+ "attack": "ATK 1300",
+ "attribute": "風",
+ "defence": "DEF 1200",
+ "description": "このカードが召喚に成功した時、罠カードを発動する事はできない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "イーグル・アイ",
+ "pronunciation": "イーグル・アイ",
+ "race": "鳥獣"
+}

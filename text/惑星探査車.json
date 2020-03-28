@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"地","defence":"1000","description":"このカードをリリースして発動できる。デッキからフィールド魔法カード１枚を手札に加える。","kinds":[{"kind":"効果"}],"level":4,"name":"惑星探査車","pronunciation":"プラネットパスファインダー","race":"機械"}
+{
+ "attack": "ATK 1000",
+ "attribute": "地",
+ "defence": "DEF 1000",
+ "description": "このカードをリリースして発動できる。デッキからフィールド魔法カード１枚を手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "惑星探査車",
+ "pronunciation": "プラネットパスファインダー",
+ "race": "機械"
+}

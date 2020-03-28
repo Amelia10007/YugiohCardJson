@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"地","defence":"350","description":"このカードは相手プレイヤーを直接攻撃する事ができる。","kinds":[{"kind":"効果"}],"level":1,"name":"レッグル","pronunciation":"レッグル","race":"昆虫"}
+{
+ "attack": "ATK 300",
+ "attribute": "地",
+ "defence": "DEF 350",
+ "description": "このカードは相手プレイヤーを直接攻撃する事ができる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "レッグル",
+ "pronunciation": "レッグル",
+ "race": "昆虫"
+}

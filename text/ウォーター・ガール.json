@@ -1,1 +1,15 @@
-{"attack":"1250","attribute":"水","defence":"1000","description":"水を氷の矢のようにして攻撃してくるきれいなお姉さん。","kinds":[{"kind":"通常"}],"level":4,"name":"ウォーター・ガール","pronunciation":"ウォーター・ガール","race":"水"}
+{
+ "attack": "ATK 1250",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "水を氷の矢のようにして攻撃してくるきれいなお姉さん。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ウォーター・ガール",
+ "pronunciation": "ウォーター・ガール",
+ "race": "水"
+}

@@ -1,1 +1,18 @@
-{"attack":"2900","attribute":"地","defence":"2500","description":"「ジェムナイト」と名のついたモンスター＋岩石族モンスター","kinds":[{"kind":"通常"},{"kind":"融合"}],"level":8,"name":"ジェムナイト・ジルコニア","pronunciation":"ジェムナイト・ジルコニア","race":"岩石"}
+{
+ "attack": "ATK 2900",
+ "attribute": "地",
+ "defence": "DEF 2500",
+ "description": "「ジェムナイト」と名のついたモンスター＋岩石族モンスター",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 8,
+ "name": "ジェムナイト・ジルコニア",
+ "pronunciation": "ジェムナイト・ジルコニア",
+ "race": "岩石"
+}

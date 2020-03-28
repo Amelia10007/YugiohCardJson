@@ -1,1 +1,15 @@
-{"attack":"1650","attribute":"水","defence":"1700","description":"水中を優雅に泳ぐ魚の神様。怒らせると危険。","kinds":[{"kind":"通常"}],"level":5,"name":"神魚","pronunciation":"シンギョ","race":"魚"}
+{
+ "attack": "ATK 1650",
+ "attribute": "水",
+ "defence": "DEF 1700",
+ "description": "水中を優雅に泳ぐ魚の神様。怒らせると危険。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "神魚",
+ "pronunciation": "シンギョ",
+ "race": "魚"
+}

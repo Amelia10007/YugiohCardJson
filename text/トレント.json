@@ -1,1 +1,15 @@
-{"attack":"1500","attribute":"地","defence":"1800","description":"まだまだ成長し続けている森の大木。森の守り神。","kinds":[{"kind":"通常"}],"level":5,"name":"トレント","pronunciation":"トレント","race":"植物"}
+{
+ "attack": "ATK 1500",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "まだまだ成長し続けている森の大木。森の守り神。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 5,
+ "name": "トレント",
+ "pronunciation": "トレント",
+ "race": "植物"
+}

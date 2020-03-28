@@ -1,1 +1,15 @@
-{"attack":"900","attribute":"地","defence":"1600","description":"異次元に通じる大きな穴から出てくる、大きな鋼鉄の魔人。","kinds":[{"kind":"通常"}],"level":4,"name":"ゴルゴイル","pronunciation":"ゴルゴイル","race":"機械"}
+{
+ "attack": "ATK 900",
+ "attribute": "地",
+ "defence": "DEF 1600",
+ "description": "異次元に通じる大きな穴から出てくる、大きな鋼鉄の魔人。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ゴルゴイル",
+ "pronunciation": "ゴルゴイル",
+ "race": "機械"
+}

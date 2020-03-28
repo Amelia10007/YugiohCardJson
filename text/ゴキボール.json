@@ -1,1 +1,15 @@
-{"attack":"1200","attribute":"地","defence":"1400","description":"丸いゴキブリ。ゴロゴロ転がって攻撃。守備が意外と高いぞ。","kinds":[{"kind":"通常"}],"level":4,"name":"ゴキボール","pronunciation":"ゴキボール","race":"昆虫"}
+{
+ "attack": "ATK 1200",
+ "attribute": "地",
+ "defence": "DEF 1400",
+ "description": "丸いゴキブリ。ゴロゴロ転がって攻撃。守備が意外と高いぞ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ゴキボール",
+ "pronunciation": "ゴキボール",
+ "race": "昆虫"
+}

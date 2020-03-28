@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"2000","description":"聖なる力で弱き物を守り、逆転の力を与える女神。","kinds":[{"kind":"通常"}],"level":6,"name":"逆転の女神","pronunciation":"ギャクテンノメガミ","race":"天使"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 2000",
+ "description": "聖なる力で弱き物を守り、逆転の力を与える女神。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "逆転の女神",
+ "pronunciation": "ギャクテンノメガミ",
+ "race": "天使"
+}

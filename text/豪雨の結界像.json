@@ -1,1 +1,15 @@
-{"attack":"1000","attribute":"水","defence":"1000","description":"このカードがフィールド上に表側表示で存在する限り、水属性モンスター以外の特殊召喚はできない。","kinds":[{"kind":"効果"}],"level":4,"name":"豪雨の結界像","pronunciation":"ゴウウノケッカイゾウ","race":"水"}
+{
+ "attack": "ATK 1000",
+ "attribute": "水",
+ "defence": "DEF 1000",
+ "description": "このカードがフィールド上に表側表示で存在する限り、水属性モンスター以外の特殊召喚はできない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "豪雨の結界像",
+ "pronunciation": "ゴウウノケッカイゾウ",
+ "race": "水"
+}

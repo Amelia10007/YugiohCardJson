@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"地","defence":"1100","description":"華麗な攻撃と冷静な判断で戦場を舞う、Ｘ－セイバーの女戦士。時に冷酷なその攻撃は敵に恐れられている。","kinds":[{"kind":"通常"}],"level":4,"name":"Ｘ－セイバー アナペレラ","pronunciation":"エックスセイバーアナペレラ","race":"戦士"}
+{
+ "attack": "ATK 1800",
+ "attribute": "地",
+ "defence": "DEF 1100",
+ "description": "華麗な攻撃と冷静な判断で戦場を舞う、Ｘ－セイバーの女戦士。時に冷酷なその攻撃は敵に恐れられている。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "Ｘ－セイバー アナペレラ",
+ "pronunciation": "エックスセイバーアナペレラ",
+ "race": "戦士"
+}

@@ -1,1 +1,15 @@
-{"attack":"1800","attribute":"光","defence":"500","description":"自分のフィールド上モンスター２体を生け贄に捧げる度に、自分は１０００ライフポイント回復する。","kinds":[{"kind":"効果"}],"level":4,"name":"ヒステリック天使","pronunciation":"ヒステリックエンジェル","race":"天使"}
+{
+ "attack": "ATK 1800",
+ "attribute": "光",
+ "defence": "DEF 500",
+ "description": "自分のフィールド上モンスター２体を生け贄に捧げる度に、自分は１０００ライフポイント回復する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 4,
+ "name": "ヒステリック天使",
+ "pronunciation": "ヒステリックエンジェル",
+ "race": "天使"
+}

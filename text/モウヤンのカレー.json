@@ -1,1 +1,10 @@
-{"description":"ライフポイントを２００ポイント回復する。","kinds":[{"kind":"通常魔法"}],"name":"モウヤンのカレー","pronunciation":"モウヤンノカレー"}
+{
+ "description": "ライフポイントを２００ポイント回復する。",
+ "kinds": [
+  {
+   "kind": "通常魔法"
+  }
+ ],
+ "name": "モウヤンのカレー",
+ "pronunciation": "モウヤンノカレー"
+}

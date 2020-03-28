@@ -1,1 +1,15 @@
-{"attack":"1600","attribute":"光","defence":"0","description":"このカードがフィールド上に表側表示で存在する限り、墓地へ送られるカードは墓地へは行かずゲームから除外される。","kinds":[{"kind":"効果"}],"level":3,"name":"閃光の追放者","pronunciation":"センコウノツイホウシャ","race":"天使"}
+{
+ "attack": "ATK 1600",
+ "attribute": "光",
+ "defence": "DEF 0",
+ "description": "このカードがフィールド上に表側表示で存在する限り、墓地へ送られるカードは墓地へは行かずゲームから除外される。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "閃光の追放者",
+ "pronunciation": "センコウノツイホウシャ",
+ "race": "天使"
+}

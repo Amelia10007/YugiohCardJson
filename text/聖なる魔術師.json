@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"光","defence":"400","description":"リバース：自分の墓地から魔法カードを１枚選択する。選択したカードを自分の手札に加える。","kinds":[{"kind":"効果"}],"level":1,"name":"聖なる魔術師","pronunciation":"セイントマジシャン","race":"魔法使い"}
+{
+ "attack": "ATK 300",
+ "attribute": "光",
+ "defence": "DEF 400",
+ "description": "リバース：自分の墓地から魔法カードを１枚選択する。選択したカードを自分の手札に加える。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 1,
+ "name": "聖なる魔術師",
+ "pronunciation": "セイントマジシャン",
+ "race": "魔法使い"
+}

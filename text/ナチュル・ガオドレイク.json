@@ -1,1 +1,18 @@
-{"attack":"3000","attribute":"地","defence":"1800","description":"地属性チューナー＋チューナー以外の地属性モンスター１体以上","kinds":[{"kind":"通常"},{"kind":"シンクロ"}],"level":9,"name":"ナチュル・ガオドレイク","pronunciation":"ナチュル・ガオドレイク","race":"獣"}
+{
+ "attack": "ATK 3000",
+ "attribute": "地",
+ "defence": "DEF 1800",
+ "description": "地属性チューナー＋チューナー以外の地属性モンスター１体以上",
+ "kinds": [
+  {
+   "kind": "通常"
+  },
+  {
+   "kind": "シンクロ"
+  }
+ ],
+ "level": 9,
+ "name": "ナチュル・ガオドレイク",
+ "pronunciation": "ナチュル・ガオドレイク",
+ "race": "獣"
+}

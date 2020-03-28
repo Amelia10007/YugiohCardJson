@@ -1,1 +1,15 @@
-{"attack":"300","attribute":"光","defence":"100","description":"何を考えているのかさっぱりわからない天使のはみだし者。たまに怒ると怖い。","kinds":[{"kind":"通常"}],"level":1,"name":"もけもけ","pronunciation":"モケモケ","race":"天使"}
+{
+ "attack": "ATK 300",
+ "attribute": "光",
+ "defence": "DEF 100",
+ "description": "何を考えているのかさっぱりわからない天使のはみだし者。たまに怒ると怖い。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 1,
+ "name": "もけもけ",
+ "pronunciation": "モケモケ",
+ "race": "天使"
+}

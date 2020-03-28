@@ -1,1 +1,15 @@
-{"attack":"500","attribute":"地","defence":"400","description":"このカードは通常召喚できない。「進化の繭」を装備して（自分ターンを数えて）２ターン後の「プチモス」を生け贄に捧げる事で特殊召喚する。","kinds":[{"kind":"効果"}],"level":2,"name":"ラーバモス","pronunciation":"ラーバモス","race":"昆虫"}
+{
+ "attack": "ATK 500",
+ "attribute": "地",
+ "defence": "DEF 400",
+ "description": "このカードは通常召喚できない。「進化の繭」を装備して（自分ターンを数えて）２ターン後の「プチモス」を生け贄に捧げる事で特殊召喚する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 2,
+ "name": "ラーバモス",
+ "pronunciation": "ラーバモス",
+ "race": "昆虫"
+}

@@ -1,1 +1,15 @@
-{"attack":"2150","attribute":"闇","defence":"1950","description":"黒魔術で蘇ったウシの悪魔。壺の中から現れる。","kinds":[{"kind":"通常"}],"level":6,"name":"牛鬼","pronunciation":"ウシオニ","race":"悪魔"}
+{
+ "attack": "ATK 2150",
+ "attribute": "闇",
+ "defence": "DEF 1950",
+ "description": "黒魔術で蘇ったウシの悪魔。壺の中から現れる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 6,
+ "name": "牛鬼",
+ "pronunciation": "ウシオニ",
+ "race": "悪魔"
+}

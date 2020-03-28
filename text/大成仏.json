@@ -1,1 +1,10 @@
-{"description":"装備カードが装備されているモンスターを全て破壊する。","kinds":[{"kind":"通常罠"}],"name":"大成仏","pronunciation":"ダイジョウブツ"}
+{
+ "description": "装備カードが装備されているモンスターを全て破壊する。",
+ "kinds": [
+  {
+   "kind": "通常罠"
+  }
+ ],
+ "name": "大成仏",
+ "pronunciation": "ダイジョウブツ"
+}

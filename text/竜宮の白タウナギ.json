@@ -1,1 +1,18 @@
-{"attack":"1700","attribute":"水","defence":"1200","description":"このカードをシンクロ素材とする場合、他のシンクロ素材モンスターは全て魚族モンスターでなければならない。","kinds":[{"kind":"効果"},{"kind":"チューナー"}],"level":4,"name":"竜宮の白タウナギ","pronunciation":"リュウグウノシロタウナギ","race":"魚"}
+{
+ "attack": "ATK 1700",
+ "attribute": "水",
+ "defence": "DEF 1200",
+ "description": "このカードをシンクロ素材とする場合、他のシンクロ素材モンスターは全て魚族モンスターでなければならない。",
+ "kinds": [
+  {
+   "kind": "効果"
+  },
+  {
+   "kind": "チューナー"
+  }
+ ],
+ "level": 4,
+ "name": "竜宮の白タウナギ",
+ "pronunciation": "リュウグウノシロタウナギ",
+ "race": "魚"
+}
