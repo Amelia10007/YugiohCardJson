@@ -1,1 +1,15 @@
-{"attack":"800","attribute":"光","defence":"800","description":"自分フィールド上にレベル８のモンスターが存在する場合、このカードはリリースなしで召喚できる。","kinds":[{"kind":"効果"}],"level":8,"name":"星間竜パーセク","pronunciation":"セイカンリュウパーセク","race":"ドラゴン"}
+{
+ "attack": "ATK 800",
+ "attribute": "光",
+ "defence": "DEF 800",
+ "description": "自分フィールド上にレベル８のモンスターが存在する場合、このカードはリリースなしで召喚できる。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 8,
+ "name": "星間竜パーセク",
+ "pronunciation": "セイカンリュウパーセク",
+ "race": "ドラゴン"
+}
