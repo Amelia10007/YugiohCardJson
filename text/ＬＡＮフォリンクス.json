@@ -4,6 +4,9 @@
  "description": "モンスター２体",
  "kinds": [
   {
+   "kind": "通常"
+  },
+  {
    "kind": "リンク"
   }
  ],
