@@ -1,0 +1,18 @@
+{
+ "attack": "ATK 0",
+ "attribute": "闇",
+ "defence": "DEF 2100",
+ "description": "通常モンスター×２",
+ "kinds": [
+  {
+   "kind": "チューナー"
+  },
+  {
+   "kind": "融合"
+  }
+ ],
+ "level": 2,
+ "name": "無の畢竟 オールヴェイン",
+ "pronunciation": "ムノヒッキョウオールヴェイン",
+ "race": "天使"
+}

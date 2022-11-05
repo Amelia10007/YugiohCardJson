@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 0",
+ "attribute": "風",
+ "defence": "DEF 0",
+ "description": "ぼくたちが壊れちゃうようなケガをしてもだいじょうぶ。デメット爺さんが直してくれるんだ！",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "ドール・モンスター 熊っち",
+ "pronunciation": "ドールモンスタークマッチ",
+ "race": "獣"
+}

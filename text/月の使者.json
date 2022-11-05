@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 1100",
+ "attribute": "光",
+ "defence": "DEF 1000",
+ "description": "月の女神に仕える戦士。三日月のような矛で攻撃！",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "月の使者",
+ "pronunciation": "ツキノシシャ",
+ "race": "戦士"
+}

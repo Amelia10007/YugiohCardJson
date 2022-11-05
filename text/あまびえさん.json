@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 0",
+ "attribute": "水",
+ "defence": "DEF 0",
+ "description": "(1)：自分メインフェイズ１開始時に、手札のこのカードを相手に見せて発動できる。お互いのプレイヤーは３００ＬＰ回復する。",
+ "kinds": [
+  {
+   "kind": "効果"
+  }
+ ],
+ "level": 3,
+ "name": "あまびえさん",
+ "pronunciation": "アマビエサン",
+ "race": "天使"
+}
