@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 1300",
+ "attribute": "水",
+ "defence": "DEF 1200",
+ "description": "ずるがしこいヘビ。太くて長い身体で締め付ける攻撃に注意！",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 4,
+ "name": "グラップラー",
+ "pronunciation": "グラップラー",
+ "race": "爬虫類"
+}

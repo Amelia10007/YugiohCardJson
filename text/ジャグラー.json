@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 600",
+ "attribute": "光",
+ "defence": "DEF 900",
+ "description": "手品のような魔法で敵を倒す。ハトを出して攻撃もする。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ジャグラー",
+ "pronunciation": "ジャグラー",
+ "race": "魔法使い"
+}

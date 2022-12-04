@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 600",
+ "attribute": "闇",
+ "defence": "DEF 1000",
+ "description": "光の反射を巧みに操り、自分の姿を隠すことができる。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 3,
+ "name": "ダーク・プリズナー",
+ "pronunciation": "ダーク・プリズナー",
+ "race": "悪魔"
+}

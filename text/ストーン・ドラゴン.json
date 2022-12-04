@@ -1,0 +1,15 @@
+{
+ "attack": "ATK 2000",
+ "attribute": "地",
+ "defence": "DEF 2300",
+ "description": "全身が岩でできているドラゴン。岩石の攻撃は強力だ。",
+ "kinds": [
+  {
+   "kind": "通常"
+  }
+ ],
+ "level": 7,
+ "name": "ストーン・ドラゴン",
+ "pronunciation": "ストーン・ドラゴン",
+ "race": "岩石"
+}
