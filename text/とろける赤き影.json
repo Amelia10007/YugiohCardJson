@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "水",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "体を溶かして足もとの影にもぐり、敵の真下から攻撃する。",
  "kinds": [
   {

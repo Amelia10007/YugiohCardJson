@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "水",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "サカナの頭、タコの足。とっても不思議な生き物。ヤリで攻撃する。",
  "kinds": [
   {

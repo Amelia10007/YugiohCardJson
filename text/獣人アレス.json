@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードがフィールド上に表側表示で存在する限り、チェーンが発生する度にこのカードの攻撃力は５００ポイントアップする。",
  "kinds": [
   {

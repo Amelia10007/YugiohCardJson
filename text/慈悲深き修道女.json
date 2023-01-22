@@ -1,7 +1,7 @@
 {
- "attack": "ATK 850",
+ "attack": "850",
  "attribute": "光",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "表側表示のこのカードを生け贄に捧げる。このターン戦闘によって破壊され自分の墓地に送られたモンスター１体を手札に戻す。",
  "kinds": [
   {

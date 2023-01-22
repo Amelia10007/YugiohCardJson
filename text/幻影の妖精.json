@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "光",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "このカードが相手モンスターから攻撃を受けた場合、他の自分のモンスター１体が攻撃を受けた事にし、ダメージ計算を行う。",
  "kinds": [
   {

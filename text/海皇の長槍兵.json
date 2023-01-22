@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "海底を支配していると言われる、海皇に仕える長槍兵。深く暗い海の底から襲いかかる長槍の連続攻撃は、深海魚たちに恐れられている。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "相手フィールド上にエクシーズモンスターが存在する場合、このカードは手札から表側攻撃表示で特殊召喚できる。",
  "kinds": [
   {

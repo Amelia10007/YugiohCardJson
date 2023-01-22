@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "闇",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "手札から闇属性モンスター１体を墓地に送る事で、このカードの攻撃力は４００ポイントアップする。",
  "kinds": [
   {

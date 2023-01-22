@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "光",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "このカードが召喚に成功した時、自分のデッキから「セイクリッド」と名のついたモンスター１体を手札に加える事ができる。",
  "kinds": [
   {

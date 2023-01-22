@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "リバース：表側表示でフィールド上に存在するモンスター１体を裏側守備表示にする。「砂バク｣は選択できない。",
  "kinds": [
   {

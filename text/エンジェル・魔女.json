@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "天使になる運命を背負っていたが、あこがれの魔女になった天使。",
  "kinds": [
   {

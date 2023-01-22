@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "水",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。",
  "kinds": [
   {

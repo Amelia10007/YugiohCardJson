@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "手にする笛の音を聞いた者は、カが抜けてしまうと言われている。",
  "kinds": [
   {

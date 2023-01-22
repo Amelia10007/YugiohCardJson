@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "地",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "謎の生命体、エーリアンの上級戦士。比較的高い攻撃力を持つが、反面特殊な能力は身に付けていない。",
  "kinds": [
   {

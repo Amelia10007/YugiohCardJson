@@ -1,7 +1,7 @@
 {
- "attack": "ATK 650",
+ "attack": "650",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "本の姿をした魔法使い。ありとあらゆる魔法が書かれている。",
  "kinds": [
   {

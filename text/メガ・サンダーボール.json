@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "風",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "地面を転がり回り、周囲に電撃を放つボール。",
  "kinds": [
   {

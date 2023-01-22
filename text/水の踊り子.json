@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "かめから次々とあふれでる水を、竜に変えて攻撃してくる。",
  "kinds": [
   {

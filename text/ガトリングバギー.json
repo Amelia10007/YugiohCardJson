@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "重機関銃装備の装甲車。どんな荒れ地も平気で走る事ができる。",
  "kinds": [
   {

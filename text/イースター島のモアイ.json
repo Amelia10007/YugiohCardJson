@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "イースター島に存在する石像。口から丸いレーザーをはく。",
  "kinds": [
   {

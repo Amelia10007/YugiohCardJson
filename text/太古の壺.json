@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "とても壊れやすい大昔の壺。中に何かが潜んでいるらしい。",
  "kinds": [
   {

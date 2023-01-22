@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "光",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードがフィールド上に表側表示で存在する限り、墓地へ送られるカードは墓地へは行かずゲームから除外される。",
  "kinds": [
   {

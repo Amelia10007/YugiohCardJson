@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "闇",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "海をさまようアンデットのサメ。出会った者に死の呪いをかける。",
  "kinds": [
   {

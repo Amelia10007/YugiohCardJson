@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1250",
+ "attack": "1250",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "凶暴なクワガタ。相手の首をギロチンカッターで狙う。",
  "kinds": [
   {

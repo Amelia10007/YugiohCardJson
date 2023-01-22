@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "かたい体で守ることが得意。半端な攻撃は、はじき返す。",
  "kinds": [
   {

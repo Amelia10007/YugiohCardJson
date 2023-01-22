@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "光",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "このカード１枚を対象にするモンスターの効果を無効にする。",
  "kinds": [
   {

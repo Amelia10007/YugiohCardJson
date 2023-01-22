@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "風",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "雷をからだの中に蓄電させている。泣かせたときは危険。",
  "kinds": [
   {

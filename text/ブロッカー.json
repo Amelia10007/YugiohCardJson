@@ -1,7 +1,7 @@
 {
- "attack": "ATK 850",
+ "attack": "850",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "体のパーツがそれぞれ武器になっており、分裂して襲ってくる。",
  "kinds": [
   {

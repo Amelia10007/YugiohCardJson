@@ -1,7 +1,7 @@
 {
- "attack": "ATK 450",
+ "attack": "450",
  "attribute": "闇",
- "defence": "DEF 2050",
+ "defence": "2050",
  "description": "このカードと戦闘を行った効果モンスターの効果をダメージ計算後に無効化する。",
  "kinds": [
   {

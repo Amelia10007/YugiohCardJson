@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "スパイクのついた大きな鉄球を振り回し襲いかかってくる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "暗闇の奥深くに生息するドラゴン。目はあまり良くない。",
  "kinds": [
   {

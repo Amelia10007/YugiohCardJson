@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "光",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "このカードが召喚に成功した時、自分の手札・墓地から「ガンバランサー」１体を選んで表側守備表示で特殊召喚できる。",
  "kinds": [
   {

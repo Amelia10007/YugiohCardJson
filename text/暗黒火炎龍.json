@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "闇",
- "defence": "DEF 1250",
+ "defence": "1250",
  "description": "「火炎草」＋「プチリュウ」",
  "kinds": [
   {

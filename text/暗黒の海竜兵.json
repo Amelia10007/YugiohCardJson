@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "水",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "暗黒海の世界を守る戦士。水中はもちろん、陸上でも高い戦闘能力を誇る。",
  "kinds": [
   {

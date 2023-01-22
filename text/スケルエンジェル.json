@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "光",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "リバース：自分のデッキからカードを１枚ドローする。",
  "kinds": [
   {

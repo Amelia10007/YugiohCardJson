@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "闇",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが相手ライフに戦闘ダメージを与えた時、自分の手札からカードを１枚選択して墓地に捨てる事ができる。",
  "kinds": [
   {

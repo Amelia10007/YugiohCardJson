@@ -1,7 +1,7 @@
 {
- "attack": "ATK 200",
+ "attack": "200",
  "attribute": "地",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "このカードを生け贄にして生け贄召喚に成功した時、このカードを手札に戻す。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "光",
- "defence": "DEF 1650",
+ "defence": "1650",
  "description": "光属性モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。",
  "kinds": [
   {

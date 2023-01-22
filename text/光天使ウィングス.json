@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "光",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "このカードが召喚に成功した時、手札から「光天使」と名のついたモンスター１体を特殊召喚できる。",
  "kinds": [
   {

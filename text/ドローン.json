@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "ドロローンと分身して、挟み撃ち攻撃をしかけてくる。油断するな！",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2600",
+ "attack": "2600",
  "attribute": "水",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "自分フィールド上に存在する「海」を墓地に送る事で、このカード以外のフィールド上のカードを全て破壊する。",
  "kinds": [
   {

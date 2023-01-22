@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "地",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "剣状の尾を持つ変わった戦士。両手と尾で３連攻撃をする。",
  "kinds": [
   {

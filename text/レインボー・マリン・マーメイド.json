@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1550",
+ "attack": "1550",
  "attribute": "水",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "空に大きな虹の橋がかかると現れる、珍しいマーメイド。",
  "kinds": [
   {

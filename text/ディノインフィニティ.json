@@ -1,7 +1,7 @@
 {
- "attack": "ATK ?",
+ "attack": "?",
  "attribute": "地",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードの元々の攻撃力は、ゲームから除外された自分が持ち主の恐竜族モンスターの数×１０００ポイントの数値になる。",
  "kinds": [
   {

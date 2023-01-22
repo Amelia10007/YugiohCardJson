@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1650",
+ "attack": "1650",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "体を丸めると、サイコロのような形になるアルマジロ。",
  "kinds": [
   {

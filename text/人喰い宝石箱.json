@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "闇",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "宝石箱の形をしたモンスター。冒険者をだまして襲いかかる。",
  "kinds": [
   {

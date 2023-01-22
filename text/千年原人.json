@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2750",
+ "attack": "2750",
  "attribute": "地",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "どんな時でも力で押し通す、千年アイテムを持つ原始人。",
  "kinds": [
   {

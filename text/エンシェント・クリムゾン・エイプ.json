@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2600",
+ "attack": "2600",
  "attribute": "光",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "自分フィールド上に存在するモンスターが破壊され墓地へ送られた時、自分は１０００ライフポイント回復する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "風",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "(1)：相手ターンに墓地のこのカードを除外して発動できる。このターン、相手モンスターの攻撃を１度だけ無効にする。",
  "kinds": [
   {

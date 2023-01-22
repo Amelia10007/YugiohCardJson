@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1250",
+ "attack": "1250",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "このカードの表示形式が攻撃表示から表側守備表示に変わった時、自分のデッキをシャッフルする。",
  "kinds": [
   {

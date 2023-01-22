@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "巨大カブトムシ。つの攻撃とかたい体の守りは強力。",
  "kinds": [
   {

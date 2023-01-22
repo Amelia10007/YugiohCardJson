@@ -1,7 +1,7 @@
 {
- "attack": "ATK 200",
+ "attack": "200",
  "attribute": "水",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが召喚に成功した時、自分のデッキからレベル３以下の海竜族モンスター１体を特殊召喚する事ができる。",
  "kinds": [
   {

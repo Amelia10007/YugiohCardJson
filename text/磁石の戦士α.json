@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "α、β、γで変形合体する。",
  "kinds": [
   {

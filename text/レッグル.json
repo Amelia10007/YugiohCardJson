@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "地",
- "defence": "DEF 350",
+ "defence": "350",
  "description": "このカードは相手プレイヤーを直接攻撃する事ができる。",
  "kinds": [
   {

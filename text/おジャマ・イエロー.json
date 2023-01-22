@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "あらゆる手段を使ってジャマをすると言われているおジャマトリオの一員。三人揃うと何かが起こると言われている。",
  "kinds": [
   {

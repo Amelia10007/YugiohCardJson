@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "水",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "海を漂うクラゲ。半透明の身体で姿を確認しにくい。",
  "kinds": [
   {

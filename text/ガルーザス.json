@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "炎",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "竜の頭を持つ獣戦士。オノの攻撃はかなり強力。",
  "kinds": [
   {

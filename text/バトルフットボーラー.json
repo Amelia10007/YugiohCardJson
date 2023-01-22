@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "炎",
- "defence": "DEF 2100",
+ "defence": "2100",
  "description": "高い守備能力を誇るサイボーグ。元々はフットボールマシンとして開発されたという。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "闇",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "魔界言語の研究に全てを捧げているモーレツ悪魔。働きすぎで精神が崩壊している。",
  "kinds": [
   {

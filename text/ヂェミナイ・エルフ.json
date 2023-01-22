@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "交互に攻撃を仕掛けてくる、エルフの双子姉妹。",
  "kinds": [
   {

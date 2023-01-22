@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "地",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "機械族モンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。",
  "kinds": [
   {

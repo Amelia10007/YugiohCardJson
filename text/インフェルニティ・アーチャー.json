@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "闇",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "自分の手札が０枚の場合、このカードは相手プレイヤーに直接攻撃できる。",
  "kinds": [
   {

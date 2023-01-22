@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1750",
+ "attack": "1750",
  "attribute": "地",
- "defence": "DEF 2030",
+ "defence": "2030",
  "description": "全身にカタナのトゲがついた恐竜。突進攻撃をする。",
  "kinds": [
   {

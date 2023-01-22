@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "闇",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが特殊召喚に成功した時、相手の墓地に存在するカードを２枚までゲームから除外する事ができる。",
  "kinds": [
   {

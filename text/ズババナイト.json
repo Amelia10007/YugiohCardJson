@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "このカードが表側守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
  "kinds": [
   {

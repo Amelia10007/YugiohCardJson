@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "チョウのように舞いハチのように刺す、剣と盾を手にした女戦士。",
  "kinds": [
   {

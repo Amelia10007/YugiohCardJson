@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "光",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "このモンスターの属性を変更する事ができる。この効果は１ターンに１度だけ使用する事ができる。",
  "kinds": [
   {

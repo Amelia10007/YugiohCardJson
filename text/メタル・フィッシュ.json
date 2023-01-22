@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "水",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "金属の魚。鋭いカッターになっている尾ビレで相手を切り刻む。",
  "kinds": [
   {

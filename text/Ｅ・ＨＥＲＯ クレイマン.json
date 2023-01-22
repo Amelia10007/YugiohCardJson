@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "粘土でできた頑丈な体を持つＥ・ＨＥＲＯ。体をはって、仲間のＥ・ＨＥＲＯを守り抜く。",
  "kinds": [
   {

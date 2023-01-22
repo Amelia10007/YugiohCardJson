@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "水",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "(1)：このカードの戦闘で自分または相手が戦闘ダメージを受ける場合、代わりにその数値分だけＬＰを回復する。",
  "kinds": [
   {

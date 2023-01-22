@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "ドラゴンを操ると言われている闇魔界の戦士。邪悪なパワーで斬りかかる攻撃はすさまじい。",
  "kinds": [
   {

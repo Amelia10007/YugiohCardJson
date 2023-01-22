@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "闇",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "魔力により蘇ったドラゴン。はく息は触れるものを腐食させる。",
  "kinds": [
   {

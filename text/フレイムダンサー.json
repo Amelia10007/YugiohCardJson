@@ -1,7 +1,7 @@
 {
- "attack": "ATK 550",
+ "attack": "550",
  "attribute": "炎",
- "defence": "DEF 450",
+ "defence": "450",
  "description": "燃えたぎるロープを振り回し近づいてくる。目を合わせたら駄目だ。",
  "kinds": [
   {

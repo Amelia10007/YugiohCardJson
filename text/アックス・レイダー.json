@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "地",
- "defence": "DEF 1150",
+ "defence": "1150",
  "description": "オノを持つ戦士。片手でオノを振り回す攻撃はかなり強い。",
  "kinds": [
   {

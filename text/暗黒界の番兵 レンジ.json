@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "闇",
- "defence": "DEF 2100",
+ "defence": "2100",
  "description": "暗黒界随一の強靭な身体を誇り、「鉄壁レンジ」として暗黒界の人々から親しまれている。彼の守りを破れる者は少ない。",
  "kinds": [
   {

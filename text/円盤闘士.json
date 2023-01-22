@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが守備力２０００以上の守備表示モンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
  "kinds": [
   {

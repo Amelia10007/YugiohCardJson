@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "ありとあらゆる知識を駆使して、様々な攻撃を防ぐ。",
  "kinds": [
   {

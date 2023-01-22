@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "光",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "自分フィールド上にレベル８のモンスターが存在する場合、このカードはリリースなしで召喚できる。",
  "kinds": [
   {

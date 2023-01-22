@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "光",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "神話に出てくる闘いの天使。手にする槍で天罰を下す。",
  "kinds": [
   {

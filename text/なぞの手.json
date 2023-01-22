@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "空間をゆがませ、次元のはざまから腕をのばし攻撃をしかける。",
  "kinds": [
   {

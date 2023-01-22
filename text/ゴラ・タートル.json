@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "水",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "このカードが表側表示でフィールド上に存在する限り、攻撃力１９００以上のモンスターは攻撃宣言を行う事ができない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "神の使いと言い伝えられている伝説の竜。その怒りに触れた時、世界は海に沈むと言われている。",
  "kinds": [
   {

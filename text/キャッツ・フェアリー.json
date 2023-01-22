@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "ネコの妖精。愛らしい姿とはうらはらに、素早く敵をひっかく。",
  "kinds": [
   {

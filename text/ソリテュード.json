@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1050",
+ "attack": "1050",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "下半身がシカで、魂を吸うという大カマを持った獣戦士。",
  "kinds": [
   {

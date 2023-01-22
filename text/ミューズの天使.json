@@ -1,7 +1,7 @@
 {
- "attack": "ATK 850",
+ "attack": "850",
  "attribute": "光",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "芸術家の天使。特にハープの演奏は、右に出る者はいない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "光",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする事ができる。",
  "kinds": [
   {

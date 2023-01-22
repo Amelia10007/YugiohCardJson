@@ -1,7 +1,7 @@
 {
- "attack": "ATK 250",
+ "attack": "250",
  "attribute": "闇",
- "defence": "DEF 350",
+ "defence": "350",
  "description": "１０００ライフポイントを払う。自分の墓地から「融合」魔法カード１枚を手札に戻す。",
  "kinds": [
   {

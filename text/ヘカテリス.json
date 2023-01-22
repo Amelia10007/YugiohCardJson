@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "光",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "このカードを手札から墓地に捨てる。デッキから「神の居城－ヴァルハラ」１枚を手札に加える。",
  "kinds": [
   {

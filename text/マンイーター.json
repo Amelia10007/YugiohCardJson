@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "人喰い人面花。毒のある触手で攻撃してくる。",
  "kinds": [
   {

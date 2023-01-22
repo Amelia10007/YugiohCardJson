@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "鬼の魂が乗り移った戦車。意思を持ち敵をどこまでも追いつめる。",
  "kinds": [
   {

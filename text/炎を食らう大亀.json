@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "真っ赤な甲羅が特徴のカメ。炎を食べると言われている。",
  "kinds": [
   {

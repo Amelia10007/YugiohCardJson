@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "沼地に住む悪魔の手先。見た目ほど強くないが油断は禁物。",
  "kinds": [
   {

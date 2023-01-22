@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "風",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "風を操り空を舞う翼をもったＥ・ＨＥＲＯ。天空からの一撃、フェザーブレイクで悪を裁く。",
  "kinds": [
   {

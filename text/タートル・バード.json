@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "水",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "主に水中に生息しているが、空を飛ぶこともできる珍しいカメ。",
  "kinds": [
   {

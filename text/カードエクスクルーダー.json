@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "相手の墓地に存在するカード１枚を選択しゲームから除外する。この効果は１ターンに１度しか使用できない。",
  "kinds": [
   {

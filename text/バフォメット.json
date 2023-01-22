@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "このカードが召喚（反転召喚）に成功した時、「幻獣王ガゼル」をデッキから１枚手札に加える事ができる。",
  "kinds": [
   {

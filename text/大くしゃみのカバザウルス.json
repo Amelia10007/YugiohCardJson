@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "水",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "巨大な体を持つカバの化け物。その巨体から繰り出されるくしゃみは、ハリケーンに匹敵する。",
  "kinds": [
   {

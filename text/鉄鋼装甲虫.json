@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2800",
+ "attack": "2800",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "全身が分厚い装甲で覆われている巨大な昆虫型生物。行く手を妨げるものは容赦なく破壊する。",
  "kinds": [
   {

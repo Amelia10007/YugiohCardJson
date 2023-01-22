@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "地",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "闇の中を音もたてず相手に忍び寄る、暗殺専門の戦士。",
  "kinds": [
   {

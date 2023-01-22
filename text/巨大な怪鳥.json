@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "風",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "あまり見かけないとても大きな鳥。空から急降下して襲いかかる。",
  "kinds": [
   {

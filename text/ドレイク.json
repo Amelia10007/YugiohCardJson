@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "風",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "しっぽが長い鳥。そのしっぽで空中から攻撃する。",
  "kinds": [
   {

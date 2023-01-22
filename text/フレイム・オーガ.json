@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "炎",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "このカードは特殊召喚できない。このカードの召喚に成功した時、自分のデッキからカードを１枚ドローする。",
  "kinds": [
   {

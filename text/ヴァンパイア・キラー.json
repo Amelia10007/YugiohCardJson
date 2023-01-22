@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "闇",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "このカードが闇属性モンスターと戦闘を行う場合、ダメージ計算を行わずそのモンスターを破壊する。",
  "kinds": [
   {

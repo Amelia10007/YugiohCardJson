@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1850",
+ "attack": "1850",
  "attribute": "炎",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "全身が灼熱の炎に包まれた巨木の化身。炎の攻撃は強力だが、自身が燃えているため先は長くない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "水",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "このカードが召喚に成功した時、手札からレベル４モンスター１体を特殊召喚できる。",
  "kinds": [
   {

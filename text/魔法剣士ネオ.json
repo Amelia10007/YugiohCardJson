@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "武術と剣に優れた風変わりな魔法使い。異空間を旅している。",
  "kinds": [
   {

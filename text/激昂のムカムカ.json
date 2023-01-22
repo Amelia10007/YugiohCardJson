@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "自分の手札１枚につき、このカードの攻撃力・守備力はそれぞれ４００ポイントアップする。",
  "kinds": [
   {

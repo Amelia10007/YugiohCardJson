@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2500",
+ "attack": "2500",
  "attribute": "風",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードは相手モンスターに攻撃する場合、ダメージステップの間、攻撃力が３００ポイントアップする。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2100",
+ "attack": "2100",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "フィールド上にエクシーズモンスターが存在する場合、このカードは手札から表側守備表示で特殊召喚できる。",
  "kinds": [
   {

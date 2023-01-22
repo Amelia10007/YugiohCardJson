@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "風",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "リバース：カード名に「ガーディアン」の文字が入っているカードを自分のデッキから１枚手札に加える。",
  "kinds": [
   {

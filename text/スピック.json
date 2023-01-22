@@ -1,7 +1,7 @@
 {
- "attack": "ATK 650",
+ "attack": "650",
  "attribute": "風",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "くちばしがとても大きく、大声で鳴き気の弱い相手を驚かせる。",
  "kinds": [
   {

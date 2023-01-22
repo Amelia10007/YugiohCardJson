@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2600",
+ "attack": "2600",
  "attribute": "地",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "レベル４モンスター×２",
  "kinds": [
   {

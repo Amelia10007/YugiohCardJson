@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "水",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "(1)：このカードがリバースした場合、相手フィールドのモンスター１体を対象として発動する。そのモンスターを破壊する。",
  "kinds": [
   {

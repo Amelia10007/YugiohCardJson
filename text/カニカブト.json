@@ -1,7 +1,7 @@
 {
- "attack": "ATK 650",
+ "attack": "650",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "カニのモンスター。両手の大きなハサミで相手を切り刻む。",
  "kinds": [
   {

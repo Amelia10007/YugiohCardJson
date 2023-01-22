@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "物陰からこっそりと協力してくれる、かわいらしい小人。",
  "kinds": [
   {

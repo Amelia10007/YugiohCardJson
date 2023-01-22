@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "風",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "このカードは１ターンに２度まで、戦闘では破壊されない。",
  "kinds": [
   {

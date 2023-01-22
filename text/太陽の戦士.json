@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2100",
+ "attack": "2100",
  "attribute": "光",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "闇属性モンスターと戦闘を行う場合、ダメージステップの間このカードの攻撃力は５００ポイントアップする。",
  "kinds": [
   {

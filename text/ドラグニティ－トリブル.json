@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "風",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "このカードが召喚・特殊召喚に成功した時、自分のデッキからレベル３以下のドラゴン族モンスター１体を墓地へ送る事ができる。",
  "kinds": [
   {

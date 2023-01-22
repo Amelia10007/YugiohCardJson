@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2550",
+ "attack": "2550",
  "attribute": "水",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "「亀の誓い」により降臨。フィールドか手札から、レベルが８以上になるようカードを生け贄に捧げなければならない。",
  "kinds": [
   {

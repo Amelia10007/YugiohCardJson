@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "自分が岩石族モンスターの召喚に成功した時、このカードを手札から特殊召喚できる。",
  "kinds": [
   {

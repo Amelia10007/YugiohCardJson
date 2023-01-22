@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "風",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "本の精霊。とても高い知恵を持ち、多彩な攻撃をしかけてくる。",
  "kinds": [
   {

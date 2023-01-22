@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "闇",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "リバース：フィールド上に表側表示で存在する魔力カウンターを置く事ができるカード全てに魔力カウンターを１つ置く。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "闇",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "「ホーリー・エルフ」＋「黒魔族のカーテン」",
  "kinds": [
   {

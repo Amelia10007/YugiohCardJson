@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 450",
+ "defence": "450",
  "description": "全身がメタルの装甲で覆われている戦士。｢レアメタル・レディ」と融合し、パワーアップする。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "透き通った水晶の塊。光を集めてレーザーを放つ。",
  "kinds": [
   {

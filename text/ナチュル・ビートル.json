@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "魔法カードが発動される度に、このカードの元々の攻撃力・守備力を入れ替える。",
  "kinds": [
   {

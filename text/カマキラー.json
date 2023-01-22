@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1150",
+ "attack": "1150",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "二本のカマで相手に襲いかかる、人型のカマキリモンスター。",
  "kinds": [
   {

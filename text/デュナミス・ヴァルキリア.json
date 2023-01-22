@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "光",
- "defence": "DEF 1050",
+ "defence": "1050",
  "description": "勇敢なる光の天使。その強い正義感ゆえ、負けるとわかっている悪との戦いでも決して逃げない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "暗黒界でその名を知らぬ者はいない、誇り高き騎士。決して弱き者に手を下す事はない。",
  "kinds": [
   {

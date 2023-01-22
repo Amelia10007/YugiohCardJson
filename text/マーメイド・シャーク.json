@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "水",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "このカードが召喚に成功した時、デッキからレベル３～５の魚族モンスター１体を手札に加える事ができる。",
  "kinds": [
   {

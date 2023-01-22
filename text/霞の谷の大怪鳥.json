@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "風",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "このカードが手札から墓地に送られた時、このカードをデッキに加えてシャッフルする。",
  "kinds": [
   {

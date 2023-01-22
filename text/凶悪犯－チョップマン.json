@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードが反転召喚に成功した時、自分の墓地の装備魔法カード１枚をこのカードに装備する事ができる。",
  "kinds": [
   {

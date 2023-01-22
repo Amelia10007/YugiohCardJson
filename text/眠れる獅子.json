@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "地",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "普段眠っている猛獣。目をさますと手がつけられない。",
  "kinds": [
   {

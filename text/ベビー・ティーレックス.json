@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "ティラノサウルスの子供。非常に凶暴な性格をしている。",
  "kinds": [
   {

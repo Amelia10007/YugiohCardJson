@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "風",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "メインフェイズ１で手札からカードを１枚捨てる。このカードはそのターンのバトルフェイズ中に２回攻撃をする事ができる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "地",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードを生け贄にして生け贄召喚を行った時、自分は２０００ライフポイント回復する。",
  "kinds": [
   {

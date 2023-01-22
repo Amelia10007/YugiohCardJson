@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "普段は貝殻の中に身を隠し、近づく者に矢を放つマーメイド。",
  "kinds": [
   {

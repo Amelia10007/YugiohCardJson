@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "闇",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "リバース：２０００ライフポイントを払えば、相手ライフに１０００ポイントダメージを与える事ができる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "風",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "口から砲弾を撃ちだし遠くを攻撃。山での砲撃は強い。",
  "kinds": [
   {

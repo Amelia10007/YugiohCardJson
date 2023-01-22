@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1650",
+ "attack": "1650",
  "attribute": "闇",
- "defence": "DEF 1250",
+ "defence": "1250",
  "description": "このカードをリリースして発動する。相手フイールド上に表側表示で存在するモンスター１体を選択して破壊する。",
  "kinds": [
   {

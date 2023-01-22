@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "風",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "罠カードが発動した時に発動する事ができる。フィールド上に表側表示で存在するこのカードを持ち主の手札に戻す。",
  "kinds": [
   {

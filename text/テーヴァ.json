@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "光",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "このカードの生け贄召喚に成功した時、次の相手ターン中相手は攻撃宣言を行えない。",
  "kinds": [
   {

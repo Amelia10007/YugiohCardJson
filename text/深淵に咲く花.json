@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "光の届かない深淵にひっそりと咲く、あまり見かけない花。",
  "kinds": [
   {

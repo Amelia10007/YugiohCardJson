@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "光",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "(1)：このカードがモンスターゾーンに存在する限り、お互いにメインフェイズ１の間は魔法カードを発動できない。",
  "kinds": [
   {

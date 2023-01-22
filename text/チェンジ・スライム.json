@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "水",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "形を自由に変え、様々なものに変身するスライム。",
  "kinds": [
   {

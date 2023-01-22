@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2050",
+ "attack": "2050",
  "attribute": "光",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "「ローの祈り」により降臨。\u000a場か手札から、星の数が合計７個以上になるようカードを生け贄に捧げなければならない。",
  "kinds": [
   {

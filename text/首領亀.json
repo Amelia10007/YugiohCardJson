@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "水",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードが召喚・反転召喚に成功した時、自分の手札から「首領亀」を任意の枚数特殊召喚する事ができる。",
  "kinds": [
   {

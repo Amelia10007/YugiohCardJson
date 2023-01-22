@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "水",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "フィールド上に表側表示で存在するこのカードが墓地へ送られた時、自分のデッキからカードを１枚ドローする事ができる。",
  "kinds": [
   {

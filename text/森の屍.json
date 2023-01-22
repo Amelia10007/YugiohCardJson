@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "闇",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "森のぬしが倒れたあと、悪しき者の手により蘇った屍。",
  "kinds": [
   {

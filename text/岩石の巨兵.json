@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "岩石の巨人兵。太い腕の攻撃は大地をゆるがす。",
  "kinds": [
   {

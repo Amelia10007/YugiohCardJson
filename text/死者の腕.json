@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "混沌の沼から腕をのばし、生ける者を中へと引きずり込む。",
  "kinds": [
   {

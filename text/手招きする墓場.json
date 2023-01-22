@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "死者にさらなる力をあたえ、生ける者を死へとさそう墓場。",
  "kinds": [
   {

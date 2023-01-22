@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "鮮やかな紅葉に囲まれて暮らす、緑樹の霊王のお妃。",
  "kinds": [
   {

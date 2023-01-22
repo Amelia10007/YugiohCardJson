@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "風",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "エメラルドを喰らうドラゴン。その美しい姿にひかれて命を落とす者は後を絶たない。",
  "kinds": [
   {

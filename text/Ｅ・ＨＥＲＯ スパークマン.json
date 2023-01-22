@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "光",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "様々な武器を使いこなす、光の戦士のＥ・ＨＥＲＯ。聖なる輝きスパークフラッシュが悪の退路を断つ。",
  "kinds": [
   {

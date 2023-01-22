@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "光",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "フィールド上の表側表示で存在するこのカードを戦闘で破壊したプレイヤーは、１０００ポイントダメージを受ける。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "光",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "頭からハートビームを出し敵を幸せにする、小さな天使。",
  "kinds": [
   {

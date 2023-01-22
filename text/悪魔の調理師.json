@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "闇",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが相手に戦闘ダメージを与えた時、相手はデッキからカードを２枚ドローする。",
  "kinds": [
   {

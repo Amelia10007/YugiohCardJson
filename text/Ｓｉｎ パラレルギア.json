@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "闇",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードをシンクロ素材とする場合、他のシンクロ素材モンスターは手札の「Ｓｉｎ」と名のついたモンスター１体でなければならない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "遥か東の国から来たと言われているサムライ。手にするカタナは良く切れる。",
  "kinds": [
   {

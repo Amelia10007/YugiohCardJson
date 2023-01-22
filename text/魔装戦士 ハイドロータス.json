@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "(1)：このカードがリバースした場合、相手フィールドの魔法・罠カード１枚を対象として発動する。そのカードを破壊する。",
  "kinds": [
   {

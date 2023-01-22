@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "ちっちゃな悪魔、ダストンズの白いヤツ。自身でも驚きの白さである事をホコリに思っているらしい。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "風",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "集団性の高い巨大カマキリの女王。狩りや移動など、カマキリの大群は全て女王の指令により行動する。",
  "kinds": [
   {

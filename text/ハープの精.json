@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "光",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "天界でハープをかなでる精霊。その音色はまわりの心をなごます。",
  "kinds": [
   {

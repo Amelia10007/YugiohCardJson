@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "炎",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードが相手プレイヤーに戦闘ダメージを与えた場合、自分の墓地の永続魔法カード１枚をデッキの一番上に戻す事ができる。",
  "kinds": [
   {

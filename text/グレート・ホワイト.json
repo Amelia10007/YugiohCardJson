@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "水",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "巨大な白いサメ。大きな口で噛みつかれたら逃げられない。",
  "kinds": [
   {

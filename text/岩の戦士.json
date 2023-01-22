@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "地",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "非常に重たい岩石の剣を振り回す、岩石の戦士。",
  "kinds": [
   {

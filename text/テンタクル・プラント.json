@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "水",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "近くに動く者がいると、青いつるを伸ばして攻撃してくる。",
  "kinds": [
   {

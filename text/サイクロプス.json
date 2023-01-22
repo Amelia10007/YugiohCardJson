@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "一つ目の巨人。太い腕で殴りかかってくる。要注意。",
  "kinds": [
   {

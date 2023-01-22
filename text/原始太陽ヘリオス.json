@@ -1,7 +1,7 @@
 {
- "attack": "ATK ?",
+ "attack": "?",
  "attribute": "光",
- "defence": "DEF ?",
+ "defence": "?",
  "description": "このカードの攻撃力と守備力は、ゲームから除外されているモンスターの数×１００ポイントになる。",
  "kinds": [
   {

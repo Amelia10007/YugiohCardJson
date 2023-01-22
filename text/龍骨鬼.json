@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "闇",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "このカードと戦闘を行ったモンスターが戦士族・魔法使い族の場合、ダメージステップ終了時にそのモンスターを破壊する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1650",
+ "attack": "1650",
  "attribute": "水",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "水中を優雅に泳ぐ魚の神様。怒らせると危険。",
  "kinds": [
   {

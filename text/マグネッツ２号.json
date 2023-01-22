@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "コンビプレーが得意な戦士。電磁コーティングされた鎧は頑丈。",
  "kinds": [
   {

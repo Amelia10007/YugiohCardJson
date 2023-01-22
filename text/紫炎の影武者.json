@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "シエンに仕える影武者。鋭い切れ味の名刀を持つ。",
  "kinds": [
   {

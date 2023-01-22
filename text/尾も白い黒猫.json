@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "リバース：相手フィールド上のモンスター２体と自分フィールド上モンスター１枚を持ち主の手札に戻す。",
  "kinds": [
   {

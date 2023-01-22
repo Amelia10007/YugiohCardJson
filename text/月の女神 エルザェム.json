@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "光",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "月を守護するきれいな女神。月あかりのカーテンで攻撃を防ぐ。",
  "kinds": [
   {

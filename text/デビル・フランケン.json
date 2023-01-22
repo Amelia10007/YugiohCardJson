@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "５０００ライフポイントを払う。自分の融合デッキから融合モンスター１体をフィールド上に攻撃表示で特殊召喚する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "炎",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "赤黒く燃える翼。全身から炎を吹き出し攻撃する。",
  "kinds": [
   {

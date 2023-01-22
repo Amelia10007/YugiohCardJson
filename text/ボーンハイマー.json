@@ -1,7 +1,7 @@
 {
- "attack": "ATK 850",
+ "attack": "850",
  "attribute": "水",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "海の中をさまよい、獲物を見つけたらあらゆる水分を吸い尽くす。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "意志をもつヤシの木。実を落として攻撃。実の中のミルクはおいしい。",
  "kinds": [
   {

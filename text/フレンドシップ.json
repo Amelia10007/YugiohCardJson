@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "光",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "デュエル中ケンカをしても、友情を伝え仲直りをさせる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "地",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "墓地に存在するこのカードをゲームから除外する事で、自分の墓地からアンデット族モンスター１体を特殊召喚する。",
  "kinds": [
   {

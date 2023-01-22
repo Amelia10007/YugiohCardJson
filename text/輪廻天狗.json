@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "風",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードがフィールド上から離れた時、デッキから「輪廻天狗」１体を特殊召喚する。",
  "kinds": [
   {

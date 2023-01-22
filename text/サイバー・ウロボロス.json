@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードがゲームから除外された時、手札のカード１枚を墓地に送る事で、デッキからカードを１枚ドローする。",
  "kinds": [
   {

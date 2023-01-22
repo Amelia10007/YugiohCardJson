@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "炎",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "魔法・罠カードがチェーンする場合、相手ライフに５００ポイントダメージを与える。",
  "kinds": [
   {

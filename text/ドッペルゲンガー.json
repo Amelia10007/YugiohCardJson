@@ -1,7 +1,7 @@
 {
- "attack": "ATK 650",
+ "attack": "650",
  "attribute": "闇",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "リバース：フィールド上にセットされている魔法または罠カードを必ず２枚選択し、それを破壊する。",
  "kinds": [
   {

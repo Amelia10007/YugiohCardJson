@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "「メデューサの亡霊」＋「ドラゴン・ゾンビ」",
  "kinds": [
   {

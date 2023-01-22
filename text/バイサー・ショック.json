@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードが召喚・反転召喚・特殊召喚に成功した時、フィールド上の全てのセットされたカードを持ち主の手札に戻す。",
  "kinds": [
   {

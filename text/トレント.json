@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "まだまだ成長し続けている森の大木。森の守り神。",
  "kinds": [
   {

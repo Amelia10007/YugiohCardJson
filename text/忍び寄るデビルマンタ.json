@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "水",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードが召喚に成功した時、罠カードを発動する事はできない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "水",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "リバース：フィールド上に存在するモンスターを２体まで持ち主の手札に戻す事ができる。",
  "kinds": [
   {

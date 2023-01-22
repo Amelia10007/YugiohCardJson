@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "水",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "世界中のグルメモンスター達に愛されている高級食材として有名。凶悪な味が刺激的という。",
  "kinds": [
   {

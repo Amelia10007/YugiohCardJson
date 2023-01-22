@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "闇",
- "defence": "DEF 2700",
+ "defence": "2700",
  "description": "相手ターンのスタンバイフェイズ時にこのカードが表側守備表示で存在する場合、相手プレイヤーはカードを１枚ドローする。",
  "kinds": [
   {

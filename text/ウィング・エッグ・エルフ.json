@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "光",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "たまごのカラに身を包む天使。大きな羽で攻撃を防ぐ。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "リバース：このターン相手プレイヤーは特殊召喚できない。",
  "kinds": [
   {

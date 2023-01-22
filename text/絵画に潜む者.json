@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "描いた者の呪いの込められた絵。この絵を所持した者は全て不幸に陥ると言われている。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2450",
+ "attack": "2450",
  "attribute": "闇",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "「チャクラの復活」により降臨。\u000a場か手札から、星の数が合計７個以上になるようカードを生け贄に捧げなければならない。",
  "kinds": [
   {

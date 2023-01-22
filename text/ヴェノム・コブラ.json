@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "堅いウロコに覆われた巨大なコブラ。大量の毒液を射出して攻撃するが、その巨大さ故毒液は大味である。",
  "kinds": [
   {

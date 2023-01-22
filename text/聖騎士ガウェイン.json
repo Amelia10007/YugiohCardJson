@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "光",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "自分フィールド上に光属性の通常モンスターが存在する場合、このカードは手札から表側守備表示で特殊召喚できる。",
  "kinds": [
   {

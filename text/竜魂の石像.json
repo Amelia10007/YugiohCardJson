@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "ドラゴンの魂を持つ石像の戦士。自慢の剣で、敵を切り裂く。",
  "kinds": [
   {

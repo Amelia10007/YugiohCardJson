@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "風",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "洞窟に潜む巨大なドラゴン。普段はおとなしいが、怒ると恐ろしい。財宝を守っていると伝えられている。",
  "kinds": [
   {

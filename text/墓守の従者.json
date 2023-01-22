@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードが相手に与える戦闘ダメージは、このカードの効果によるダメージとして扱われる。",
  "kinds": [
   {

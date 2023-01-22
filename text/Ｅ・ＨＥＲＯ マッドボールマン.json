@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "地",
- "defence": "DEF 3000",
+ "defence": "3000",
  "description": "「Ｅ・ＨＥＲＯバブルマン」＋「Ｅ・ＨＥＲＯクレイマン」\u000aこのモンスターは融合召喚でしか特殊召喚できない。",
  "kinds": [
   {

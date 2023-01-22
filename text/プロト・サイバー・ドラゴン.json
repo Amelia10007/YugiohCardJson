@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "光",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードはフィールド上に表側表示で存在する限り、カード名を「サイバー・ドラゴン」として扱う。",
  "kinds": [
   {

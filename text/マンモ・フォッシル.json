@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "地",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードが戦闘によって相手モンスターを破壊し墓地へ送った時、相手ライフに４００ポイントダメージを与える。",
  "kinds": [
   {

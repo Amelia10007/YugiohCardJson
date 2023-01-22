@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1750",
+ "attack": "1750",
  "attribute": "闇",
- "defence": "DEF 1050",
+ "defence": "1050",
  "description": "このカードをリリースして発動する。相手フィールド上に存在する魔法・罠カード１枚を選択して破壊する。",
  "kinds": [
   {

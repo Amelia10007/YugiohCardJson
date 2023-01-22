@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "風",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "音楽に合わせ天を舞うエルフ。体の羽は、鋭利な刃物。",
  "kinds": [
   {

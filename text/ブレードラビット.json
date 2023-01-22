@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "このカードの表示形式が攻撃表示から表側守備表示に変わった時、相手フィールド上のモンスター１体を破壊する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1150",
+ "attack": "1150",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "最新のバイオテクノロジーによって生み出された僧侶。数々の謎を秘めている。",
  "kinds": [
   {

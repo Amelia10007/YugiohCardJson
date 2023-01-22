@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "常に太い竹を一本持っており、性格は非常に凶暴である。",
  "kinds": [
   {

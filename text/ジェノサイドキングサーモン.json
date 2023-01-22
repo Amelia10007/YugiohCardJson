@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "水",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "暗黒海の主として恐れられている巨大なシャケ。その卵は暗黒界一の美味として知られている。",
  "kinds": [
   {

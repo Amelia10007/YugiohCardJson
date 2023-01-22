@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2800",
+ "attack": "2800",
  "attribute": "闇",
- "defence": "DEF 2300",
+ "defence": "2300",
  "description": "「ゼラの儀式」により降臨。\u000a場か手札から、星の数が合計８個以上になるようカードを生け贄に捧げなければならない。",
  "kinds": [
   {

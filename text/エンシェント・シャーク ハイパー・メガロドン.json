@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2900",
+ "attack": "2900",
  "attribute": "水",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "このカードが相手ライフに戦闘ダメージを与えた時、相手フィールド上のモンスター１体を選択して破壊できる。",
  "kinds": [
   {

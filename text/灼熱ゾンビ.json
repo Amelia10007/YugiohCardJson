@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "炎",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが墓地から特殊召喚した時、このカードのコントローラーはカードを１枚ドローする。",
  "kinds": [
   {

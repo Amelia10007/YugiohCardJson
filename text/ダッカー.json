@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "光",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "リバース：自分の墓地からレベル４のモンスターカード１枚を選択する。選択したカードを自分の手札に加える。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1450",
+ "attack": "1450",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "耳障りな音をガンガン響かせる。相手を行動不能にしてしまう。",
  "kinds": [
   {

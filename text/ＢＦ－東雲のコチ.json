@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "このカードは特殊召喚した場合、シンクロ素材にする事はできない。",
  "kinds": [
   {

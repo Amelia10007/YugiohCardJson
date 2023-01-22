@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "炎",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードが相手ライフに戦闘ダメージを与えた時、相手ライフに３００ポイントダメージを与える。",
  "kinds": [
   {

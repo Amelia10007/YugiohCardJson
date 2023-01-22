@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "このカードがレベル３以下の表側表示モンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
  "kinds": [
   {

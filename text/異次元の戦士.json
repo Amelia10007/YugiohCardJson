@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードがモンスターと戦闘を行った時、そのモンスターとこのカードをゲームから除外する。",
  "kinds": [
   {

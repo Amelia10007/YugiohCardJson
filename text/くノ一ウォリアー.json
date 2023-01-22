@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "風",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "フィールド上に表側表示で存在するこのカードのコントロールが移った時、コントローラーは手札をランダムに１枚捨てる。",
  "kinds": [
   {

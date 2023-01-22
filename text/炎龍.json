@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "炎",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードが相手ライフに戦闘ダメージを与える度に、このカードの攻撃力は２００ポイントアップする。",
  "kinds": [
   {

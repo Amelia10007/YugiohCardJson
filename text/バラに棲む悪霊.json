@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "「グレムリン」＋「スネーク・パーム」",
  "kinds": [
   {

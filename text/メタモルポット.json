@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "リバース：お互いの手札を全て捨てる。その後、お互いはそれぞれ自分のデッキからカードを５枚ドローする。",
  "kinds": [
   {

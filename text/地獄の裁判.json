@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "闇",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "敵を棺桶に閉じこめ、地獄の使いがグサリと判決を下す。",
  "kinds": [
   {

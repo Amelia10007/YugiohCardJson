@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "このカードと戦闘を行ったモンスターは、ダメージ計算後に守備表示になる。",
  "kinds": [
   {

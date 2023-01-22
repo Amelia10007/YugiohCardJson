@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "剣やマメを使って攻撃してくる植物戦士。意外と強いぞ。",
  "kinds": [
   {

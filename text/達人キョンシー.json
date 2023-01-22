@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1750",
+ "attack": "1750",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "強い相手を求めさまよっているキョンシー。かつてはあらゆる武術の達人として知られていたらしい。",
  "kinds": [
   {

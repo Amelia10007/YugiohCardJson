@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "光",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "【Ｐスケール：青７\/赤７】\u000a【モンスター情報】\u000a神の振り子により新たな力を会得した騎士。今こそ覚醒し、その力を解放せよ！",
  "kinds": [
   {

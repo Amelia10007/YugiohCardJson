@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "風",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "飛行能力を持ったカマキリ。昆虫が大好物。",
  "kinds": [
   {

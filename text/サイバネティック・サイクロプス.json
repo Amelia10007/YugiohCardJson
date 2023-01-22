@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "自分の手札が０枚である限り、このカードの攻撃力は１０００ポイントアップする。",
  "kinds": [
   {

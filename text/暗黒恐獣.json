@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2600",
+ "attack": "2600",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "相手フィールド上に守備表示モンスターしか存在しない場合、このカードは相手プレイヤーに直接攻撃できる。",
  "kinds": [
   {

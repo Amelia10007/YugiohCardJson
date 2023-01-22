@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "風",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "あまり強くなく、ブレス攻撃もやらない低級のドラゴン。",
  "kinds": [
   {

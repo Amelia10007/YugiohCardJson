@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "このカードが光属性モンスターと戦闘を行う場合、ダメージ計算を行わずそのモンスターを破壊する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "地",
- "defence": "DEF 3000",
+ "defence": "3000",
  "description": "フィールドに壁を出現させ、出口のない迷宮をつくる。",
  "kinds": [
   {

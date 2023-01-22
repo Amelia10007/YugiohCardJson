@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "闇",
- "defence": "DEF 2400",
+ "defence": "2400",
  "description": "「ギガテック・ウルフ」＋「キャノン・ソルジャー」",
  "kinds": [
   {

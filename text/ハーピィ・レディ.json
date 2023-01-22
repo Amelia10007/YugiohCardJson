@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "風",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "人に羽のはえたけもの。美しく華麗に舞い、鋭く攻撃する。",
  "kinds": [
   {

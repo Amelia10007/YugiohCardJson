@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "炎",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "このカードが墓地に送られた時、相手は１０００ライフポイント回復する。",
  "kinds": [
   {

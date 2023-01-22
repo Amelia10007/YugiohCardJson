@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "水",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "(1)：攻撃表示のこのカードが攻撃対象に選択された時に発動できる。\u000aこのカードを表側守備表示にし、その攻撃を無効にする。",
  "kinds": [
   {

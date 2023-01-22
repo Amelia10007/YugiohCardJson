@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "闇",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードが墓地に存在する限り、自分のスタンバイフェイズ毎に２００ライフポイント回復する。",
  "kinds": [
   {

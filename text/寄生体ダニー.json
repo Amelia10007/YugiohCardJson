@@ -1,7 +1,7 @@
 {
- "attack": "ATK ?",
+ "attack": "?",
  "attribute": "地",
- "defence": "DEF ?",
+ "defence": "?",
  "description": "このカードの攻撃力・守備力は、フィールド上のトークンの数×５００ポイントの数値になる。",
  "kinds": [
   {

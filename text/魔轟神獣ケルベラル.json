@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "光",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが手札から墓地へ捨てられた時、このカードを自分フィールド上に特殊召喚する。",
  "kinds": [
   {

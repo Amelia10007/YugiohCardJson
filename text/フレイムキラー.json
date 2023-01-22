@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "炎",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "炎の盾を使う剣士。その盾はどんな攻撃でも無効化してしまう。",
  "kinds": [
   {

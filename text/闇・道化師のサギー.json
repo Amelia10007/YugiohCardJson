@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "どこからともなく現れる道化師。不思議な動きで攻撃をかわす。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "地属性の通常モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。",
  "kinds": [
   {

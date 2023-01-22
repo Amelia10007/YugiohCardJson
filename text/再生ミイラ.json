@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "相手のカードの効果によって、このカードが手札から墓地へ送られた時、このカードを手札に戻す。",
  "kinds": [
   {

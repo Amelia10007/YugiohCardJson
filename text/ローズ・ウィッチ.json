@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "植物族モンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "闇",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "地獄の一撃で魂を奪おうとする死神。",
  "kinds": [
   {

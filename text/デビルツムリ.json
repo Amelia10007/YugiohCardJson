@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "闇の力で進化したカタツムリ。手や足があり、速く動ける。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "光",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "相手をキリキリと締め上げて、封印を施す力を持つ。",
  "kinds": [
   {

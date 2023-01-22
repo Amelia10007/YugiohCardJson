@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "水",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "１ターンに１度、自分のデッキから「リチュア」と名のついたモンスター１体を選択してデッキの一番上に置く事ができる。",
  "kinds": [
   {

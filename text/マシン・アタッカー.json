@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "特攻用に作り出した機械。突撃で敵をなぎ倒していく。",
  "kinds": [
   {

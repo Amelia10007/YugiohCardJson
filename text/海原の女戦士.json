@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "水",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "海の神に仕えるマーメイド。神聖な領域を守っている。",
  "kinds": [
   {

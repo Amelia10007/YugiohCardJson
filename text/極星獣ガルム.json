@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "このカードがレベル４以下のモンスターと戦闘を行ったダメージ計算後、そのモンスターを手札に戻す事ができる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "このカードがシンクロ召喚の素材として墓地へ送られた場合、相手のデッキの上からカードを２枚墓地へ送る。",
  "kinds": [
   {

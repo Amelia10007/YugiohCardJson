@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "光",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "リバース：フィールド上の魔法または罠カード１枚を破壊する。",
  "kinds": [
   {

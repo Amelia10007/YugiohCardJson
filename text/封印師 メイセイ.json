@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "闇",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "封印の呪符を使いこなす事ができる数少ない人物。その経歴は未だ謎に包まれている。",
  "kinds": [
   {

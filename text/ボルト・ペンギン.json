@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "水",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "両腕の電撃ムチで相手をマヒさせ、首を絞めて攻撃する。",
  "kinds": [
   {

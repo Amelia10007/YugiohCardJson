@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "光",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "このカードが戦闘によって墓地に送られた時、そのターンのバトルフェイズは終了する。",
  "kinds": [
   {

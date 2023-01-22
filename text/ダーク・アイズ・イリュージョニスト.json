@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "闇",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "リバース：このカードがフィールド上に存在している間、指定した対象モンスター１体は永続的に攻撃できなくなる。",
  "kinds": [
   {

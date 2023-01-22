@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "リバース：フィールド上のモンスター２体を破壊する。",
  "kinds": [
   {

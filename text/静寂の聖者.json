@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが戦闘によって相手モンスターを破壊した場合、相手プレイヤーは次のターン魔法カードを発動できない。",
  "kinds": [
   {

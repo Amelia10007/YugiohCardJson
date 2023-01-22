@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "地",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードが戦闘を行った場合、ダメージステップ終了時に相手プレイヤーはカード１枚をドローする。",
  "kinds": [
   {

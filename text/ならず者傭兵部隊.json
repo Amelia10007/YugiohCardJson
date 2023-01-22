@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードをリリースして発動する。フィールド上に存在するモンスター１体を破壊する。",
  "kinds": [
   {

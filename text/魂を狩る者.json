@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "剣で斬りつけられた者は、魂をぬかれてしまう。",
  "kinds": [
   {

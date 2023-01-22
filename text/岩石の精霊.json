@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1650",
+ "attack": "1650",
  "attribute": "地",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "はにわみたいだが岩石の精霊。攻撃・守備ともにかなり強い。",
  "kinds": [
   {

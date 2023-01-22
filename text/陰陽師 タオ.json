@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "陰と陽の力を浸食させ、歪んだ力を生み出す魔導士。",
  "kinds": [
   {

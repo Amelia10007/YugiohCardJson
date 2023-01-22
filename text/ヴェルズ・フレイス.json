@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1150",
+ "attack": "1150",
  "attribute": "闇",
- "defence": "DEF 1850",
+ "defence": "1850",
  "description": "リバース：相手フィールド上に表側表示で存在するカード１枚を選択して持ち主の手札に戻す。",
  "kinds": [
   {

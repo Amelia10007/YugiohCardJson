@@ -1,7 +1,7 @@
 {
- "attack": "ATK 200",
+ "attack": "200",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "自分のメインフェイズ時に発動する事ができる。手札から「マツボックル」１体を墓地へ送り、このカードを手札から特殊召喚する。",
  "kinds": [
   {

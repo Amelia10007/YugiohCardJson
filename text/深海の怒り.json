@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "水",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードの攻撃力・守備力は、自分の墓地の魚族・海竜族・水族モンスターの数×５００ポイントアップする。",
  "kinds": [
   {

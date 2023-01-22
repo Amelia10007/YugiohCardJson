@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "闇",
- "defence": "DEF 1950",
+ "defence": "1950",
  "description": "リバース：フィールド上の特殊召喚されたモンスター１体を選択して持ち主のデッキに戻す。",
  "kinds": [
   {

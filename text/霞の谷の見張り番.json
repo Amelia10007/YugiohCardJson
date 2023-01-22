@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "風",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "霞の谷を代々見張り続ける、見張り番一族の末裔。谷で起こる出来事は、どんな些細な事も見逃さない。",
  "kinds": [
   {

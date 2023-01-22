@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2600",
+ "attack": "2600",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "我、至高の玉座にて天地を統べる者なり・・・光あれ！",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "ラーバスがより進化したけもの。力がパワーアップしている。",
  "kinds": [
   {

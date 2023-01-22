@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "光",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードが直接攻撃によって相手ライフに戦闘ダメージを与えた時、相手の手札をランダムに１枚捨てる。",
  "kinds": [
   {

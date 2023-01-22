@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "好きな所へ行けるという時空リングから出てくる、一つ目の魔人。",
  "kinds": [
   {

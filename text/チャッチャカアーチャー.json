@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "風",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "１ターンに１度、フィールド上の魔法・罠カード１枚を選択して発動する。選択したカードを破壊する。",
  "kinds": [
   {

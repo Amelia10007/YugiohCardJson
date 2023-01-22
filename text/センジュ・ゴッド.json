@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが召喚・反転召喚された時、デッキから儀式モンスターカード１枚を選択して手札に加える事ができる。",
  "kinds": [
   {

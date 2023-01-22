@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "炎",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "炎につつまれた魔人。まわりの炎を自在に操り攻撃する。",
  "kinds": [
   {

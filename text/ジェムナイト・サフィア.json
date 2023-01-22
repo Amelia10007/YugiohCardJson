@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "地",
- "defence": "DEF 2100",
+ "defence": "2100",
  "description": "サファイアのパワーで水を自在に操り、敵からの攻撃をやさしく包み込んでしまう。その静かなる守りは仲間から信頼されているらしい。",
  "kinds": [
   {

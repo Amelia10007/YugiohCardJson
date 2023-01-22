@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "闇",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカード以外の自分フィールド上に表側表示で存在するこのカードと同じ属性のモンスターの攻撃力は５００ポイントアップする。",
  "kinds": [
   {

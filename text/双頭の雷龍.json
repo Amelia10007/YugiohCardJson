@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2800",
+ "attack": "2800",
  "attribute": "光",
- "defence": "DEF 2100",
+ "defence": "2100",
  "description": "「サンダー・ドラゴン」＋「サンダー・ドラゴン」",
  "kinds": [
   {

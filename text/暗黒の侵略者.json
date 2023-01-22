@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2900",
+ "attack": "2900",
  "attribute": "闇",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "このカードがフィールド上に表側表示で存在する限り、相手は速攻魔法カードを発動する事ができない。",
  "kinds": [
   {

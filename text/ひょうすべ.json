@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "カッパの親分。攻撃力は意外と高い。守備力は低め。",
  "kinds": [
   {

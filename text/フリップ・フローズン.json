@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "水",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "(1)：このカードが墓地へ送られた場合に発動できる。相手フィールドの攻撃表示モンスターを全て守備表示にする。",
  "kinds": [
   {

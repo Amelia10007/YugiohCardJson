@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "地",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "警備用として開発された機械の戦士。錆びない金属でできている。",
  "kinds": [
   {

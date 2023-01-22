@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが装備している装備カードを１枚墓地へ送る。相手プレイヤーに５００ポイントダメージを与える。",
  "kinds": [
   {

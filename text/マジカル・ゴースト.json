@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "闇",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "相手に魔法をかけて、恐怖と混乱におとしいれ攻撃する。",
  "kinds": [
   {

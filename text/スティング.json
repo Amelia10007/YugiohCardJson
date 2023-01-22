@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "炎",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "ものすごく熱い炎のかたまり。その体で体当たりしてくる。",
  "kinds": [
   {

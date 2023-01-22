@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2500",
+ "attack": "2500",
  "attribute": "風",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "メカで強化された翼竜。ドラゴンにやられ死にかけた所を、飼い主にサイボーグ化された。",
  "kinds": [
   {

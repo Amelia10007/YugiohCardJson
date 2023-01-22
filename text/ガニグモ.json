@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "地",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "はさみを持つクモ。相手を糸で動きを封じ、カニばさみでしとめる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "巨大な岩が積み重なってできている、岩石の巨人。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2950",
+ "attack": "2950",
  "attribute": "水",
- "defence": "DEF 2800",
+ "defence": "2800",
  "description": "レベル４モンスター×３",
  "kinds": [
   {

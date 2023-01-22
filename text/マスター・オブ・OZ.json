@@ -1,7 +1,7 @@
 {
- "attack": "ATK 4200",
+ "attack": "4200",
  "attribute": "地",
- "defence": "DEF 3700",
+ "defence": "3700",
  "description": "「ビッグ・コアラ」＋「デス・カンガルー」",
  "kinds": [
   {

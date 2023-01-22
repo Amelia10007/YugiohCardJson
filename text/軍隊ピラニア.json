@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "水",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "このカードが相手プレイヤーへの直接攻撃で与える戦闘ダメージは倍になる。",
  "kinds": [
   {

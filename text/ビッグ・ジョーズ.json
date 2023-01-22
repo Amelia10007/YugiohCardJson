@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "水",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "このカードは攻撃した場合、バトルフェイズ終了時にゲームから除外される。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "炎",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "火山に落ちて、炎を身にまとう能力を身につけた武士。",
  "kinds": [
   {

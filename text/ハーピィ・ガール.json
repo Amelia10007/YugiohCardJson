@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "風",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "美しく華麗に舞い、鋭く攻撃する事ができるようになりたいと願っているハーピィの女の子。",
  "kinds": [
   {

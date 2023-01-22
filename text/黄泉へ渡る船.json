@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "水",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "このカードが戦闘によって破壊され墓地に送られた時、このカードを破壊したモンスターを破壊する。",
  "kinds": [
   {

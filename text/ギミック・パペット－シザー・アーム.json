@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードが召喚に成功した時、デッキから「ギミック・パペット」と名のついたモンスター１体を墓地へ送る事ができる。",
  "kinds": [
   {

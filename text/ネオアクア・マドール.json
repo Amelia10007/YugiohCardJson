@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "水",
- "defence": "DEF 3000",
+ "defence": "3000",
  "description": "水を支配する魔法使いの真の姿。絶対に破る事のできないと言われる巨大な氷の壁をつくり攻撃を防ぐ。",
  "kinds": [
   {

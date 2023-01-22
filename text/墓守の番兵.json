@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "闇",
- "defence": "DEF 1900",
+ "defence": "1900",
  "description": "リバース：フィールド上の相手モンスター１体を持ち主の手札に戻す。",
  "kinds": [
   {

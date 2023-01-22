@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 2200",
+ "defence": "2200",
  "description": "幻影を見せ、ひらりと攻撃をかわす。",
  "kinds": [
   {

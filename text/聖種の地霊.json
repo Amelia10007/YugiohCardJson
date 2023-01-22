@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "千年に１度、聖天樹から獲れる種は、千年の時を経てその土地の守護精霊になると言われている。",
  "kinds": [
   {

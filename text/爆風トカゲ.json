@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "リバース：相手フィールド上のモンスターカードを１枚選択し、持ち主の手札に戻す。",
  "kinds": [
   {

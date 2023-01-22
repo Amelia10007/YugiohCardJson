@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "光",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "フィールド上に表側攻撃表示で存在するこのカードを攻撃したモンスターのコントロールをバトルフェイズ終了時に得る。",
  "kinds": [
   {

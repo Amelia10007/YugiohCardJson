@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "炎",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "ねらいを付けた標的をめがけてどこまでも飛んでゆく意志を持ったブーメラン。",
  "kinds": [
   {

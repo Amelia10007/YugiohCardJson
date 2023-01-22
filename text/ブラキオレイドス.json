@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "水",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "「二頭を持つキング・レックス」＋「屍を貪る竜」",
  "kinds": [
   {

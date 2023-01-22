@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "闇",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードと戦闘を行った光属性モンスターの効果は無効化される。",
  "kinds": [
   {

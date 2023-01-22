@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "このカードを生け贄に捧げる。相手フィールド上でレベル３以下の表側表示モンスター全てのコントロールを得る。",
  "kinds": [
   {

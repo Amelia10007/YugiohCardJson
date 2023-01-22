@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "光",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "このカードが光属性シンクロモンスターのシンクロ召喚に使用され墓地へ送られた場合、自分は１０００ライフポイント回復する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "地",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "このカードは罠の効果を受けない。",
  "kinds": [
   {

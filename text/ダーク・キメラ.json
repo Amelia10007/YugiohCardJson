@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1610",
+ "attack": "1610",
  "attribute": "闇",
- "defence": "DEF 1460",
+ "defence": "1460",
  "description": "魔界に生息するモンスター。闇の炎をはき攻撃する。",
  "kinds": [
   {

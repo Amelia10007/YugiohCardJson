@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "風",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "ぼくたちが壊れちゃうようなケガをしてもだいじょうぶ。デメット爺さんが直してくれるんだ！",
  "kinds": [
   {

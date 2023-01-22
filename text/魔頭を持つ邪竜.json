@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "風",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "もう一つの頭を持つドラゴン。二つの口で敵を噛み砕く。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "武器をいっさい使わず、素手で戦いぬく格闘戦士。",
  "kinds": [
   {

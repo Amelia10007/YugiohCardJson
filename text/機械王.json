@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "フィールド上の表側表示で存在する機械族モンスター１体につき、このカードの攻撃力は１００ポイントアップする。",
  "kinds": [
   {

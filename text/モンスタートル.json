@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "水",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "トゲのついたこうらを身につけたカメ。とても凶暴で人になつかない。",
  "kinds": [
   {

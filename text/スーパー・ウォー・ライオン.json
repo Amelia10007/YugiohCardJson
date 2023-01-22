@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2300",
+ "attack": "2300",
  "attribute": "地",
- "defence": "DEF 2100",
+ "defence": "2100",
  "description": "「ライオンの儀式」により降臨。",
  "kinds": [
   {

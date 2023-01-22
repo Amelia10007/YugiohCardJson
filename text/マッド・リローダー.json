@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "闇",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードが戦闘によって破壊され墓地へ送られた時、自分の手札を２枚墓地に送り、自分のデッキからカードを２枚ドローする。",
  "kinds": [
   {

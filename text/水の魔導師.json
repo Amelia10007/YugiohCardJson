@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "水で相手の周りを囲んで、包むように攻撃をする。",
  "kinds": [
   {

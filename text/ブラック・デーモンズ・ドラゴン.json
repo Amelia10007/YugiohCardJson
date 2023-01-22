@@ -1,7 +1,7 @@
 {
- "attack": "ATK 3200",
+ "attack": "3200",
  "attribute": "闇",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "「デーモンの召喚」＋「真紅眼の黒竜」",
  "kinds": [
   {

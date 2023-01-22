@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "光",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "５００ライフポイントを払う度に、手札またはデッキから「神聖なる球体」１枚を選択し、自分フィールド上に特殊召喚する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "地",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "青々と生い茂る木に囲まれて暮らす。森を治める若き王。",
  "kinds": [
   {

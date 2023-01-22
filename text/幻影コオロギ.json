@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "リバース：フィールド上に裏側表示で存在するモンスター１体を持ち主のデッキの一番上に置く。",
  "kinds": [
   {

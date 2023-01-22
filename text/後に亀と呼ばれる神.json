@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "水",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "このカードがフィールド上に表側表示で存在する限り、お互いに攻撃力１８００以下のモンスターを特殊召喚できない。",
  "kinds": [
   {

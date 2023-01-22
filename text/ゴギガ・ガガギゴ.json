@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2950",
+ "attack": "2950",
  "attribute": "水",
- "defence": "DEF 2800",
+ "defence": "2800",
  "description": "既に精神は崩壊し、肉体は更なるパワーを求めて暴走する。その姿にかつての面影はない…。",
  "kinds": [
   {

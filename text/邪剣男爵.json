@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1550",
+ "attack": "1550",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "怨念のこもった剣を操る貴族。執念深く獲物を追いつめる。",
  "kinds": [
   {

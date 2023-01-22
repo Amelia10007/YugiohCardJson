@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2100",
+ "attack": "2100",
  "attribute": "炎",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "全身が炎に包まれた魔獣。相手を地獄の炎で処刑する。",
  "kinds": [
   {

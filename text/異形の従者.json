@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "光",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードは相手プレイヤーに直接攻撃をする事ができる。",
  "kinds": [
   {

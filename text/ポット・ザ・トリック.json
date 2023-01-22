@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "魔術師の命令通りに動く使い魔。あまり強くない。",
  "kinds": [
   {

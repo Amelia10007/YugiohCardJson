@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "闇",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "「冥界の魔王　ハ・デス」に仕える一つ目の巨人。ツノの攻撃で敵を粉砕する。",
  "kinds": [
   {

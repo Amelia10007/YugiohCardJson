@@ -1,7 +1,7 @@
 {
- "attack": "ATK 550",
+ "attack": "550",
  "attribute": "闇",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "どの家の屋根裏にも潜んでいるもののけ。特にわるさはしない。",
  "kinds": [
   {

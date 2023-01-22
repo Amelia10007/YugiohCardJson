@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "闇",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "このカードがフィールド上に表側表示で存在する限り、お互いにデッキからカードを墓地へ送る事ができない。",
  "kinds": [
   {

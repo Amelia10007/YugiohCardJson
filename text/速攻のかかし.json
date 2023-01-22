@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "地",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "相手モンスターの直接攻撃宣言時、このカードを手札から捨てて発動する。その攻撃を無効にし、バトルフェイズを終了する。",
  "kinds": [
   {

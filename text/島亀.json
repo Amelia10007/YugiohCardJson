@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "水",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "小島ほどの大きさがある巨大ガメ。海中に潜ることはなく、甲羅の上には木や生物が住みついている。",
  "kinds": [
   {

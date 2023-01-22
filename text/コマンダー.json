@@ -1,7 +1,7 @@
 {
- "attack": "ATK 750",
+ "attack": "750",
  "attribute": "闇",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "ロケットランチャーとバズーカ砲を装備した実戦部隊。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "地",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "成長したらどんなムシになるか分からない、小さな幼虫。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "剣術を学んだエルフ。素早い攻撃で敵を翻弄する。",
  "kinds": [
   {

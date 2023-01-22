@@ -1,7 +1,7 @@
 {
- "attack": "ATK 850",
+ "attack": "850",
  "attribute": "地",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "アンデット族以外のモンスターがこのカードを攻撃した場合、そのモンスターは次のターン攻撃宣言をする事ができない。",
  "kinds": [
   {

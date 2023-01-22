@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "王が留守の間、王座を外敵から守る王妃。守備は高い。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "リバース：相手の手札１枚につき４００ポイントダメージを相手ライフに与える。",
  "kinds": [
   {

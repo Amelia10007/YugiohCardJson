@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "氷上の舞姫は華麗なる戦士。必殺アクセル・スライサーで華麗に敵モンスターを切り裂く。",
  "kinds": [
   {

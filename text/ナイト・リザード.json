@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1150",
+ "attack": "1150",
  "attribute": "水",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "海を守る、緑のウロコに身を包むリザードマンの戦士。",
  "kinds": [
   {

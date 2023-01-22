@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "仲の良い北風と太陽。かまいたちと熱光線で攻撃。",
  "kinds": [
   {

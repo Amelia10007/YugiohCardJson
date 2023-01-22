@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "地",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "オノを手にした獣戦士。素早い動きからくり出す攻撃は強い。",
  "kinds": [
   {

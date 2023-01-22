@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "おなかに地獄へ通じる扉があり、召還もできる不気味なモンスター。",
  "kinds": [
   {

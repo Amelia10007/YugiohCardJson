@@ -1,7 +1,7 @@
 {
- "attack": "ATK 3000",
+ "attack": "3000",
  "attribute": "光",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "高い攻撃力を誇る伝説のドラゴン。どんな相手でも粉砕する、その破壊力は計り知れない。",
  "kinds": [
   {

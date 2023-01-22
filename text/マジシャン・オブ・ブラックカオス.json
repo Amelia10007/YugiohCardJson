@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2800",
+ "attack": "2800",
  "attribute": "闇",
- "defence": "DEF 2600",
+ "defence": "2600",
  "description": "「カオス－黒魔術の儀式」により降臨。",
  "kinds": [
   {

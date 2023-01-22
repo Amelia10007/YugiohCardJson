@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1250",
+ "attack": "1250",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "魚に手足が生えた魚人獣。鋭い歯でかみついてくる。",
  "kinds": [
   {

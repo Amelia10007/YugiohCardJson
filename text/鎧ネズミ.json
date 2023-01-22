@@ -1,7 +1,7 @@
 {
- "attack": "ATK 950",
+ "attack": "950",
  "attribute": "地",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "鎧のようにかたい毛で体を守ることができるネズミ。",
  "kinds": [
   {

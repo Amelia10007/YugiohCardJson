@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "数あるビークロイドの中で、最も親しみ深く愛されるビークロイド。補助輪を装備する事もできるぞ！",
  "kinds": [
   {

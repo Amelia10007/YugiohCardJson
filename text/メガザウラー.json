@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "全身にツノの生えた恐竜。突撃攻撃は強烈だ。",
  "kinds": [
   {

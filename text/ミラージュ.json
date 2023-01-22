@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "光",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "手にする鏡から仲間を呼び出すことのできる鳥のけもの。",
  "kinds": [
   {

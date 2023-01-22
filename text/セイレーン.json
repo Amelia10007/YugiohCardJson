@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "光",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "風を操り突風をまきおこし、ありとあらゆる物を吹き飛ばす。",
  "kinds": [
   {

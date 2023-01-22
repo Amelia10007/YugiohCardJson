@@ -1,7 +1,7 @@
 {
- "attack": "ATK 200",
+ "attack": "200",
  "attribute": "水",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "リバース：自分の墓地に存在する「Ｄ（ディフォーマー）」と名のついた魔法または罠カード１枚を選択し、手札に加える。",
  "kinds": [
   {

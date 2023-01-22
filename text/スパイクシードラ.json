@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "水",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "体のトゲを相手に突き刺し、電流を流して攻撃する。",
  "kinds": [
   {

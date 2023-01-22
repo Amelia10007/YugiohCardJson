@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "小さいが性格は凶暴。仲間同士で争い出す。",
  "kinds": [
   {

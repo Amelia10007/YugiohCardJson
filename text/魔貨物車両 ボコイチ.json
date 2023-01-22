@@ -1,7 +1,7 @@
 {
- "attack": "ATK 500",
+ "attack": "500",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "デコイチ専用の貨物車両。どんな物でも運ぶ事ができるが、大抵は到着時に壊れている。",
  "kinds": [
   {

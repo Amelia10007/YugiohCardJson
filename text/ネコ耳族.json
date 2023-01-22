@@ -1,7 +1,7 @@
 {
- "attack": "ATK 200",
+ "attack": "200",
  "attribute": "地",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "相手ターン時のみこのカードと戦闘する相手モンスターの元々の攻撃力はダメージステップ時に２００になる。",
  "kinds": [
   {

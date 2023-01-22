@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "風",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "荒野で荒れ狂う竜巻。風の刃で相手を切り刻む。",
  "kinds": [
   {

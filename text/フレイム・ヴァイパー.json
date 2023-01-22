@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 450",
+ "defence": "450",
  "description": "シュルシュルと素早く動き、口から火炎をはくマムシ。",
  "kinds": [
   {

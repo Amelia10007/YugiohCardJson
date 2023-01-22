@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1350",
+ "attack": "1350",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "１０００年前に飼い主とはぐれてしまった迷犬。未だにご主人の迎えを待ち続けている。",
  "kinds": [
   {

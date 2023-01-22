@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "暗闇の中にとけこむ影。金縛りで敵の動きを封じる。",
  "kinds": [
   {

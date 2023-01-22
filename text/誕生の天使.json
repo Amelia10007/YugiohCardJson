@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "光",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "女性のおなかに命が宿った事を知らせてくれると言われている。",
  "kinds": [
   {

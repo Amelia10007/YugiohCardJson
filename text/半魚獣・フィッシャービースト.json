@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "水",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "陸では獣のように、海では魚のように素早く攻撃する。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1350",
+ "attack": "1350",
  "attribute": "水",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "かなり変わった海ヘビ。大きな口と大きなキバが特徴。",
  "kinds": [
   {

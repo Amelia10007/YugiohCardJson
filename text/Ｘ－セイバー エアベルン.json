@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "このカードが直接攻撃によって相手ライフに戦闘ダメージを与えた時、相手の手札をランダムに１枚捨てる。",
  "kinds": [
   {

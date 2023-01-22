@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "闇",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "このカードが相手モンスターを戦闘で破壊した場合、次の相手ターンのメインフェイズ１をスキップする。",
  "kinds": [
   {

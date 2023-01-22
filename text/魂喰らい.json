@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "全てが謎に包まれている超生命体。",
  "kinds": [
   {

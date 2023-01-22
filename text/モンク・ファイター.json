@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが戦闘を行う事によって受けるコントローラーの戦闘ダメージは０になる。",
  "kinds": [
   {

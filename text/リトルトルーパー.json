@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードが戦闘によって破壊された場合、デッキからレベル２以下の戦士族モンスター１体を裏側守備表示で特殊召喚できる。",
  "kinds": [
   {

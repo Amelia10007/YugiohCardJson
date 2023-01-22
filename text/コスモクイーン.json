@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2900",
+ "attack": "2900",
  "attribute": "闇",
- "defence": "DEF 2450",
+ "defence": "2450",
  "description": "宇宙に存在する、全ての星を統治しているという女王。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "雨を操る精霊。台風を呼び出し、様々なものを吹き飛ばす。",
  "kinds": [
   {

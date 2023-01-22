@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "コンビプレーが得意な戦士。強い磁力を発し、誰にも逃げられない。",
  "kinds": [
   {

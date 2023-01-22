@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "仲間のお墓を守るマンモス。墓荒らしを容赦なく攻撃。",
  "kinds": [
   {

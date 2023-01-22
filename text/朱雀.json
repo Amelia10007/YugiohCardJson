@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "炎",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "「赤き剣のライムンドス」＋「炎の魔神」",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "闇",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "このカードの攻撃力・守備力は、自分の手札の枚数×４００ポイントダウンする。",
  "kinds": [
   {

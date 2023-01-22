@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "機械の国にまつられているという、鋼鉄の巨神像。",
  "kinds": [
   {

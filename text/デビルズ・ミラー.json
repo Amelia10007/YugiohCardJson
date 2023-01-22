@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2100",
+ "attack": "2100",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "「悪魔鏡の儀式」により降臨。\u000a場か手札から、星の数が合計６個以上になるようカードを生け贄に捧げなければならない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "水",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "このカードが墓地へ送られた時、デッキからレベル３の「魔導」と名のついたモンスター１体を手札に加える。",
  "kinds": [
   {

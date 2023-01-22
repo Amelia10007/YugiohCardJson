@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "風",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "「アーメイル」＋「一眼の盾竜」",
  "kinds": [
   {

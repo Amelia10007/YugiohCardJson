@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1850",
+ "attack": "1850",
  "attribute": "風",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "様々なことを知っている天狗。神通力が使えるという。",
  "kinds": [
   {

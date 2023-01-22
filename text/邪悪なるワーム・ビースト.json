@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "自分ターンのエンドフェイズ時、表側表示でフィールド上に存在するこのカードは持ち主の手札に戻る。",
  "kinds": [
   {

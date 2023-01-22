@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "実体と影に分かれて襲ってくる。油断すると挟まれるぞ。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "いわゆるてっぽうユリ。花粉の弾を飛ばし相手を攻撃する。",
  "kinds": [
   {

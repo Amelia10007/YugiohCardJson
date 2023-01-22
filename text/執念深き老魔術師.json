@@ -1,7 +1,7 @@
 {
- "attack": "ATK 450",
+ "attack": "450",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "リバース：相手フィールド上に存在するモンスター１体を破壊する。",
  "kinds": [
   {

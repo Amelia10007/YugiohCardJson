@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "水",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "水の中をユラユラ漂う妖精。水龍を召喚できるらしい。",
  "kinds": [
   {

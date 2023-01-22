@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "風",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "４枚の羽を持つ、鳥の姿をしたドラゴン。刃の羽で攻撃。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "光",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "天気を自由にあやつれる。山の天気が変わりやすいのはこいつのせいだ。",
  "kinds": [
   {

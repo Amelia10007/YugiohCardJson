@@ -1,7 +1,7 @@
 {
- "attack": "ATK ?",
+ "attack": "?",
  "attribute": "炎",
- "defence": "DEF ?",
+ "defence": "?",
  "description": "このカードの攻撃力と守備力は、ゲームから除外されている自分のカードの数×４００ポイントになる。",
  "kinds": [
   {

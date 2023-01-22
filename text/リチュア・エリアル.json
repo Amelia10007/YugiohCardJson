@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "水",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "リバース：自分のデッキから「リチュア」と名のついたモンスター１体を手札に加える事ができる。",
  "kinds": [
   {

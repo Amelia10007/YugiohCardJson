@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2400",
+ "attack": "2400",
  "attribute": "闇",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "真紅の眼を持つ黒竜。怒りの黒き炎はその眼に映る者全てを焼き尽くす。",
  "kinds": [
   {

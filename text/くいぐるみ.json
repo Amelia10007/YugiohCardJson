@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "かわいらしいぬいぐるみと思わせ、チャックの口でガブリとかみつく。",
  "kinds": [
   {

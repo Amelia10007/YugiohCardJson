@@ -1,7 +1,7 @@
 {
- "attack": "ATK 350",
+ "attack": "350",
  "attribute": "風",
- "defence": "DEF 650",
+ "defence": "650",
  "description": "リバース：次のターンのエンドフェイズ終了時まで、相手は魔法カードを発動できない。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "光",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "強力なキャノン砲を装備した、合体能力を持つモンスター。合体と分離を駆使して様々な攻撃を繰り出す。",
  "kinds": [
   {

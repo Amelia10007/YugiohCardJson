@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "炎",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "このカードが自分フィールド上に表側攻撃表示で存在する限り、相手がドローしたカードを確認する事ができる。",
  "kinds": [
   {

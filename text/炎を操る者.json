@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "炎",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "炎の海や炎の壁を自在につくり出し攻撃する。",
  "kinds": [
   {

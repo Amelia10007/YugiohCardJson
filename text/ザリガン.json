@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "水",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "ザリガニが進化したモンスター。大きなハサミで相手の首を狙う。",
  "kinds": [
   {

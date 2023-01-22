@@ -1,7 +1,7 @@
 {
- "attack": "ATK 3000",
+ "attack": "3000",
  "attribute": "地",
- "defence": "DEF 3300",
+ "defence": "3300",
  "description": "「召喚師アレイスター」＋地属性モンスター",
  "kinds": [
   {

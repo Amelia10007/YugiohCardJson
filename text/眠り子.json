@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "子供だが睡魔をあやつり二度と覚めることのない眠りを誘う。",
  "kinds": [
   {

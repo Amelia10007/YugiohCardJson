@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "水",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "チューナー×２",
  "kinds": [
   {

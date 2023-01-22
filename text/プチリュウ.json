@@ -1,7 +1,7 @@
 {
- "attack": "ATK 600",
+ "attack": "600",
  "attribute": "風",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "とても小さなドラゴン。小さなからだをいっぱいに使い攻撃する。",
  "kinds": [
   {

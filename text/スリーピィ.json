@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "しっぽの長いひつじ。しっぽを使い催眠術をかけ、睡魔を誘う。",
  "kinds": [
   {

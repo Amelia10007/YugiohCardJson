@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "水",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "耳のように見える頭についた羽で空を飛ぶ、珍しいペンギン。",
  "kinds": [
   {

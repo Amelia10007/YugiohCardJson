@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "自分の手札が０枚の場合、フィールド上に表側表示で存在するこのカードは戦闘及びカードの効果では破壊されない。",
  "kinds": [
   {

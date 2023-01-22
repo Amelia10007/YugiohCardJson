@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "地",
- "defence": "DEF ?",
+ "defence": "?",
  "description": "このカードの元々の守備力は、自分が除外している岩石族モンスターの数×７００ポイントの数値になる。",
  "kinds": [
   {

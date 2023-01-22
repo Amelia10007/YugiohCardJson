@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "闇",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "かつては公園で遊ぶ普通の犬だったが、暗黒の力により凶暴化してしまった。",
  "kinds": [
   {

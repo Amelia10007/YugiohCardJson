@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2150",
+ "attack": "2150",
  "attribute": "闇",
- "defence": "DEF 1950",
+ "defence": "1950",
  "description": "黒魔術で蘇ったウシの悪魔。壺の中から現れる。",
  "kinds": [
   {

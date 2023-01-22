@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "水",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "水に住んでいる精霊。まわりを霧でつつみこみ視界を奪う。",
  "kinds": [
   {

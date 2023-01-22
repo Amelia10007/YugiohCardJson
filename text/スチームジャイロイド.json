@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "地",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "「ジャイロイド」＋「スチームロイド」",
  "kinds": [
   {

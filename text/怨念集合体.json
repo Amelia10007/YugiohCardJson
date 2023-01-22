@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "闇",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "恨みを持って死んでいった人の意識が集まってできた悪霊。人を襲いその意識をとりこんで巨大化していく。",
  "kinds": [
   {

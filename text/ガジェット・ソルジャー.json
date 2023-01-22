@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "炎",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "戦うために造られた機械の戦士。さびない金属でできている。",
  "kinds": [
   {

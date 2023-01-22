@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "水",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "世にも珍しい七色の魚。捕まえるのはかなり難しい。",
  "kinds": [
   {

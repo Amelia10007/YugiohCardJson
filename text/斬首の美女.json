@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "その美貌とはうらはらに、カタナで数多くの首をはねてきた女。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "水",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "海の王様。かたい甲羅を持ち、口からアワをはいて攻撃する。",
  "kinds": [
   {

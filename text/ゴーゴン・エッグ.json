@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "闇",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "ゴーゴンが産んだ卵。大きな目に映ったものが産まれると言われている。",
  "kinds": [
   {

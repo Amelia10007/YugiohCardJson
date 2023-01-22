@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1550",
+ "attack": "1550",
  "attribute": "光",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "このカードに装備された装備カード１枚につき、このカードの攻撃力は５００ポイントアップする。",
  "kinds": [
   {

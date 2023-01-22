@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "風",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "絵巻のドラゴンが実体化して攻撃する。守備はかなり低い。",
  "kinds": [
   {

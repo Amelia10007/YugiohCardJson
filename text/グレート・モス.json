@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2600",
+ "attack": "2600",
  "attribute": "地",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "「進化の繭」を装備して（自分ターンで数えて）４ターン後の「プチモス」を生け贄に捧げる事で特殊召喚する事ができる。",
  "kinds": [
   {

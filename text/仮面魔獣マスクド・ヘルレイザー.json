@@ -1,7 +1,7 @@
 {
- "attack": "ATK 3200",
+ "attack": "3200",
  "attribute": "闇",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "「仮面魔獣の儀式」により降臨。\u000aフィールドか手札から、レベルが８以上になるようカードを生け贄に捧げなければならない。",
  "kinds": [
   {

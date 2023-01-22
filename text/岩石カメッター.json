@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1450",
+ "attack": "1450",
  "attribute": "水",
- "defence": "DEF 2200",
+ "defence": "2200",
  "description": "全身が岩石でできているカメ。非常に高い守備が特徴。",
  "kinds": [
   {

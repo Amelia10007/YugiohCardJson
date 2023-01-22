@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "相手がモンスターの召喚に成功した時、このカードの攻撃力はエンドフェイズ時まで３００ポイントアップする。",
  "kinds": [
   {

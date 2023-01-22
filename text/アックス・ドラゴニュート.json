@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "闇",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "このカードは攻撃した場合、ダメージステップ終了時に守備表示になる。",
  "kinds": [
   {

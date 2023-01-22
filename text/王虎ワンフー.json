@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが表側表示でフィールド上に存在する限り、召喚・特殊召喚した攻撃力１４００以下のモンスターを破壊する。",
  "kinds": [
   {

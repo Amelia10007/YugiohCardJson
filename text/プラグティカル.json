@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "「トラコドン」＋「フレイム・ヴァイパー」",
  "kinds": [
   {

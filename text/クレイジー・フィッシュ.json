@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "水",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "鋭くとがっている頭の先を突き出して、攻撃してくるトビウオ。",
  "kinds": [
   {

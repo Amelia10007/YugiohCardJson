@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1750",
+ "attack": "1750",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "珍しい女性の魔物使い。ムチを手にすると、性格が変わる。",
  "kinds": [
   {

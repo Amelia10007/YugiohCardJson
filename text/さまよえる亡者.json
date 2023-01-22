@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "成仏できず、行くあてもなくフラフラとしているモンスター。",
  "kinds": [
   {

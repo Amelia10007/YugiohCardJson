@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "大きな右手が特徴のゴーレム。右手で押しつぶして攻撃する。",
  "kinds": [
   {

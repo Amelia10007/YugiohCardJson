@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "闇",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "闇にとけ込む黒のタキシードに身をつつんだ、死を司る悪魔。",
  "kinds": [
   {

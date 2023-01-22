@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2500",
+ "attack": "2500",
  "attribute": "光",
- "defence": "DEF 2300",
+ "defence": "2300",
  "description": "聖なる炎で悪しき者を焼きはらう、神聖な力を持つドラゴン。",
  "kinds": [
   {

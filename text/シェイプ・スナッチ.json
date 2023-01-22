@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 1700",
+ "defence": "1700",
  "description": "恐ろしい力を持つ蝶ネクタイ。何者かの身体を支配し襲いかかる。",
  "kinds": [
   {

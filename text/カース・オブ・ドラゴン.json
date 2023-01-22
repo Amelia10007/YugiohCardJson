@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2000",
+ "attack": "2000",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "邪悪なドラゴン。闇の力を使った攻撃は強力だ。",
  "kinds": [
   {

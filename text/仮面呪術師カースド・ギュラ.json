@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1500",
+ "attack": "1500",
  "attribute": "闇",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "呪いの呪文で相手を念殺する、仮面モンスター。",
  "kinds": [
   {

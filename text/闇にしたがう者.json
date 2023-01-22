@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "闇を崇拝する魔法使い。闇の手を呼び出し暗闇へ引きずり込む。",
  "kinds": [
   {

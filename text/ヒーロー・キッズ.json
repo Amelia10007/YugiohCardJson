@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "このカードが特殊召喚に成功した時、デッキから「ヒーロー・キッズ」を任意の枚数特殊召喚する事ができる。",
  "kinds": [
   {

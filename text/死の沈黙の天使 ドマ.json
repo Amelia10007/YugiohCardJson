@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "闇",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "死を司る天使。こいつに睨まれたら、死から逃れられない。",
  "kinds": [
   {

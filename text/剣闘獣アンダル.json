@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "高い攻撃力で敵を追いつめる、隻眼の戦闘グマ。恐るべきスピードと重さを誇る自慢のパンチを受けて倒れぬ者はいない。",
  "kinds": [
   {

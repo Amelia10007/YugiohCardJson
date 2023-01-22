@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1600",
+ "attack": "1600",
  "attribute": "地",
- "defence": "DEF 200",
+ "defence": "200",
  "description": "あらゆるものをチューニングしてしまう電波系戦士。常にアンテナを張ってはいるものの、感度はそう高くない。",
  "kinds": [
   {

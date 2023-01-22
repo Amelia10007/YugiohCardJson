@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "光",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "雷攻撃は意外と強い。甘く見ると感電するぞ。",
  "kinds": [
   {

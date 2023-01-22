@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "悪魔のツノと翼を持つビーバー。どんぐりを投げつけて攻撃する。",
  "kinds": [
   {

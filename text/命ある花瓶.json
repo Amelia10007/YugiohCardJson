@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 1100",
+ "defence": "1100",
  "description": "生けてある花から、花粉を飛ばし噛みついてくる生きている花瓶。",
  "kinds": [
   {

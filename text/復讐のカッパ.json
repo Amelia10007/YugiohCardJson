@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "仲間を殺され、復讐のために心を悪に売ってしまったカッパ。",
  "kinds": [
   {

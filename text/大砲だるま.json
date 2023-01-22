@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "闇",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "大砲で埋め尽くされているメカだるま。ねらいは外さない。",
  "kinds": [
   {

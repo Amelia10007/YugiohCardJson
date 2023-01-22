@@ -1,7 +1,7 @@
 {
- "attack": "ATK 700",
+ "attack": "700",
  "attribute": "闇",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "敵を呪い、動きを止めることができる魔法使い。",
  "kinds": [
   {

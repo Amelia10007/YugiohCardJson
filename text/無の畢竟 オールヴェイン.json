@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "闇",
- "defence": "DEF 2100",
+ "defence": "2100",
  "description": "通常モンスター×２",
  "kinds": [
   {

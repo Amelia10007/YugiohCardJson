@@ -1,7 +1,7 @@
 {
- "attack": "ATK 850",
+ "attack": "850",
  "attribute": "水",
- "defence": "DEF 700",
+ "defence": "700",
  "description": "ムチのようなしっぽ２本を振り回し攻撃する、水中生物。",
  "kinds": [
   {

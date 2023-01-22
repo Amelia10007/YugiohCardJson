@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1350",
+ "attack": "1350",
  "attribute": "闇",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "このカードの表示形式が守備表示から攻撃表示に変わった時、相手フィールド上のモンスター１体を持ち主の手札に戻す。",
  "kinds": [
   {

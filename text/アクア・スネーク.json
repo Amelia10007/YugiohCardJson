@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1050",
+ "attack": "1050",
  "attribute": "水",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "尾の先についている玉で催眠術をかけ、相手をおぼれさせる。",
  "kinds": [
   {

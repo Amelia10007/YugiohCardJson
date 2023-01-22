@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "炎",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "このカードが守備表示モンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
  "kinds": [
   {

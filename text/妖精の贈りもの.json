@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "誰もが幸せになれるという魔法をふりまきながら飛びまわる。",
  "kinds": [
   {

@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "花の中の女性が毒花粉をまき散らす。近づいてはいけない。",
  "kinds": [
   {

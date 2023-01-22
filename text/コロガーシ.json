@@ -1,7 +1,7 @@
 {
- "attack": "ATK 550",
+ "attack": "550",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "自分の体の何倍も大きなフンを転がし、相手を押しつぶす。",
  "kinds": [
   {

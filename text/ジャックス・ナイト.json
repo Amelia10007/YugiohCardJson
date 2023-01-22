@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "光",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "あらゆる剣術に精通した戦士。とても正義感が強く、弱き者を守るために闘っている。",
  "kinds": [
   {

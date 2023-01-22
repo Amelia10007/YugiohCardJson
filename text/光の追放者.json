@@ -1,7 +1,7 @@
 {
- "attack": "ATK 100",
+ "attack": "100",
  "attribute": "光",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "このカードがフィールド上に表側表示で存在する限り、墓地へ送られるカードは墓地へは行かずゲームから除外される。",
  "kinds": [
   {

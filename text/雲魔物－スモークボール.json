@@ -1,7 +1,7 @@
 {
- "attack": "ATK 200",
+ "attack": "200",
  "attribute": "水",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "小さな小さな雲魔物の子供雲。ひとりぼっちが大嫌いで、仲間たちとそよ風に乗ってゆらゆらと散歩をするのが大好き。",
  "kinds": [
   {

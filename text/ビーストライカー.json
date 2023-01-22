@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1850",
+ "attack": "1850",
  "attribute": "地",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "手札を１枚捨てて発動する。自分のデッキから「モジャ」１体を特殊召喚する。この効果は１ターンに１度しか使用できない。",
  "kinds": [
   {

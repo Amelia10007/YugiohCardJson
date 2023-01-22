@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "闇",
- "defence": "DEF 2350",
+ "defence": "2350",
  "description": "月から来たといわれている、三日月状の刀を持つドラゴン戦士。",
  "kinds": [
   {

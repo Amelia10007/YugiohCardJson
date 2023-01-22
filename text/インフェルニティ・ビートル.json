@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "闇",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "自分の手札が０枚の場合、このカードをリリースする事で自分のデッキから「インフェルニティ・ビートル」を２体まで特殊召喚する。",
  "kinds": [
   {

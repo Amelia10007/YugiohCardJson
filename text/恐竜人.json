@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "地",
- "defence": "DEF 850",
+ "defence": "850",
  "description": "人型の恐竜。高い知能を持つが、あまり強くはない。",
  "kinds": [
   {

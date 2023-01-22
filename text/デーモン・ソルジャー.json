@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "闇",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "デーモンの中でも精鋭だけを集めた部隊に所属する戦闘のエキスパート。与えられた任務を確実にこなす事で有名。",
  "kinds": [
   {

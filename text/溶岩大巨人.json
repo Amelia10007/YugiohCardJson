@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "炎",
- "defence": "DEF 2200",
+ "defence": "2200",
  "description": "マグマの大地から生まれた巨人。マグマパンチで攻撃をする。",
  "kinds": [
   {

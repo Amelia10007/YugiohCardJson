@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "上にも下にも頭がある、気持ち悪いヤツ。口からレーザーを吐く。",
  "kinds": [
   {

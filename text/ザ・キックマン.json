@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1300",
+ "attack": "1300",
  "attribute": "闇",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "このカードが特殊召喚に成功した時、自分の墓地の装備魔法カード１枚をこのカードに装備する事ができる。",
  "kinds": [
   {

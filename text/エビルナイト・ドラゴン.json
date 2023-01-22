@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2350",
+ "attack": "2350",
  "attribute": "闇",
- "defence": "DEF 2400",
+ "defence": "2400",
  "description": "邪悪な騎士の心に宿るドラゴンが実体化したもの。",
  "kinds": [
   {

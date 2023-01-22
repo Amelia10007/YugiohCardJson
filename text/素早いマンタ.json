@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "水",
- "defence": "DEF 100",
+ "defence": "100",
  "description": "フィールド上のこのカードがカードの効果によって墓地へ送られた時、デッキから「素早いマンタ」を任意の数だけ特殊召喚できる。",
  "kinds": [
   {

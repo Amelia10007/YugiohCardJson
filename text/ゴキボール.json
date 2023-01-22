@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "丸いゴキブリ。ゴロゴロ転がって攻撃。守備が意外と高いぞ。",
  "kinds": [
   {

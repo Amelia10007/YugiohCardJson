@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "風",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "空飛ぶ姿を見ると、３つの願い事がかなうといわれている。",
  "kinds": [
   {

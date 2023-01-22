@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2200",
+ "attack": "2200",
  "attribute": "炎",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "ロケットランチャーを乱射して、相手を爆殺する機械グモ。",
  "kinds": [
   {

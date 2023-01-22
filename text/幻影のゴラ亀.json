@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1200",
+ "attack": "1200",
  "attribute": "水",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "フィールド上に表側表示で存在するこのカードを対象とした、相手がコントロールする魔法・罠カードの効果を無効にする。",
  "kinds": [
   {

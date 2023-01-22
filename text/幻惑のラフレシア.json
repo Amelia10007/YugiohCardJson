@@ -1,7 +1,7 @@
 {
- "attack": "ATK 300",
+ "attack": "300",
  "attribute": "地",
- "defence": "DEF 900",
+ "defence": "900",
  "description": "リバース：ターン終了時まで相手フィールド上表側表示モンスター１体のコントロールを得る。",
  "kinds": [
   {

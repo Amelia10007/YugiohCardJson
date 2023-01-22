@@ -1,7 +1,7 @@
 {
- "attack": "ATK 950",
+ "attack": "950",
  "attribute": "水",
- "defence": "DEF 800",
+ "defence": "800",
  "description": "ドロドロ溶けて、水の中を自在に移動できる液体生命体。",
  "kinds": [
   {

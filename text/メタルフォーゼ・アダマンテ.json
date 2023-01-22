@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2500",
+ "attack": "2500",
  "attribute": "炎",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "「メタルフォーゼ」モンスター＋攻撃力２５００以下のモンスター",
  "kinds": [
   {

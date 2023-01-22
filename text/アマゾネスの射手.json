@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "自分のフィールド上モンスター２体を生け贄に捧げる度に、相手ライフに１２００ポイントダメージを与える。",
  "kinds": [
   {

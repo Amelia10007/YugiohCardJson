@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "地",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "「ミスター・ボンバー」＋「二頭を持つキング・レックス」",
  "kinds": [
   {

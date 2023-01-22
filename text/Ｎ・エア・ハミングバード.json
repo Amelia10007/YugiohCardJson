@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "風",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "相手の手札１枚につき、自分は５００ライフポイント回復する。この効果は１ターンに１度しか使用できない。",
  "kinds": [
   {

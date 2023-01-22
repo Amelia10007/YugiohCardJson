@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "光",
- "defence": "DEF 1850",
+ "defence": "1850",
  "description": "このカードがフィールド上に表側表示で存在する限り、お互いは手札を全て公開し続ける。",
  "kinds": [
   {

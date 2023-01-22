@@ -1,7 +1,7 @@
 {
- "attack": "ATK 800",
+ "attack": "800",
  "attribute": "水",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "アメリカンコミックの世界から現れた、ワニのモンスター。",
  "kinds": [
   {

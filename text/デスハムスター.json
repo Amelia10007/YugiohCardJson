@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "リバース：自分のデッキから「デスハムスター」１体を裏側守備表示で特殊召喚する事ができる。",
  "kinds": [
   {

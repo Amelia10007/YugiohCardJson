@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードの攻撃を受けたモンスターが闇属性だった場合、そのモンスターを破壊する。ダメージ計算は適用する。",
  "kinds": [
   {

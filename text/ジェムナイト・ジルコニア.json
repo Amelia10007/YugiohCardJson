@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2900",
+ "attack": "2900",
  "attribute": "地",
- "defence": "DEF 2500",
+ "defence": "2500",
  "description": "「ジェムナイト」と名のついたモンスター＋岩石族モンスター",
  "kinds": [
   {

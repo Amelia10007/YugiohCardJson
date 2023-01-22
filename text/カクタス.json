@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "水",
- "defence": "DEF 1400",
+ "defence": "1400",
  "description": "水中に潜んでいる、得体の知れない格好をしたばけもの。",
  "kinds": [
   {

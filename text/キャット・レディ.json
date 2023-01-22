@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "地",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "素早い動きで攻撃をかわし、鋭いかぎづめで襲いかかる。",
  "kinds": [
   {

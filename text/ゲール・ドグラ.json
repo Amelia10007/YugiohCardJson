@@ -1,7 +1,7 @@
 {
- "attack": "ATK 650",
+ "attack": "650",
  "attribute": "地",
- "defence": "DEF 600",
+ "defence": "600",
  "description": "３０００ライフポイントを払って発動する。自分の融合デッキからモンスター１体を墓地に捨てる。",
  "kinds": [
   {

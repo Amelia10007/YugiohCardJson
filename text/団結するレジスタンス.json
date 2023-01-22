@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1000",
+ "attack": "1000",
  "attribute": "風",
- "defence": "DEF 400",
+ "defence": "400",
  "description": "強大な力に立ち向かう誓いを交わすために集結した人々。革命の日は近い。",
  "kinds": [
   {

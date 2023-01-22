@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1900",
+ "attack": "1900",
  "attribute": "闇",
- "defence": "DEF 0",
+ "defence": "0",
  "description": "レベル４モンスター×２\u000aこのカードのエクシーズ素材を１つ取り除く事で、レベル５以上のモンスターの特殊召喚を無効にし破壊する。",
  "kinds": [
   {

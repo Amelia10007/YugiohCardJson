@@ -1,7 +1,7 @@
 {
- "attack": "ATK 2800",
+ "attack": "2800",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "自分の手札が０枚である限り、相手は魔法カードを発動する事ができない。",
  "kinds": [
   {

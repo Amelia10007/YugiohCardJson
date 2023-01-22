@@ -1,7 +1,7 @@
 {
- "attack": "ATK 400",
+ "attack": "400",
  "attribute": "地",
- "defence": "DEF 500",
+ "defence": "500",
  "description": "このカードは相手プレイヤーを直接攻撃する事ができる。",
  "kinds": [
   {

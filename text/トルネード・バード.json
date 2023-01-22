@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1100",
+ "attack": "1100",
  "attribute": "風",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "リバース：フィールド上の魔法・罠カード２枚を持ち主の手札に戻す。",
  "kinds": [
   {

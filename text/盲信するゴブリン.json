@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "地",
- "defence": "DEF 1500",
+ "defence": "1500",
  "description": "このカードは表側表示でフィールド上に存在する限り、コントロールを変更する事はできない。",
  "kinds": [
   {

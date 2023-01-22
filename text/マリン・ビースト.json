@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1700",
+ "attack": "1700",
  "attribute": "水",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "「水の魔導師」+「ベヒゴン」",
  "kinds": [
   {

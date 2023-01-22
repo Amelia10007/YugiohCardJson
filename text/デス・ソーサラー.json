@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1450",
+ "attack": "1450",
  "attribute": "闇",
- "defence": "DEF 1200",
+ "defence": "1200",
  "description": "死の魔法が得意な魔法使い。闇と契約している。",
  "kinds": [
   {

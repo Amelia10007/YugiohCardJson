@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1800",
+ "attack": "1800",
  "attribute": "地",
- "defence": "DEF 1300",
+ "defence": "1300",
  "description": "森に住む牛の魔人。ツノを突き出し突進して攻撃。",
  "kinds": [
   {

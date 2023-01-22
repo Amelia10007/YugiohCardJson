@@ -1,7 +1,7 @@
 {
- "attack": "ATK 900",
+ "attack": "900",
  "attribute": "地",
- "defence": "DEF 1000",
+ "defence": "1000",
  "description": "マグマの中から生まれたモンスター。ものすごい熱で近づくものは溶ける。",
  "kinds": [
   {

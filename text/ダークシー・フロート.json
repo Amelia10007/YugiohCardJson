@@ -1,7 +1,7 @@
 {
- "attack": "ATK 0",
+ "attack": "0",
  "attribute": "闇",
- "defence": "DEF 300",
+ "defence": "300",
  "description": "フィールド上に存在するこのカードがカードの効果によって破壊され墓地へ送られた時、自分のデッキからカードを１枚ドローする。",
  "kinds": [
   {

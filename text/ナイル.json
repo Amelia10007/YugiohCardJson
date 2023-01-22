@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "水",
- "defence": "DEF 1600",
+ "defence": "1600",
  "description": "全身にハリが生えている魚。腹の下からミサイルを発射。",
  "kinds": [
   {

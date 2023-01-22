@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1400",
+ "attack": "1400",
  "attribute": "風",
- "defence": "DEF 1800",
+ "defence": "1800",
  "description": "このカードは自分のエンドフェイズに１度だけ表示形式を変更する事ができる。",
  "kinds": [
   {

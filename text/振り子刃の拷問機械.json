@@ -1,7 +1,7 @@
 {
- "attack": "ATK 1750",
+ "attack": "1750",
  "attribute": "闇",
- "defence": "DEF 2000",
+ "defence": "2000",
  "description": "大きな振り子の刃で相手をまっぷたつ！恐ろしい拷問機械。",
  "kinds": [
   {
